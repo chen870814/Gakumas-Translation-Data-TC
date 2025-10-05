@@ -35,7 +35,7 @@
     },
     {
       "id": "dearness_event_fktn-008",
-      "name": "讓藤田琴音通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓藤田琴音通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_event_hrnm-001",
@@ -67,7 +67,7 @@
     },
     {
       "id": "dearness_event_hrnm-008",
-      "name": "讓姬崎莉波通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓姬崎莉波通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_event_shro-001",
@@ -99,7 +99,7 @@
     },
     {
       "id": "dearness_event_shro-008",
-      "name": "讓筱澤廣通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓筱澤廣通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_event_ssmk-001",
@@ -131,7 +131,7 @@
     },
     {
       "id": "dearness_event_ssmk-008",
-      "name": "紫雲清夏通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "紫雲清夏通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_normal-mission_fktn-001",
@@ -147,7 +147,7 @@
     },
     {
       "id": "dearness_normal-mission_fktn-004",
-      "name": "讓藤田琴音通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓藤田琴音通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_normal-mission_fktn-005",
@@ -167,7 +167,7 @@
     },
     {
       "id": "dearness_normal-mission_hrnm-004",
-      "name": "讓姬崎莉波通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓姬崎莉波通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_normal-mission_hrnm-005",
@@ -187,7 +187,7 @@
     },
     {
       "id": "dearness_normal-mission_shro-004",
-      "name": "讓筱澤廣通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓筱澤廣通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_normal-mission_shro-005",
@@ -207,7 +207,7 @@
     },
     {
       "id": "dearness_normal-mission_ssmk-004",
-      "name": "讓紫雲清夏通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓紫雲清夏通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_normal-mission_ssmk-005",
@@ -671,7 +671,7 @@
     },
     {
       "id": "mission-box-gasha-event-001-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-box-gasha-event-001-mission_3",
@@ -691,7 +691,7 @@
     },
     {
       "id": "mission-box-gasha-event-002-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-box-gasha-event-002-mission_3",
@@ -711,7 +711,7 @@
     },
     {
       "id": "mission-box-gasha-event-003-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-box-gasha-event-003-mission_3",
@@ -731,7 +731,7 @@
     },
     {
       "id": "mission-box-gasha-event-004-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-box-gasha-event-004-mission_3",
@@ -751,7 +751,7 @@
     },
     {
       "id": "mission-box-gasha-event-005-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-box-gasha-event-005-mission_3",
@@ -771,7 +771,7 @@
     },
     {
       "id": "mission-box-gasha-event-006-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-box-gasha-event-006-mission_3",
@@ -791,7 +791,7 @@
     },
     {
       "id": "mission-box-gasha-event-007-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-box-gasha-event-007-mission_3",
@@ -811,7 +811,7 @@
     },
     {
       "id": "mission-box-gasha-event-015-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-box-gasha-event-015-mission_3",
@@ -831,19 +831,19 @@
     },
     {
       "id": "mission-circle-battle-event-001-mission_2",
-      "name": "挑戰任意舞臺{threshold}次吧"
+      "name": "挑戰任意舞台{threshold}次吧"
     },
     {
       "id": "mission-circle-battle-event-001-mission_3",
-      "name": "在花海咲季的培育中通過{threshold}次最終考試吧"
+      "name": "在花海咲季的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-circle-battle-event-001-mission_4",
-      "name": "在月村手毬的培育中通過{threshold}次最終考試吧"
+      "name": "在月村手毬的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-circle-battle-event-001-mission_5",
-      "name": "在藤田琴音的培育中通過{threshold}次最終考試吧"
+      "name": "在藤田琴音的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_11",
@@ -859,7 +859,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_14",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_15",
@@ -883,7 +883,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_24",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_25",
@@ -907,7 +907,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_34",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_35",
@@ -931,7 +931,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_44",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_45",
@@ -955,7 +955,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_54",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_55",
@@ -979,7 +979,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_64",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_65",
@@ -1003,7 +1003,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_74",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_75",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_76",
-      "name": "通關1次大師最終考試"
+      "name": "通關1次大師期末考試"
     },
     {
       "id": "mission-comeback_daily_release_mission_001-mission_77",
@@ -1055,7 +1055,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_24",
-      "name": "通過最終考試並獲得A以上評價1次吧"
+      "name": "通過期末考試並獲得A以上評價1次吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_25",
@@ -1079,7 +1079,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_34",
-      "name": "通過最終考試並獲得A+以上評價1次吧"
+      "name": "通過期末考試並獲得A+以上評價1次吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_35",
@@ -1195,7 +1195,7 @@
     },
     {
       "id": "mission-daily-incrementproduceclearcount-1",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-daily-incrementpvpratewincount-1",
@@ -1327,7 +1327,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_11",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-003-mission_12",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_21",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-003-mission_22",
@@ -1375,7 +1375,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_31",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-003-mission_32",
@@ -1399,11 +1399,11 @@
     },
     {
       "id": "mission-highscore-event-003-mission_41",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-003-mission_42",
-      "name": "在姬崎莉波或藤田琴音或紫雲清夏的培育中通過{threshold}次最終考試吧"
+      "name": "在姬崎莉波或藤田琴音或紫雲清夏的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-003-mission_43",
@@ -1423,11 +1423,11 @@
     },
     {
       "id": "mission-highscore-event-003-mission_51",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-003-mission_52",
-      "name": "在姬崎莉波或藤田琴音或紫雲清夏的培育中通過{threshold}次最終考試吧"
+      "name": "在姬崎莉波或藤田琴音或紫雲清夏的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-003-mission_53",
@@ -1447,7 +1447,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_11",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-004-mission_12",
@@ -1471,7 +1471,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_21",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-004-mission_22",
@@ -1495,7 +1495,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_31",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-004-mission_32",
@@ -1519,11 +1519,11 @@
     },
     {
       "id": "mission-highscore-event-004-mission_41",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-004-mission_42",
-      "name": "在有村麻央或十王星南的培育中通過{threshold}次最終考試吧"
+      "name": "在有村麻央或十王星南的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-004-mission_43",
@@ -1543,11 +1543,11 @@
     },
     {
       "id": "mission-highscore-event-004-mission_51",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-004-mission_52",
-      "name": "在有村麻央或十王星南的培育中通過{threshold}次最終考試吧"
+      "name": "在有村麻央或十王星南的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscore-event-004-mission_53",
@@ -1567,7 +1567,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_11",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-001-mission_12",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_21",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-001-mission_22",
@@ -1615,7 +1615,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_31",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-001-mission_32",
@@ -1639,11 +1639,11 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_41",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-001-mission_42",
-      "name": "在花海咲季或月村手毬或藤田琴音的培育中通過{threshold}次最終考試吧"
+      "name": "在花海咲季或月村手毬或藤田琴音的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-001-mission_43",
@@ -1663,11 +1663,11 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_51",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-001-mission_52",
-      "name": "在花海咲季或月村手毬或藤田琴音的培育中通過{threshold}次最終考試吧"
+      "name": "在花海咲季或月村手毬或藤田琴音的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-001-mission_53",
@@ -1687,7 +1687,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_11",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-002-mission_12",
@@ -1707,7 +1707,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_21",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-002-mission_22",
@@ -1727,11 +1727,11 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_31",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-002-mission_32",
-      "name": "在紫雲清夏或藤田琴音的培育中通過{threshold}次最終考試吧"
+      "name": "在紫雲清夏或藤田琴音的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-002-mission_33",
@@ -1747,11 +1747,11 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_41",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-002-mission_42",
-      "name": "在紫雲清夏或藤田琴音的培育中通過{threshold}次最終考試吧"
+      "name": "在紫雲清夏或藤田琴音的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-002-mission_43",
@@ -1767,11 +1767,11 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_51",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-002-mission_52",
-      "name": "在紫雲清夏或藤田琴音的培育中通過{threshold}次最終考試吧"
+      "name": "在紫雲清夏或藤田琴音的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-002-mission_53",
@@ -1787,7 +1787,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_11",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_12",
@@ -1807,7 +1807,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_21",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_22",
@@ -1827,11 +1827,11 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_31",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_32",
-      "name": "在筱澤廣或倉本千奈的培育中通過{threshold}次最終考試吧"
+      "name": "在筱澤廣或倉本千奈的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_33",
@@ -1847,11 +1847,11 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_41",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_42",
-      "name": "在筱澤廣或倉本千奈的培育中通過{threshold}次最終考試吧"
+      "name": "在筱澤廣或倉本千奈的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_43",
@@ -1867,11 +1867,11 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_51",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_52",
-      "name": "在筱澤廣或倉本千奈的培育中通過{threshold}次最終考試吧"
+      "name": "在筱澤廣或倉本千奈的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_53",
@@ -1887,7 +1887,7 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_11",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-004-mission_12",
@@ -1907,7 +1907,7 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_21",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-004-mission_22",
@@ -1927,11 +1927,11 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_31",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-004-mission_32",
-      "name": "在藤田琴音或花海佑芽的培育中通過{threshold}次最終考試吧"
+      "name": "在藤田琴音或花海佑芽的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-004-mission_33",
@@ -1947,11 +1947,11 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_41",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-004-mission_42",
-      "name": "在藤田琴音或花海佑芽的培育中通過{threshold}次最終考試吧"
+      "name": "在藤田琴音或花海佑芽的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-004-mission_43",
@@ -1967,11 +1967,11 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_51",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-004-mission_52",
-      "name": "在藤田琴音或花海佑芽的培育中通過{threshold}次最終考試吧"
+      "name": "在藤田琴音或花海佑芽的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-004-mission_53",
@@ -1987,7 +1987,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_11",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-005-mission_12",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_21",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-005-mission_22",
@@ -2027,11 +2027,11 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_31",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-005-mission_32",
-      "name": "在姬崎莉波或有村麻央的培育中通過{threshold}次最終考試吧"
+      "name": "在姬崎莉波或有村麻央的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-005-mission_33",
@@ -2047,11 +2047,11 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_41",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-005-mission_42",
-      "name": "在姬崎莉波或有村麻央的培育中通過{threshold}次最終考試吧"
+      "name": "在姬崎莉波或有村麻央的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-005-mission_43",
@@ -2067,11 +2067,11 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_51",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-005-mission_52",
-      "name": "在姬崎莉波或有村麻央的培育中通過{threshold}次最終考試吧"
+      "name": "在姬崎莉波或有村麻央的培育中通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-highscorerush-event-005-mission_53",
@@ -3411,7 +3411,7 @@
     },
     {
       "id": "mission-normal-incrementproduceclearcount-1",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-normal-incrementproducememorydeckupdatecount-1",
@@ -3447,11 +3447,11 @@
     },
     {
       "id": "mission-normal-linkBandaiNamco-1",
-      "name": "進行數據關聯吧\n※可從菜單 > 數據關聯進行操作"
+      "name": "進行數據關聯吧\n※可從選單 > 數據關聯進行操作"
     },
     {
       "id": "mission-normal-linkBandaiNamco-2",
-      "name": "進行智慧手機版與DMM GAMES版的數據關聯吧\n※可從菜單 > 數據關聯進行操作"
+      "name": "進行智慧手機版與DMM GAMES版的數據關聯吧\n※可從選單 > 數據關聯進行操作"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-amao-1st",
@@ -3675,7 +3675,7 @@
     },
     {
       "id": "mission-panel-mission-2-3",
-      "name": "在最終考試中獲得10次第1名"
+      "name": "在期末考試中獲得10次第1名"
     },
     {
       "id": "mission-panel-mission-2-4",
@@ -3891,7 +3891,7 @@
     },
     {
       "id": "mission-research-event-001-mission_2",
-      "name": "讓方案：異類的培育用偶像取得{threshold}次最終考試合格吧"
+      "name": "讓方案：異類的培育用偶像取得{threshold}次期末考試合格吧"
     },
     {
       "id": "mission-research-event-001-mission_3",
@@ -3911,7 +3911,7 @@
     },
     {
       "id": "mission-story-event-001-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-story-event-001-mission_3",
@@ -3935,7 +3935,7 @@
     },
     {
       "id": "mission-story-event-002-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-story-event-002-mission_3",
@@ -3959,7 +3959,7 @@
     },
     {
       "id": "mission-story-event-003-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-story-event-003-mission_3",
@@ -3983,7 +3983,7 @@
     },
     {
       "id": "mission-story-event-004-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-story-event-004-mission_3",
@@ -4007,7 +4007,7 @@
     },
     {
       "id": "mission-story-event-006-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-story-event-006-mission_3",
@@ -4031,7 +4031,7 @@
     },
     {
       "id": "mission-story-event-007-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-story-event-007-mission_3",
@@ -4055,7 +4055,7 @@
     },
     {
       "id": "mission-story-event-008-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-story-event-008-mission_3",
@@ -4079,7 +4079,7 @@
     },
     {
       "id": "mission-story-event-013-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-story-event-013-mission_3",
@@ -4103,7 +4103,7 @@
     },
     {
       "id": "mission-tour-event-001-mission_2",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-tour-event-001-mission_3",
@@ -4111,15 +4111,15 @@
     },
     {
       "id": "mission-tour-event-001-mission_4",
-      "name": "在巡演活動中挑戰並通關應援共鳴Lv1以上的舞臺{threshold}次吧"
+      "name": "在巡演活動中挑戰並通關應援共鳴Lv1以上的舞台{threshold}次吧"
     },
     {
       "id": "mission-tour-event-001-mission_5",
-      "name": "在巡演活動中挑戰並通關應援共鳴Lv2以上的舞臺{threshold}次吧"
+      "name": "在巡演活動中挑戰並通關應援共鳴Lv2以上的舞台{threshold}次吧"
     },
     {
       "id": "mission-tour-event-001-mission_6",
-      "name": "在巡演活動中挑戰並通關應援共鳴Lv3以上的舞臺{threshold}次吧"
+      "name": "在巡演活動中挑戰並通關應援共鳴Lv3以上的舞台{threshold}次吧"
     },
     {
       "id": "mission-tour-event-001-mission_7",
@@ -4139,7 +4139,7 @@
     },
     {
       "id": "mission-weekly-incrementproduceclearcount-1",
-      "name": "通過{threshold}次最終考試吧"
+      "name": "通過{threshold}次期末考試吧"
     },
     {
       "id": "mission-weekly-incrementpvpratewincount-1",
@@ -4167,7 +4167,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_13",
-      "name": "在最終考試中獲得5次第1名"
+      "name": "在期末考試中獲得5次第1名"
     },
     {
       "id": "panel_mission-event-002-mission_14",
@@ -4275,7 +4275,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_13",
-      "name": "在最終考試中獲得5次第1名"
+      "name": "在期末考試中獲得5次第1名"
     },
     {
       "id": "panel_mission-event-004-mission_14",
@@ -4347,7 +4347,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_13",
-      "name": "在最終考試中獲得5次第1名"
+      "name": "在期末考試中獲得5次第1名"
     },
     {
       "id": "panel_mission-event-006-mission_14",
@@ -4407,15 +4407,15 @@
     },
     {
       "id": "panel_mission-event-niv-mission_1",
-      "name": "以B+以上分數通過{threshold}次最終考試吧"
+      "name": "以B+以上分數通過{threshold}次期末考試吧"
     },
     {
       "id": "panel_mission-event-niv-mission_2",
-      "name": "以A以上分數通過{threshold}次最終考試吧"
+      "name": "以A以上分數通過{threshold}次期末考試吧"
     },
     {
       "id": "panel_mission-event-niv-mission_3",
-      "name": "以A+以上分數通過{threshold}次最終考試吧"
+      "name": "以A+以上分數通過{threshold}次期末考試吧"
     },
     {
       "id": "panel_mission-event-niv-mission_4",
@@ -4467,7 +4467,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-001-01",
-      "name": "【與你共度的湛藍夏日】有村麻央的培育中通過最終考試"
+      "name": "【與你共度的湛藍夏日】有村麻央的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-amao-3-001-02",
@@ -4491,7 +4491,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-002-01",
-      "name": "【Feel Jewel Dream】有村麻央的培育中通過最終考試"
+      "name": "【Feel Jewel Dream】有村麻央的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-amao-3-002-02",
@@ -4515,7 +4515,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-007-01",
-      "name": "【Campus mode!!】有村麻央的培育中通過最終考試"
+      "name": "【Campus mode!!】有村麻央的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-amao-3-007-02",
@@ -4539,7 +4539,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-009-01",
-      "name": "【雪融之時】有村麻央的培育中通過最終考試"
+      "name": "【雪融之時】有村麻央的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-amao-3-009-02",
@@ -4563,7 +4563,7 @@
     },
     {
       "id": "achieve-i_card-amao-3-013-01",
-      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】有村麻央的培育中通過最終考試"
+      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】有村麻央的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-amao-3-013-02",
@@ -4611,7 +4611,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-001-01",
-      "name": "【Yellow Big Bang！】藤田琴音的培育中通過最終考試"
+      "name": "【Yellow Big Bang！】藤田琴音的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-fktn-3-001-02",
@@ -4635,7 +4635,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-002-01",
-      "name": "【冠菊】藤田琴音的培育中通過最終考試"
+      "name": "【冠菊】藤田琴音的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-fktn-3-002-02",
@@ -4659,7 +4659,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-006-01",
-      "name": "【White Night！ White Wish！】藤田琴音的培育中通過最終考試"
+      "name": "【White Night！ White Wish！】藤田琴音的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-fktn-3-006-02",
@@ -4683,7 +4683,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-007-01",
-      "name": "【Campus mode!!】藤田琴音的培育中通過最終考試"
+      "name": "【Campus mode!!】藤田琴音的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-fktn-3-007-02",
@@ -4707,7 +4707,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-011-01",
-      "name": "【雨後的鳶尾花】藤田琴音的培育中通過最終考試"
+      "name": "【雨後的鳶尾花】藤田琴音的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-fktn-3-011-02",
@@ -4731,7 +4731,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-013-01",
-      "name": "【自我肯定感爆棚↑↑超愛琴音之歌】藤田琴音的培育中通過最終考試"
+      "name": "【自我肯定感爆棚↑↑超愛琴音之歌】藤田琴音的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-fktn-3-013-02",
@@ -4755,7 +4755,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-2-000-01",
-      "name": "【慢慢地，一步一步來】秦谷美鈴的培育中通過最終考試"
+      "name": "【慢慢地，一步一步來】秦谷美鈴的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-02",
@@ -4779,7 +4779,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-000-01",
-      "name": "【月之龜】秦谷美鈴的培育中通過最終考試"
+      "name": "【月之龜】秦谷美鈴的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hmsz-3-000-02",
@@ -4803,7 +4803,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-005-01",
-      "name": "【Campus mode!!】秦谷美鈴的培育中通過最終考試"
+      "name": "【Campus mode!!】秦谷美鈴的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hmsz-3-005-02",
@@ -4827,7 +4827,7 @@
     },
     {
       "id": "achieve-i_card-hmsz-3-010-01",
-      "name": "【Star-mine】秦谷美鈴的培育中通過最終考試"
+      "name": "【Star-mine】秦谷美鈴的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hmsz-3-010-02",
@@ -4875,7 +4875,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-001-01",
-      "name": "【與你共度的湛藍夏日】姬崎莉波的培育中通過最終考試"
+      "name": "【與你共度的湛藍夏日】姬崎莉波的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-001-02",
@@ -4899,7 +4899,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-002-01",
-      "name": "【L.U.V】姬崎莉波的培育中通過最終考試"
+      "name": "【L.U.V】姬崎莉波的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-002-02",
@@ -4923,7 +4923,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-004-01",
-      "name": "【歡迎來到初星溫泉】姬崎莉波的培育中通過最終考試"
+      "name": "【歡迎來到初星溫泉】姬崎莉波的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-004-02",
@@ -4947,7 +4947,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-007-01",
-      "name": "【Campus mode!!】姬崎莉波的培育中通過最終考試"
+      "name": "【Campus mode!!】姬崎莉波的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-007-02",
@@ -4971,7 +4971,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-008-01",
-      "name": "【幸福千層酥】姬崎莉波的培育中通過最終考試"
+      "name": "【幸福千層酥】姬崎莉波的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-008-02",
@@ -4995,7 +4995,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-012-01",
-      "name": "【Howling over the World】姬崎莉波的培育中通過最終考試"
+      "name": "【Howling over the World】姬崎莉波的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-012-02",
@@ -5019,7 +5019,7 @@
     },
     {
       "id": "achieve-i_card-hrnm-3-013-01",
-      "name": "【36℃ U･B･U】姬崎莉波的培育中通過最終考試"
+      "name": "【36℃ U･B･U】姬崎莉波的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hrnm-3-013-02",
@@ -5067,7 +5067,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-001-01",
-      "name": "【Boom Boom Pow】花海咲季的培育中通過最終考試"
+      "name": "【Boom Boom Pow】花海咲季的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hski-3-001-02",
@@ -5091,7 +5091,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-002-01",
-      "name": "【冠菊】花海咲季的培育中通過最終考試"
+      "name": "【冠菊】花海咲季的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hski-3-002-02",
@@ -5115,7 +5115,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-006-01",
-      "name": "【何時何地簡簡單單】花海咲季的培育中通過最終考試"
+      "name": "【何時何地簡簡單單】花海咲季的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hski-3-006-02",
@@ -5139,7 +5139,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-008-01",
-      "name": "【Campus mode!!】花海咲季的培育中通過最終考試"
+      "name": "【Campus mode!!】花海咲季的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hski-3-008-02",
@@ -5163,7 +5163,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-011-01",
-      "name": "【櫻花相簿】花海咲季的培育中通過最終考試"
+      "name": "【櫻花相簿】花海咲季的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hski-3-011-02",
@@ -5187,7 +5187,7 @@
     },
     {
       "id": "achieve-i_card-hski-3-012-01",
-      "name": "【雨後的鳶尾花】花海咲季的培育中通過最終考試"
+      "name": "【雨後的鳶尾花】花海咲季的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hski-3-012-02",
@@ -5211,7 +5211,7 @@
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
-      "name": "【偶像，開始！】花海佑芽的培育中通過最終考試"
+      "name": "【偶像，開始！】花海佑芽的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hume-2-000-02",
@@ -5235,7 +5235,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-000-01",
-      "name": "【The Rolling Riceball】花海佑芽的培育中通過最終考試"
+      "name": "【The Rolling Riceball】花海佑芽的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hume-3-000-02",
@@ -5259,7 +5259,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-005-01",
-      "name": "【White Night！ White Wish！】花海佑芽的培育中通過最終考試"
+      "name": "【White Night！ White Wish！】花海佑芽的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hume-3-005-02",
@@ -5283,7 +5283,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-006-01",
-      "name": "【Campus mode!!】花海佑芽的培育中通過最終考試"
+      "name": "【Campus mode!!】花海佑芽的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hume-3-006-02",
@@ -5307,7 +5307,7 @@
     },
     {
       "id": "achieve-i_card-hume-3-012-01",
-      "name": "【Star-mine】花海佑芽的培育中通過最終考試"
+      "name": "【Star-mine】花海佑芽的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-hume-3-012-02",
@@ -5331,7 +5331,7 @@
     },
     {
       "id": "achieve-i_card-jsna-2-000-01",
-      "name": "【一番星】十王星南的培育中通過最終考試"
+      "name": "【一番星】十王星南的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-jsna-2-000-02",
@@ -5355,7 +5355,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-000-01",
-      "name": "【小小的野心】十王星南的培育中通過最終考試"
+      "name": "【小小的野心】十王星南的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-jsna-3-000-02",
@@ -5379,7 +5379,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-002-01",
-      "name": "【Campus mode!!】十王星南的培育中通過最終考試"
+      "name": "【Campus mode!!】十王星南的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-jsna-3-002-02",
@@ -5403,7 +5403,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-003-01",
-      "name": "【幸福千層酥】十王星南的培育中通過最終考試"
+      "name": "【幸福千層酥】十王星南的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-jsna-3-003-02",
@@ -5427,7 +5427,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-006-01",
-      "name": "【Our Chant】十王星南的培育中通過最終考試"
+      "name": "【Our Chant】十王星南的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-jsna-3-006-02",
@@ -5451,7 +5451,7 @@
     },
     {
       "id": "achieve-i_card-jsna-3-011-01",
-      "name": "【Star-mine】十王星南的培育中通過最終考試"
+      "name": "【Star-mine】十王星南的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-jsna-3-011-02",
@@ -5499,7 +5499,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-001-01",
-      "name": "【每天、都有新發現！】倉本千奈的培育中通過最終考試"
+      "name": "【每天、都有新發現！】倉本千奈的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kcna-3-001-02",
@@ -5523,7 +5523,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-002-01",
-      "name": "【變裝狂想曲】倉本千奈的培育中通過最終考試"
+      "name": "【變裝狂想曲】倉本千奈的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kcna-3-002-02",
@@ -5547,7 +5547,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-005-01",
-      "name": "【歡迎來到初星溫泉】倉本千奈的培育中通過最終考試"
+      "name": "【歡迎來到初星溫泉】倉本千奈的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kcna-3-005-02",
@@ -5571,7 +5571,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-007-01",
-      "name": "【Campus mode!!】倉本千奈的培育中通過最終考試"
+      "name": "【Campus mode!!】倉本千奈的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kcna-3-007-02",
@@ -5595,7 +5595,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-009-01",
-      "name": "【雪融之時】倉本千奈的培育中通過最終考試"
+      "name": "【雪融之時】倉本千奈的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kcna-3-009-02",
@@ -5619,7 +5619,7 @@
     },
     {
       "id": "achieve-i_card-kcna-3-012-01",
-      "name": "【Howling over the World】倉本千奈的培育中通過最終考試"
+      "name": "【Howling over the World】倉本千奈的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kcna-3-012-02",
@@ -5667,7 +5667,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-001-01",
-      "name": "【冠菊】葛城莉莉婭的培育中通過最終考試"
+      "name": "【冠菊】葛城莉莉婭的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kllj-3-001-02",
@@ -5691,7 +5691,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-005-01",
-      "name": "【White Night！ White Wish！】葛城莉莉婭的培育中通過最終考試"
+      "name": "【White Night！ White Wish！】葛城莉莉婭的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kllj-3-005-02",
@@ -5715,7 +5715,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-006-01",
-      "name": "【Campus mode!!】葛城莉莉婭的培育中通過最終考試"
+      "name": "【Campus mode!!】葛城莉莉婭的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kllj-3-006-02",
@@ -5739,7 +5739,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-008-01",
-      "name": "【極光】葛城莉莉婭的培育中通過最終考試"
+      "name": "【極光】葛城莉莉婭的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kllj-3-008-02",
@@ -5763,7 +5763,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-010-01",
-      "name": "【櫻花相簿】葛城莉莉婭的培育中通過最終考試"
+      "name": "【櫻花相簿】葛城莉莉婭的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kllj-3-010-02",
@@ -5787,7 +5787,7 @@
     },
     {
       "id": "achieve-i_card-kllj-3-012-01",
-      "name": "【Howling over the World】葛城莉莉婭的培育中通過最終考試"
+      "name": "【Howling over the World】葛城莉莉婭的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-kllj-3-012-02",
@@ -5835,7 +5835,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-001-01",
-      "name": "【反差】筱澤廣的培育中通過最終考試"
+      "name": "【反差】筱澤廣的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-shro-3-001-02",
@@ -5859,7 +5859,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-002-01",
-      "name": "【變裝狂想曲】筱澤廣的培育中通過最終考試"
+      "name": "【變裝狂想曲】筱澤廣的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-shro-3-002-02",
@@ -5883,7 +5883,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-007-01",
-      "name": "【Campus mode!!】筱澤廣的培育中通過最終考試"
+      "name": "【Campus mode!!】筱澤廣的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-shro-3-007-02",
@@ -5907,7 +5907,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-008-01",
-      "name": "【幸福千層酥】筱澤廣的培育中通過最終考試"
+      "name": "【幸福千層酥】筱澤廣的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-shro-3-008-02",
@@ -5931,7 +5931,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-012-01",
-      "name": "【褪色】筱澤廣的培育中通過最終考試"
+      "name": "【褪色】筱澤廣的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-shro-3-012-02",
@@ -5955,7 +5955,7 @@
     },
     {
       "id": "achieve-i_card-shro-3-014-01",
-      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的培育中通過最終考試"
+      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-shro-3-014-02",
@@ -6003,7 +6003,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-001-01",
-      "name": "【與你共度的湛藍夏日】紫雲清夏的培育中通過最終考試"
+      "name": "【與你共度的湛藍夏日】紫雲清夏的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-001-02",
@@ -6027,7 +6027,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-002-01",
-      "name": "【隱藏的我】紫雲清夏的培育中通過最終考試"
+      "name": "【隱藏的我】紫雲清夏的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-002-02",
@@ -6051,7 +6051,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-007-01",
-      "name": "【Campus mode!!】紫雲清夏的培育中通過最終考試"
+      "name": "【Campus mode!!】紫雲清夏的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-007-02",
@@ -6075,7 +6075,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-010-01",
-      "name": "【櫻花相簿】紫雲清夏的培育中通過最終考試"
+      "name": "【櫻花相簿】紫雲清夏的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-010-02",
@@ -6099,7 +6099,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-012-01",
-      "name": "【Love & Joy】紫雲清夏的培育中通過最終考試"
+      "name": "【Love & Joy】紫雲清夏的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-012-02",
@@ -6123,7 +6123,7 @@
     },
     {
       "id": "achieve-i_card-ssmk-3-014-01",
-      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】紫雲清夏的培育中通過最終考試"
+      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】紫雲清夏的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ssmk-3-014-02",
@@ -6171,7 +6171,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-001-01",
-      "name": "【常春藤】月村手毬的培育中通過最終考試"
+      "name": "【常春藤】月村手毬的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-001-02",
@@ -6195,7 +6195,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-002-01",
-      "name": "【變裝狂想曲】月村手毬的培育中通過最終考試"
+      "name": "【變裝狂想曲】月村手毬的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-002-02",
@@ -6219,7 +6219,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-007-01",
-      "name": "【Campus mode!!】月村手毬的培育中通過最終考試"
+      "name": "【Campus mode!!】月村手毬的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-007-02",
@@ -6243,7 +6243,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-009-01",
-      "name": "【雪融之時】月村手毬的培育中通過最終考試"
+      "name": "【雪融之時】月村手毬的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-009-02",
@@ -6267,7 +6267,7 @@
     },
     {
       "id": "achieve-i_card-ttmr-3-011-01",
-      "name": "【雨後的鳶尾花】月村手毬的培育中通過最終考試"
+      "name": "【雨後的鳶尾花】月村手毬的培育中通過期末考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-011-02",
@@ -6511,23 +6511,23 @@
     },
     {
       "id": "achieve-p_common-019",
-      "name": "以B以上評價通過{threshold}次最終考試"
+      "name": "以B以上評價通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_common-020",
-      "name": "以A以上評價通過{threshold}次最終考試"
+      "name": "以A以上評價通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_common-021",
-      "name": "以A+以上評價通過{threshold}次最終考試"
+      "name": "以A+以上評價通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_common-022",
-      "name": "以S以上評價通過{threshold}次最終考試"
+      "name": "以S以上評價通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_common-023",
-      "name": "以S+以上評價通過{threshold}次最終考試"
+      "name": "以S+以上評價通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_common-024",
@@ -6539,15 +6539,15 @@
     },
     {
       "id": "achieve-p_common-026",
-      "name": "以SS以上評價通過{threshold}次最終考試"
+      "name": "以SS以上評價通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_common-027",
-      "name": "以SS+以上評價通過{threshold}次最終考試"
+      "name": "以SS+以上評價通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_common-028",
-      "name": "以SSS以上評價通過{threshold}次最終考試"
+      "name": "以SSS以上評價通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-amao-000",
@@ -6571,15 +6571,15 @@
     },
     {
       "id": "achieve-p_idol-amao-004",
-      "name": "使用有村麻央通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用有村麻央通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-amao-005",
-      "name": "使用有村麻央通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用有村麻央通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-amao-006",
-      "name": "使用有村麻央通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用有村麻央通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-amao-007",
@@ -6591,7 +6591,7 @@
     },
     {
       "id": "achieve-p_idol-amao-009",
-      "name": "在有村麻央的培育中通過{threshold}次最終考試"
+      "name": "在有村麻央的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-amao-010",
@@ -6619,11 +6619,11 @@
     },
     {
       "id": "achieve-p_idol-amao-016",
-      "name": "使用有村麻央通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "使用有村麻央通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-amao-017",
-      "name": "在有村麻央的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在有村麻央的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-amao-018",
@@ -6635,11 +6635,11 @@
     },
     {
       "id": "achieve-p_idol-amao-020",
-      "name": "使用有村麻央通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "使用有村麻央通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-amao-021",
-      "name": "使用有村麻央通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用有村麻央通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-amao-022",
@@ -6647,7 +6647,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
-      "name": "【始於帥氣】有村麻央的培育中通過最終考試"
+      "name": "【始於帥氣】有村麻央的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-amao-002-2",
@@ -6659,7 +6659,7 @@
     },
     {
       "id": "achieve-p_idol-card-amao-003-1",
-      "name": "【Fluorite】有村麻央的培育中通過最終考試"
+      "name": "【Fluorite】有村麻央的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-amao-003-2",
@@ -6671,7 +6671,7 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-002-1",
-      "name": "【可愛♡開始啦】藤田琴音的培育中通過最終考試"
+      "name": "【可愛♡開始啦】藤田琴音的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-fktn-002-2",
@@ -6683,7 +6683,7 @@
     },
     {
       "id": "achieve-p_idol-card-fktn-003-1",
-      "name": "【世界第一可愛的我】藤田琴音的培育中通過最終考試"
+      "name": "【世界第一可愛的我】藤田琴音的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-fktn-003-2",
@@ -6695,7 +6695,7 @@
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-1",
-      "name": "【『我的風格』的開始】姬崎莉波的培育中通過最終考試"
+      "name": "【『我的風格』的開始】姬崎莉波的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-hrnm-002-2",
@@ -6707,7 +6707,7 @@
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-1",
-      "name": "【clumsy trick】姬崎莉波的培育中通過最終考試"
+      "name": "【clumsy trick】姬崎莉波的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-hrnm-003-2",
@@ -6719,7 +6719,7 @@
     },
     {
       "id": "achieve-p_idol-card-hski-002-1",
-      "name": "【我是第一名！】花海咲季的培育中通過最終考試"
+      "name": "【我是第一名！】花海咲季的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-hski-002-2",
@@ -6731,7 +6731,7 @@
     },
     {
       "id": "achieve-p_idol-card-hski-003-1",
-      "name": "【Fighting My Way】花海咲季的培育中通過最終考試"
+      "name": "【Fighting My Way】花海咲季的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-hski-003-2",
@@ -6743,7 +6743,7 @@
     },
     {
       "id": "achieve-p_idol-card-kcna-002-1",
-      "name": "【挺起胸膛一步步前進】倉本千奈的培育中通過最終考試"
+      "name": "【挺起胸膛一步步前進】倉本千奈的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-kcna-002-2",
@@ -6755,7 +6755,7 @@
     },
     {
       "id": "achieve-p_idol-card-kcna-003-1",
-      "name": "【Wonder Scale】倉本千奈的培育中通過最終考試"
+      "name": "【Wonder Scale】倉本千奈的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-kcna-003-2",
@@ -6767,7 +6767,7 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-002-1",
-      "name": "【邁出第一步的前方】葛城莉莉婭的培育中通過最終考試"
+      "name": "【邁出第一步的前方】葛城莉莉婭的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-kllj-002-2",
@@ -6779,7 +6779,7 @@
     },
     {
       "id": "achieve-p_idol-card-kllj-003-1",
-      "name": "【白線】葛城莉莉婭的培育中通過最終考試"
+      "name": "【白線】葛城莉莉婭的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-kllj-003-2",
@@ -6791,7 +6791,7 @@
     },
     {
       "id": "achieve-p_idol-card-shro-002-1",
-      "name": "【最不適合的事】筱澤廣的培育中通過最終考試"
+      "name": "【最不適合的事】筱澤廣的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-shro-002-2",
@@ -6803,7 +6803,7 @@
     },
     {
       "id": "achieve-p_idol-card-shro-003-1",
-      "name": "【光景】筱澤廣的培育中通過最終考試"
+      "name": "【光景】筱澤廣的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-shro-003-2",
@@ -6815,7 +6815,7 @@
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-1",
-      "name": "【爲了夢想的再出發】紫雲清夏的培育中通過最終考試"
+      "name": "【爲了夢想的再出發】紫雲清夏的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-2",
@@ -6827,7 +6827,7 @@
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-1",
-      "name": "【Tame-Lie-One-Step】紫雲清夏的培育中通過最終考試"
+      "name": "【Tame-Lie-One-Step】紫雲清夏的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-ssmk-003-2",
@@ -6839,7 +6839,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-1",
-      "name": "【一匹狼】月村手毬的培育中通過最終考試"
+      "name": "【一匹狼】月村手毬的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-ttmr-002-2",
@@ -6851,7 +6851,7 @@
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-1",
-      "name": "【Luna say maybe】月村手毬的培育中通過最終考試"
+      "name": "【Luna say maybe】月村手毬的培育中通過期末考試"
     },
     {
       "id": "achieve-p_idol-card-ttmr-003-2",
@@ -6883,15 +6883,15 @@
     },
     {
       "id": "achieve-p_idol-fktn-004",
-      "name": "使用藤田琴音通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用藤田琴音通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-fktn-005",
-      "name": "使用藤田琴音通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用藤田琴音通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-fktn-006",
-      "name": "使用藤田琴音通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用藤田琴音通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-fktn-007",
@@ -6903,7 +6903,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-009",
-      "name": "在藤田琴音的培育中通過{threshold}次最終考試"
+      "name": "在藤田琴音的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-fktn-010",
@@ -6931,11 +6931,11 @@
     },
     {
       "id": "achieve-p_idol-fktn-016",
-      "name": "使用藤田琴音通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "使用藤田琴音通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-fktn-017",
-      "name": "在藤田琴音的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在藤田琴音的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-fktn-018",
@@ -6947,11 +6947,11 @@
     },
     {
       "id": "achieve-p_idol-fktn-020",
-      "name": "使用藤田琴音通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "使用藤田琴音通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-fktn-021",
-      "name": "使用藤田琴音通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用藤田琴音通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-fktn-022",
@@ -6979,15 +6979,15 @@
     },
     {
       "id": "achieve-p_idol-hmsz-004",
-      "name": "使用秦谷美鈴通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用秦谷美鈴通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-hmsz-005",
-      "name": "使用秦谷美鈴通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用秦谷美鈴通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-hmsz-006",
-      "name": "使用秦谷美鈴通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用秦谷美鈴通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-hmsz-007",
@@ -6999,7 +6999,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-009",
-      "name": "在秦谷美鈴的培育中通過{threshold}次最終考試"
+      "name": "在秦谷美鈴的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-hmsz-010",
@@ -7027,11 +7027,11 @@
     },
     {
       "id": "achieve-p_idol-hmsz-016",
-      "name": "在秦谷美鈴的培育中通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "在秦谷美鈴的培育中通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-hmsz-017",
-      "name": "在秦谷美鈴的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在秦谷美鈴的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-hmsz-018",
@@ -7043,11 +7043,11 @@
     },
     {
       "id": "achieve-p_idol-hmsz-020",
-      "name": "在秦谷美鈴的培育中通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "在秦谷美鈴的培育中通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-hmsz-021",
-      "name": "使用秦谷美鈴通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用秦谷美鈴通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-hrnm-000",
@@ -7071,15 +7071,15 @@
     },
     {
       "id": "achieve-p_idol-hrnm-004",
-      "name": "使用姬崎莉波通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用姬崎莉波通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-hrnm-005",
-      "name": "使用姬崎莉波通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用姬崎莉波通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-hrnm-006",
-      "name": "使用姬崎莉波通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用姬崎莉波通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-hrnm-007",
@@ -7091,7 +7091,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-009",
-      "name": "在姬崎莉波的培育中通過{threshold}次最終考試"
+      "name": "在姬崎莉波的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-hrnm-010",
@@ -7119,11 +7119,11 @@
     },
     {
       "id": "achieve-p_idol-hrnm-016",
-      "name": "使用姬崎莉波通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "使用姬崎莉波通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-hrnm-017",
-      "name": "在姬崎莉波的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在姬崎莉波的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-hrnm-018",
@@ -7135,11 +7135,11 @@
     },
     {
       "id": "achieve-p_idol-hrnm-020",
-      "name": "使用姬崎莉波通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "使用姬崎莉波通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-hrnm-021",
-      "name": "使用姬崎莉波通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用姬崎莉波通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-hrnm-022",
@@ -7167,15 +7167,15 @@
     },
     {
       "id": "achieve-p_idol-hski-004",
-      "name": "使用花海咲季通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用花海咲季通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-hski-005",
-      "name": "使用花海咲季通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用花海咲季通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-hski-006",
-      "name": "使用花海咲季通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用花海咲季通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-hski-007",
@@ -7187,7 +7187,7 @@
     },
     {
       "id": "achieve-p_idol-hski-009",
-      "name": "在花海咲季的培育中通過{threshold}次最終考試"
+      "name": "在花海咲季的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-hski-010",
@@ -7215,11 +7215,11 @@
     },
     {
       "id": "achieve-p_idol-hski-016",
-      "name": "使用花海咲季通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "使用花海咲季通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-hski-017",
-      "name": "在花海咲季的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在花海咲季的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-hski-018",
@@ -7231,11 +7231,11 @@
     },
     {
       "id": "achieve-p_idol-hski-020",
-      "name": "使用花海咲季通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "使用花海咲季通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-hski-021",
-      "name": "使用花海咲季通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用花海咲季通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-hski-022",
@@ -7263,15 +7263,15 @@
     },
     {
       "id": "achieve-p_idol-hume-004",
-      "name": "使用花海佑芽通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用花海佑芽通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-hume-005",
-      "name": "使用花海佑芽通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用花海佑芽通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-hume-006",
-      "name": "使用花海佑芽通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用花海佑芽通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-hume-007",
@@ -7283,7 +7283,7 @@
     },
     {
       "id": "achieve-p_idol-hume-009",
-      "name": "在花海佑芽的培育中通過{threshold}次最終考試"
+      "name": "在花海佑芽的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-hume-010",
@@ -7311,11 +7311,11 @@
     },
     {
       "id": "achieve-p_idol-hume-016",
-      "name": "使用花海佑芽通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "使用花海佑芽通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-hume-017",
-      "name": "在花海佑芽的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在花海佑芽的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-hume-018",
@@ -7327,11 +7327,11 @@
     },
     {
       "id": "achieve-p_idol-hume-020",
-      "name": "使用花海佑芽通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "使用花海佑芽通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-hume-021",
-      "name": "使用花海佑芽通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用花海佑芽通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -7355,15 +7355,15 @@
     },
     {
       "id": "achieve-p_idol-jsna-004",
-      "name": "使用十王星南通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用十王星南通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-jsna-005",
-      "name": "使用十王星南通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用十王星南通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-jsna-006",
-      "name": "使用十王星南通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用十王星南通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-jsna-007",
@@ -7375,7 +7375,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-009",
-      "name": "在十王星南的培育中通過{threshold}次最終考試"
+      "name": "在十王星南的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-jsna-010",
@@ -7403,11 +7403,11 @@
     },
     {
       "id": "achieve-p_idol-jsna-016",
-      "name": "使用十王星南通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "使用十王星南通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-jsna-017",
-      "name": "在十王星南的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在十王星南的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-jsna-018",
@@ -7419,11 +7419,11 @@
     },
     {
       "id": "achieve-p_idol-jsna-020",
-      "name": "使用十王星南通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "使用十王星南通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-jsna-021",
-      "name": "使用十王星南通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用十王星南通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-kcna-000",
@@ -7447,15 +7447,15 @@
     },
     {
       "id": "achieve-p_idol-kcna-004",
-      "name": "使用倉本千奈通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用倉本千奈通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-kcna-005",
-      "name": "使用倉本千奈通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用倉本千奈通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-kcna-006",
-      "name": "使用倉本千奈通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用倉本千奈通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-kcna-007",
@@ -7467,7 +7467,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-009",
-      "name": "在倉本千奈的培育中通過{threshold}次最終考試"
+      "name": "在倉本千奈的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-kcna-010",
@@ -7495,11 +7495,11 @@
     },
     {
       "id": "achieve-p_idol-kcna-016",
-      "name": "使用倉本千奈通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "使用倉本千奈通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-kcna-017",
-      "name": "在倉本千奈的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在倉本千奈的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-kcna-018",
@@ -7511,11 +7511,11 @@
     },
     {
       "id": "achieve-p_idol-kcna-020",
-      "name": "使用倉本千奈通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "使用倉本千奈通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-kcna-021",
-      "name": "使用倉本千奈通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用倉本千奈通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-kllj-000",
@@ -7539,15 +7539,15 @@
     },
     {
       "id": "achieve-p_idol-kllj-004",
-      "name": "使用葛城莉莉婭通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用葛城莉莉婭通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-kllj-005",
-      "name": "使用葛城莉莉婭通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用葛城莉莉婭通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-kllj-006",
-      "name": "使用葛城莉莉婭通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用葛城莉莉婭通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-kllj-007",
@@ -7559,7 +7559,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-009",
-      "name": "在葛城莉莉婭的培育中通過{threshold}次最終考試"
+      "name": "在葛城莉莉婭的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-kllj-010",
@@ -7587,11 +7587,11 @@
     },
     {
       "id": "achieve-p_idol-kllj-016",
-      "name": "使用葛城莉莉婭通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "使用葛城莉莉婭通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-kllj-017",
-      "name": "在葛城莉莉婭的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在葛城莉莉婭的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-kllj-018",
@@ -7603,11 +7603,11 @@
     },
     {
       "id": "achieve-p_idol-kllj-020",
-      "name": "使用葛城莉莉婭通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "使用葛城莉莉婭通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-kllj-021",
-      "name": "使用葛城莉莉婭通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用葛城莉莉婭通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -7631,15 +7631,15 @@
     },
     {
       "id": "achieve-p_idol-shro-004",
-      "name": "使用筱澤廣通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用筱澤廣通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-shro-005",
-      "name": "使用筱澤廣通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用筱澤廣通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-shro-006",
-      "name": "使用筱澤廣通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用筱澤廣通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-shro-007",
@@ -7651,7 +7651,7 @@
     },
     {
       "id": "achieve-p_idol-shro-009",
-      "name": "在筱澤廣的培育中通過{threshold}次最終考試"
+      "name": "在筱澤廣的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-shro-010",
@@ -7679,11 +7679,11 @@
     },
     {
       "id": "achieve-p_idol-shro-016",
-      "name": "在筱澤廣的培育中通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "在筱澤廣的培育中通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-shro-017",
-      "name": "在筱澤廣的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在筱澤廣的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-shro-018",
@@ -7695,11 +7695,11 @@
     },
     {
       "id": "achieve-p_idol-shro-020",
-      "name": "在筱澤廣的培育中通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "在筱澤廣的培育中通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-shro-021",
-      "name": "使用筱澤廣通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用筱澤廣通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-shro-022",
@@ -7727,15 +7727,15 @@
     },
     {
       "id": "achieve-p_idol-ssmk-004",
-      "name": "使用紫雲清夏通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用紫雲清夏通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-ssmk-005",
-      "name": "使用紫雲清夏通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用紫雲清夏通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-ssmk-006",
-      "name": "使用紫雲清夏通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用紫雲清夏通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-ssmk-007",
@@ -7747,7 +7747,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-009",
-      "name": "在紫雲清夏的培育中通過{threshold}次最終考試"
+      "name": "在紫雲清夏的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-ssmk-010",
@@ -7775,11 +7775,11 @@
     },
     {
       "id": "achieve-p_idol-ssmk-016",
-      "name": "使用紫雲清夏通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "使用紫雲清夏通過期末考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-ssmk-017",
-      "name": "在紫雲清夏的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在紫雲清夏的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-ssmk-018",
@@ -7791,11 +7791,11 @@
     },
     {
       "id": "achieve-p_idol-ssmk-020",
-      "name": "使用紫雲清夏通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "使用紫雲清夏通過期末考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-ssmk-021",
-      "name": "使用紫雲清夏通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用紫雲清夏通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-ttmr-000",
@@ -7819,15 +7819,15 @@
     },
     {
       "id": "achieve-p_idol-ttmr-004",
-      "name": "使用月村手毬通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用月村手毬通過期末考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-ttmr-005",
-      "name": "使用月村手毬通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用月村手毬通過期末考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-ttmr-006",
-      "name": "使用月村手毬通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用月村手毬通過期末考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-ttmr-007",
@@ -7839,7 +7839,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-009",
-      "name": "在月村手毬的培育中通過{threshold}次最終考試"
+      "name": "在月村手毬的培育中通過{threshold}次期末考試"
     },
     {
       "id": "achieve-p_idol-ttmr-010",
@@ -7867,11 +7867,11 @@
     },
     {
       "id": "achieve-p_idol-ttmr-016",
-      "name": "使用月村手毬在最終考試中獲得S+以上評價{threshold}次"
+      "name": "使用月村手毬在期末考試中獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-ttmr-017",
-      "name": "在月村手毬的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在月村手毬的定期公演『初』難易度：Master下獲得期末考試第一名"
     },
     {
       "id": "achieve-p_idol-ttmr-018",
@@ -7883,11 +7883,11 @@
     },
     {
       "id": "achieve-p_idol-ttmr-020",
-      "name": "使用月村手毬在最終考試中獲得SS以上評價{threshold}次"
+      "name": "使用月村手毬在期末考試中獲得SS以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-ttmr-021",
-      "name": "使用月村手毬通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用月村手毬通過期末考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-ttmr-022",
@@ -8115,7 +8115,7 @@
     },
     {
       "id": "main_task_group-01-01#53",
-      "name": "在最終考試中取得第一名吧"
+      "name": "在期末考試中取得第一名吧"
     },
     {
       "id": "main_task_group-01-01#54",
@@ -8263,7 +8263,7 @@
     },
     {
       "id": "main_task_group-02-01#30",
-      "name": "在培育中通過最終考試吧\n【條件】：花海咲季"
+      "name": "在培育中通過期末考試吧\n【條件】：花海咲季"
     },
     {
       "id": "main_task_group-02-01#31",
@@ -8271,7 +8271,7 @@
     },
     {
       "id": "main_task_group-02-01#32",
-      "name": "在培育中通過最終考試吧\n【條件】：月村手毬"
+      "name": "在培育中通過期末考試吧\n【條件】：月村手毬"
     },
     {
       "id": "main_task_group-02-01#33",
@@ -8279,7 +8279,7 @@
     },
     {
       "id": "main_task_group-02-01#34",
-      "name": "在培育中通過最終考試吧\n【條件】：藤田琴音"
+      "name": "在培育中通過期末考試吧\n【條件】：藤田琴音"
     },
     {
       "id": "main_task_group-02-01#35",
@@ -8291,7 +8291,7 @@
     },
     {
       "id": "main_task_group-02-01#37",
-      "name": "在培育中通過最終考試吧\n【條件】：有村麻央"
+      "name": "在培育中通過期末考試吧\n【條件】：有村麻央"
     },
     {
       "id": "main_task_group-02-01#38",
@@ -8299,7 +8299,7 @@
     },
     {
       "id": "main_task_group-02-01#39",
-      "name": "在培育中通過最終考試吧\n【條件】：姬崎莉波"
+      "name": "在培育中通過期末考試吧\n【條件】：姬崎莉波"
     },
     {
       "id": "main_task_group-02-01#40",
@@ -8307,7 +8307,7 @@
     },
     {
       "id": "main_task_group-02-01#41",
-      "name": "在培育中通過最終考試吧\n【條件】：葛城莉莉婭"
+      "name": "在培育中通過期末考試吧\n【條件】：葛城莉莉婭"
     },
     {
       "id": "main_task_group-02-01#42",
@@ -8319,7 +8319,7 @@
     },
     {
       "id": "main_task_group-02-01#44",
-      "name": "在培育中通過最終考試吧\n【條件】：紫雲清夏"
+      "name": "在培育中通過期末考試吧\n【條件】：紫雲清夏"
     },
     {
       "id": "main_task_group-02-01#45",
@@ -8327,7 +8327,7 @@
     },
     {
       "id": "main_task_group-02-01#46",
-      "name": "在培育中通過最終考試吧\n【條件】：筱澤廣"
+      "name": "在培育中通過期末考試吧\n【條件】：筱澤廣"
     },
     {
       "id": "main_task_group-02-01#47",
@@ -8335,7 +8335,7 @@
     },
     {
       "id": "main_task_group-02-01#48",
-      "name": "在培育中通過最終考試吧\n【條件】：倉本千奈"
+      "name": "在培育中通過期末考試吧\n【條件】：倉本千奈"
     },
     {
       "id": "main_task_group-02-01#49",
@@ -8451,11 +8451,11 @@
     },
     {
       "id": "main_task_group-02-01#77",
-      "name": "讓筱澤廣通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓筱澤廣通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#78",
-      "name": "讓倉本千奈通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓倉本千奈通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#79",
@@ -8471,11 +8471,11 @@
     },
     {
       "id": "main_task_group-02-01#82",
-      "name": "讓葛城莉莉婭通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓葛城莉莉婭通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#83",
-      "name": "讓紫雲清夏通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓紫雲清夏通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#84",
@@ -8495,11 +8495,11 @@
     },
     {
       "id": "main_task_group-02-01#88",
-      "name": "讓有村麻央通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓有村麻央通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#89",
-      "name": "讓姬崎莉波通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓姬崎莉波通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#90",
@@ -8511,11 +8511,11 @@
     },
     {
       "id": "main_task_group-02-01#92",
-      "name": "讓月村手毬通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓月村手毬通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#93",
-      "name": "讓藤田琴音通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓藤田琴音通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#94",
@@ -8531,11 +8531,11 @@
     },
     {
       "id": "main_task_group-02-01#97",
-      "name": "讓花海咲季通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓花海咲季通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#98",
-      "name": "讓花海佑芽通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓花海佑芽通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#99",
@@ -8555,7 +8555,7 @@
     },
     {
       "id": "main_task_group-03-01#3",
-      "name": "讓方案：異類的培育用偶像取得{threshold}次最終考試合格吧"
+      "name": "讓方案：異類的培育用偶像取得{threshold}次期末考試合格吧"
     },
     {
       "id": "main_task_group-03-01#4",
@@ -8615,7 +8615,7 @@
     },
     {
       "id": "main_task_group-03-01#18",
-      "name": "讓方案：異類的培育用偶像通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓方案：異類的培育用偶像通過期末考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-03-01#19",
@@ -8659,7 +8659,7 @@
     },
     {
       "id": "main_task_group-03-01#29",
-      "name": "在定期公演『初』：Master中取得{threshold}次最終考試合格吧\n【條件】方案：異類的培育用偶像"
+      "name": "在定期公演『初』：Master中取得{threshold}次期末考試合格吧\n【條件】方案：異類的培育用偶像"
     },
     {
       "id": "main_task_group-03-01#30",
@@ -8811,7 +8811,7 @@
     },
     {
       "id": "main_task_group-03-01#67",
-      "name": "在最終考試中取得第一名吧"
+      "name": "在期末考試中取得第一名吧"
     },
     {
       "id": "main_task_group-03-01#68",
@@ -9063,27 +9063,27 @@
     },
     {
       "id": "main_task_group-04-01#30",
-      "name": "讓花海咲季通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓花海咲季通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#31",
-      "name": "讓月村手毬通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓月村手毬通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#32",
-      "name": "讓藤田琴音通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓藤田琴音通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#33",
-      "name": "讓有村麻央通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓有村麻央通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#34",
-      "name": "讓葛城莉莉婭通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓葛城莉莉婭通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#35",
-      "name": "讓倉本千奈通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓倉本千奈通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#36",
@@ -9095,27 +9095,27 @@
     },
     {
       "id": "main_task_group-04-01#38",
-      "name": "讓紫雲清夏通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓紫雲清夏通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#39",
-      "name": "讓筱澤廣通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓筱澤廣通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#40",
-      "name": "讓花海佑芽通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓花海佑芽通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#41",
-      "name": "讓姬崎莉波通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓姬崎莉波通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#42",
-      "name": "讓十王星南通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓十王星南通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#43",
-      "name": "讓秦谷美鈴通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓秦谷美鈴通過期末考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#44",
