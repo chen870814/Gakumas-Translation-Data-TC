@@ -13,7 +13,7 @@
     {
       "id": "Convert_002",
       "name": "課程",
-      "swapName": "考試·舞臺"
+      "swapName": "考試·舞台"
     },
     {
       "id": "Convert_ConditionThreshold",
@@ -243,7 +243,7 @@
     {
       "id": "Label_ExamCardUpgrade",
       "name": "課程中強化",
-      "swapName": "考試・舞臺中強化"
+      "swapName": "考試・舞台中強化"
     },
     {
       "id": "Label_ExamConcentration_Exam",
@@ -688,7 +688,7 @@
     {
       "id": "Label_ProduceCardIsPlayMovePositionTypeLost",
       "name": "課程中1次",
-      "swapName": "考試・舞臺中1次"
+      "swapName": "考試・舞台中1次"
     },
     {
       "id": "Label_ProduceCardPositionType_Hold",
@@ -722,7 +722,7 @@
     },
     {
       "id": "Label_ProducePlanType3",
-      "name": "非凡",
+      "name": "異類",
       "swapName": ""
     },
     {
@@ -737,7 +737,7 @@
     },
     {
       "id": "Label_ProduceSkillPlanType3",
-      "name": "【非凡專用】",
+      "name": "【異類專用】",
       "swapName": ""
     },
     {

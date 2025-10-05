@@ -24,7 +24,7 @@
     {
       "id": "Swap_Convert_002",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "考試・舞臺"
+      "text": "考試・舞台"
     },
     {
       "id": "Swap_Convert_ConditionThreshold",
@@ -144,7 +144,7 @@
     {
       "id": "Swap_Label_ExamCardUpgrade",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "考試・舞臺中強化"
+      "text": "考試・舞台中強化"
     },
     {
       "id": "Swap_Label_ExamGrowEffectLessonAddAdditive",
@@ -274,7 +274,7 @@
     {
       "id": "Swap_Label_ProduceCardMovePositionType_Lost",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "考試・舞臺中僅1回"
+      "text": "考試・舞台中僅1回"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckFirst",

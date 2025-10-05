@@ -125,7 +125,7 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-stage",
       "order": 2,
-      "name": "舞臺"
+      "name": "舞台"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
@@ -185,7 +185,7 @@
       "helpCategoryId": "help-contest",
       "id": "contest-stage",
       "order": 4,
-      "name": "舞臺"
+      "name": "舞台"
     },
     {
       "helpCategoryId": "help-contest",
@@ -605,7 +605,7 @@
       "helpCategoryId": "help-livetour-event",
       "id": "tour-stage",
       "order": 2,
-      "name": "活動舞臺"
+      "name": "活動舞台"
     },
     {
       "helpCategoryId": "help-livetour-event",
@@ -719,7 +719,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-data-linkage",
       "order": 17,
-      "name": "數據連攜"
+      "name": "數據關聯"
     },
     {
       "helpCategoryId": "help-menu",
@@ -1199,7 +1199,7 @@
       "helpCategoryId": "help-shop",
       "id": "shop-exchange-ticket",
       "order": 8,
-      "name": "票據兌換所"
+      "name": "票卷兌換所"
     },
     {
       "helpCategoryId": "help-shop",
