@@ -47,8 +47,8 @@
     },
     {
       "id": "Convert_StepLessonType_DanceLesson",
-      "name": "【舞蹈課程·舞蹈回合限定】",
-      "swapName": "如果是舞蹈回合，"
+      "name": "【Da.課程・Da.回合限定】",
+      "swapName": "如果是Da.回合，"
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
@@ -57,13 +57,13 @@
     },
     {
       "id": "Convert_StepLessonType_VisualLesson",
-      "name": "【視覺課程·視覺回合限定】",
-      "swapName": "如果是視覺回合，"
+      "name": "【Vi.課程・Vi.回合限定】",
+      "swapName": "如果是Vi.回合，"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
-      "name": "【歌唱課程·歌唱回合限定】",
-      "swapName": "如果是歌唱回合，"
+      "name": "【Vo.課程・Vo.回合限定】",
+      "swapName": "如果是Vo.回合，"
     },
     {
       "id": "Label_ActiveSkillCard",

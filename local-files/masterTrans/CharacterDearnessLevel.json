@@ -34,7 +34,7 @@
     {
       "characterId": "amao",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中歌唱能力450以上"
+      "produceConditionDescription": "培育中Vo.能力值450以上"
     },
     {
       "characterId": "amao",
@@ -44,7 +44,7 @@
     {
       "characterId": "amao",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中歌唱能力1000以上"
+      "produceConditionDescription": "培育中Vo.能力值1000以上"
     },
     {
       "characterId": "amao",
@@ -134,7 +134,7 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中視覺能力450以上"
+      "produceConditionDescription": "培育中Vi.能力值450以上"
     },
     {
       "characterId": "fktn",
@@ -144,7 +144,7 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中舞蹈能力800以上"
+      "produceConditionDescription": "培育中Da.能力值800以上"
     },
     {
       "characterId": "fktn",
@@ -269,7 +269,7 @@
     {
       "characterId": "hmsz",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中視覺能力450以上"
+      "produceConditionDescription": "培育中Vi.能力值450以上"
     },
     {
       "characterId": "hmsz",
@@ -279,7 +279,7 @@
     {
       "characterId": "hmsz",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中歌唱能力1000以上"
+      "produceConditionDescription": "培育中Vo.能力值1000以上"
     },
     {
       "characterId": "hmsz",
@@ -369,7 +369,7 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中舞蹈能力450以上"
+      "produceConditionDescription": "培育中Da.能力值450以上"
     },
     {
       "characterId": "hrnm",
@@ -379,7 +379,7 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中視覺能力800以上"
+      "produceConditionDescription": "培育中Vi.能力值800以上"
     },
     {
       "characterId": "hrnm",
@@ -504,7 +504,7 @@
     {
       "characterId": "hski",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中歌唱能力450以上"
+      "produceConditionDescription": "培育中Vo.能力值450以上"
     },
     {
       "characterId": "hski",
@@ -514,7 +514,7 @@
     {
       "characterId": "hski",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中視覺能力1000以上"
+      "produceConditionDescription": "培育中Vi.能力值1000以上"
     },
     {
       "characterId": "hski",
@@ -604,7 +604,7 @@
     {
       "characterId": "hume",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中舞蹈能力450以上"
+      "produceConditionDescription": "培育中Da.能力值450以上"
     },
     {
       "characterId": "hume",
@@ -614,7 +614,7 @@
     {
       "characterId": "hume",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中歌唱能力1000以上"
+      "produceConditionDescription": "培育中Vo.能力值1000以上"
     },
     {
       "characterId": "hume",
@@ -704,7 +704,7 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中歌唱能力450以上"
+      "produceConditionDescription": "培育中Vo.能力值450以上"
     },
     {
       "characterId": "jsna",
@@ -714,7 +714,7 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中視覺能力900以上"
+      "produceConditionDescription": "培育中Vi.能力值900以上"
     },
     {
       "characterId": "jsna",
@@ -804,7 +804,7 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中視覺能力450以上"
+      "produceConditionDescription": "培育中Vi.能力值450以上"
     },
     {
       "characterId": "kcna",
@@ -814,7 +814,7 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中舞蹈能力1000以上"
+      "produceConditionDescription": "培育中Da.能力值1000以上"
     },
     {
       "characterId": "kcna",
@@ -904,7 +904,7 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中歌唱能力450以上"
+      "produceConditionDescription": "培育中Vo.能力值450以上"
     },
     {
       "characterId": "kllj",
@@ -914,7 +914,7 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中視覺能力1000以上"
+      "produceConditionDescription": "培育中Vi.能力值1000以上"
     },
     {
       "characterId": "kllj",
@@ -1004,7 +1004,7 @@
     {
       "characterId": "shro",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中舞蹈能力450以上"
+      "produceConditionDescription": "培育中Da.能力值450以上"
     },
     {
       "characterId": "shro",
@@ -1014,7 +1014,7 @@
     {
       "characterId": "shro",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中歌唱能力1000以上"
+      "produceConditionDescription": "培育中Vo.能力值1000以上"
     },
     {
       "characterId": "shro",
@@ -1139,7 +1139,7 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中視覺能力450以上"
+      "produceConditionDescription": "培育中Vi.能力值450以上"
     },
     {
       "characterId": "ssmk",
@@ -1149,7 +1149,7 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中舞蹈能力1000以上"
+      "produceConditionDescription": "培育中Da.能力值1000以上"
     },
     {
       "characterId": "ssmk",
@@ -1274,7 +1274,7 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中舞蹈能力450以上"
+      "produceConditionDescription": "培育中Da.能力值450以上"
     },
     {
       "characterId": "ttmr",
@@ -1284,7 +1284,7 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中歌唱能力1000以上"
+      "produceConditionDescription": "培育中Vo.能力值1000以上"
     },
     {
       "characterId": "ttmr",

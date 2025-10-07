@@ -23,7 +23,7 @@
     },
     {
       "id": "effect_group-visible-dance_addition-000",
-      "name": "舞蹈能力值上升"
+      "name": "Da.能力值上升"
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_down-000",
@@ -263,11 +263,11 @@
     },
     {
       "id": "effect_group-visible-visual_addition-000",
-      "name": "視覺能力值上升"
+      "name": "Vi.能力值上升"
     },
     {
       "id": "effect_group-visible-vocal_addition-000",
-      "name": "歌唱能力值上升"
+      "name": "Vo.能力值上升"
     }
   ]
 }

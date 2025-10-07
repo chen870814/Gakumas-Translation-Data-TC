@@ -109,7 +109,7 @@
       "produceDescriptions": [
         ""
       ],
-      "name": "【僅限舞蹈課程・舞蹈回合】"
+      "name": "【僅限Da.課程・Da.回合】"
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
@@ -123,14 +123,14 @@
       "produceDescriptions": [
         ""
       ],
-      "name": "【僅限視覺課程・視覺回合】"
+      "name": "【僅限Vi.課程・Vi.回合】"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
       "produceDescriptions": [
         ""
       ],
-      "name": "【僅限歌唱課程・歌唱回合】"
+      "name": "【僅限Vo.課程・Vo.回合】"
     },
     {
       "id": "Description_ProduceCardIsInitial",

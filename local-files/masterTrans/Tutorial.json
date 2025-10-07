@@ -27,6 +27,127 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "step": 4,
+      "subStep": 1,
+      "texts": [
+        "好了，培育開始了呢\n這次考試特別的只有最終考試哦\n我會幫你緊跟的，請放心吧！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 4,
+      "subStep": 2,
+      "texts": [
+        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
+        "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
+        "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易通過考試了。"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 4,
+      "subStep": 3,
+      "texts": [
+        "在這裡可以確認偶像的分數、建議、\n審查標準"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 4,
+      "subStep": 4,
+      "texts": [
+        "首先進行Da.課程\n提升Da.能力值吧！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 2,
+      "texts": [
+        "可以在這裡確認到\n通關所需的分數和\n目前偶像的分數哦"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 3,
+      "texts": [
+        "課程中可以在固定的回合數內\n進行行動\n這次似乎還剩下3回合呢！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 4,
+      "texts": [
+        "在課程中\n可以選擇在這裡的技能卡\n進行使用哦"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 5,
+      "texts": [
+        "趕緊試著使用吧！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 6,
+      "texts": [
+        "Da.力的分數上升\n離課程通關更近了呢！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 7,
+      "texts": [
+        "體力在下降呢\n使用技能卡時\n可能需要體力"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 8,
+      "texts": [
+        "接下來試試選擇這張技能卡吧！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 9,
+      "texts": [
+        "{ExamEffectType.ExamBlock}元氣上升了呢！\n{ExamEffectType.ExamBlock}元氣在體力下降時，\n會優先作為體力的替代消耗"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 10,
+      "texts": [
+        "",
+        "技能卡的使用需要體力。\n當有元氣時，可以用元氣作為體力的替代消耗\n來使用技能卡。"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 5,
+      "subStep": 11,
+      "texts": [
+        "最後再選擇一張試試吧！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 1,
       "texts": [
@@ -54,6 +175,131 @@
       "texts": [
         "完成課程目標後，\n可以獲得對培育有用的獎勵。"
       ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 7,
+      "subStep": 1,
+      "texts": [
+        "接下來選擇Vo.課程\n試試看吧"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 2,
+      "texts": [
+        "上次課程獲得的\n技能卡在手牌里呢\n試著選擇看看吧！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 3,
+      "texts": [
+        "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 4,
+      "texts": [
+        "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 5,
+      "texts": [
+        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 6,
+      "texts": [
+        "所持的P道具效果也可以通過\n點選圖示進行確認哦"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 7,
+      "texts": [
+        "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 8,
+      "texts": [
+        "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 9,
+      "texts": [
+        "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 10,
+      "texts": [
+        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 11,
+      "texts": [
+        "課程中的效果可以通過\n點選圖示確認詳細資訊。",
+        "P道具在滿足條件後會生效。\n一開始持有的P道具由可培育偶像決定。"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 12,
+      "texts": [
+        "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 13,
+      "texts": [
+        "沒問題，你一定能做到的！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 14,
+      "texts": [
+        "沒問題，你一定能做到的！"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_GameStart",
+      "step": 8,
+      "subStep": 15,
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -233,732 +479,6 @@
       "subStep": 2,
       "texts": [
         "製作人Lv上升時，會解鎖新的技能卡和\nP飲料等，並在培育中出現。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 1,
-      "texts": [
-        "好了，培育開始了呢\n這次考試特別的只有最終考試哦\n我會幫你緊跟的，請放心吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 2,
-      "texts": [
-        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
-        "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
-        "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易通過考試了。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 3,
-      "texts": [
-        "在這裡可以確認偶像的分數、建議、\n審查標準"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 4,
-      "texts": [
-        "首先進行舞蹈課\n提升舞蹈力吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 1,
-      "texts": []
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 2,
-      "texts": [
-        "可以在這裡確認到\n通關所需的分數和\n目前偶像的分數哦"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 3,
-      "texts": [
-        "課程中可以在固定的回合數內\n進行行動\n這次似乎還剩下3回合呢！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 4,
-      "texts": [
-        "在課程中\n可以選擇在這裡的技能卡\n進行使用哦"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 5,
-      "texts": [
-        "趕緊試著使用吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 6,
-      "texts": [
-        "舞蹈力的分數上升\n離課程通關更近了呢！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 7,
-      "texts": [
-        "體力在下降呢\n使用技能卡時\n可能需要體力"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 8,
-      "texts": [
-        "接下來試試選擇這張技能卡吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 9,
-      "texts": [
-        "{ExamEffectType.ExamBlock}元氣上升了呢！\n{ExamEffectType.ExamBlock}元氣在體力下降時，\n會優先作為體力的替代消耗"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 10,
-      "texts": [
-        "",
-        "技能卡的使用需要體力。\n當有元氣時，可以用元氣作為體力的替代消耗\n來使用技能卡。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 11,
-      "texts": [
-        "最後再選擇一張試試吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 7,
-      "subStep": 1,
-      "texts": [
-        "接下來選擇歌唱課\n試試看吧"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 1,
-      "texts": []
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 2,
-      "texts": [
-        "上次課程獲得的\n技能卡在手牌里呢\n試著選擇看看吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 3,
-      "texts": [
-        "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 4,
-      "texts": [
-        "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 5,
-      "texts": [
-        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 6,
-      "texts": [
-        "所持的P道具效果也可以通過\n點選圖示進行確認哦"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 7,
-      "texts": [
-        "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 8,
-      "texts": [
-        "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 9,
-      "texts": [
-        "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 10,
-      "texts": [
-        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 11,
-      "texts": [
-        "課程中的效果可以通過\n點選圖示確認詳細資訊。",
-        "P道具在滿足條件後會生效。\n一開始持有的P道具由可培育偶像決定。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 12,
-      "texts": [
-        "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 13,
-      "texts": [
-        "沒問題，你一定能做到的！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 14,
-      "texts": [
-        "沒問題，你一定能做到的！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 15,
-      "texts": []
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 1,
-      "texts": [
-        "好了，培育開始了呢\n這次考試特別的只有最終考試哦\n我會幫你緊跟的，請放心吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 2,
-      "texts": [
-        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
-        "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
-        "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易通過考試了。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 3,
-      "texts": [
-        "在這裡可以確認偶像的分數、建議、\n審查標準"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 4,
-      "texts": [
-        "首先進行舞蹈課\n提升舞蹈力吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 1,
-      "texts": []
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 2,
-      "texts": [
-        "可以在這裡確認到\n通關所需的分數和\n目前偶像的分數哦"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 3,
-      "texts": [
-        "課程中可以在固定的回合數內\n進行行動\n這次似乎還剩下3回合呢！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 4,
-      "texts": [
-        "在課程中\n可以選擇在這裡的技能卡\n進行使用哦"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 5,
-      "texts": [
-        "趕緊試著使用吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 6,
-      "texts": [
-        "舞蹈力的分數上升\n離課程通關更近了呢！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 7,
-      "texts": [
-        "體力在下降呢\n使用技能卡時\n可能需要體力"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 8,
-      "texts": [
-        "接下來試試選擇這張技能卡吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 9,
-      "texts": [
-        "{ExamEffectType.ExamBlock}元氣上升了呢！\n{ExamEffectType.ExamBlock}元氣在體力下降時，\n會優先作為體力的替代消耗"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 10,
-      "texts": [
-        "",
-        "技能卡的使用需要體力。\n當有元氣時，可以用元氣作為體力的替代消耗\n來使用技能卡。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 11,
-      "texts": [
-        "最後再選擇一張試試吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 7,
-      "subStep": 1,
-      "texts": [
-        "接下來選擇歌唱課\n試試看吧"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 1,
-      "texts": []
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 2,
-      "texts": [
-        "上次課程獲得的\n技能卡在手牌里呢\n試著選擇看看吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 3,
-      "texts": [
-        "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 4,
-      "texts": [
-        "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 5,
-      "texts": [
-        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 6,
-      "texts": [
-        "所持的P道具效果也可以通過\n點選圖示進行確認哦"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 7,
-      "texts": [
-        "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 8,
-      "texts": [
-        "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 9,
-      "texts": [
-        "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 10,
-      "texts": [
-        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 11,
-      "texts": [
-        "課程中的效果可以通過\n點選圖示確認詳細資訊。",
-        "P道具在滿足條件後會生效。\n一開始持有的P道具由可培育偶像決定。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 12,
-      "texts": [
-        "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 13,
-      "texts": [
-        "沒問題，你一定能做到的！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 14,
-      "texts": [
-        "沒問題，你一定能做到的！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 1,
-      "texts": [
-        "好了，培育開始了呢\n這次考試特別的只有最終考試哦\n我會幫你緊跟的，請放心吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 2,
-      "texts": [
-        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
-        "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
-        "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易通過考試了。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 3,
-      "texts": [
-        "在這裡可以確認偶像的分數、建議、\n審查標準"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 4,
-      "subStep": 4,
-      "texts": [
-        "首先進行舞蹈課\n提升舞蹈力吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 1,
-      "texts": []
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 2,
-      "texts": [
-        "可以在這裡確認到\n通關所需的分數和\n目前偶像的分數哦"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 3,
-      "texts": [
-        "課程中可以在固定的回合數內\n進行行動\n這次似乎還剩下3回合呢！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 4,
-      "texts": [
-        "在課程中\n可以選擇在這裡的技能卡\n進行使用哦"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 5,
-      "texts": [
-        "趕緊試著使用吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 6,
-      "texts": [
-        "舞蹈力的分數上升\n離課程通關更近了呢！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 7,
-      "texts": [
-        "體力在下降呢\n使用技能卡時\n可能需要體力"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 8,
-      "texts": [
-        "接下來試試選擇這張技能卡吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 9,
-      "texts": [
-        "{ExamEffectType.ExamBlock}元氣上升了呢！\n{ExamEffectType.ExamBlock}元氣在體力下降時，\n會優先作為體力的替代消耗"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 10,
-      "texts": [
-        "",
-        "技能卡的使用需要體力。\n當有元氣時，可以用元氣作為體力的替代消耗\n來使用技能卡。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 5,
-      "subStep": 11,
-      "texts": [
-        "最後再選擇一張試試吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 7,
-      "subStep": 1,
-      "texts": [
-        "接下來選擇歌唱課\n試試看吧"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 1,
-      "texts": []
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 2,
-      "texts": [
-        "上次課程獲得的\n技能卡在手牌里呢\n試著選擇看看吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 3,
-      "texts": [
-        "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 4,
-      "texts": [
-        "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 5,
-      "texts": [
-        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 6,
-      "texts": [
-        "所持的P道具效果也可以通過\n點選圖示進行確認哦"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 7,
-      "texts": [
-        "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 8,
-      "texts": [
-        "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 9,
-      "texts": [
-        "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 10,
-      "texts": [
-        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 11,
-      "texts": [
-        "課程中的效果可以通過\n點選圖示確認詳細資訊。",
-        "P道具在滿足條件後會生效。\n一開始持有的P道具由可培育偶像決定。"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 12,
-      "texts": [
-        "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 13,
-      "texts": [
-        "沒問題，你一定能做到的！"
-      ]
-    },
-    {
-      "tutorialType": "TutorialType_GameStart",
-      "step": 8,
-      "subStep": 14,
-      "texts": [
-        "沒問題，你一定能做到的！"
       ]
     },
     {
@@ -1221,9 +741,9 @@
       "step": 1,
       "subStep": 1,
       "texts": [
-        "課程有歌唱、舞蹈、視覺，分別可提高相應的分數。完成課程目標可作為獎勵獲得技能卡或P飲料。",
+        "課程有Vo.、Da.、Vi.三種，分別可提高相應的分數。完成課程目標可作為獎勵獲得技能卡或P飲料。",
         "在培養時可以選擇各種日程。根據情況選擇合適的日程吧。",
-        "考試前進行的特別課程。完成課程目標會觸發最後衝刺加成，可以均衡地成長歌唱、舞蹈、視覺分數。",
+        "考試前進行的特別課程。完成課程目標會觸發最後衝刺加成，可以均衡地成長Vo.、Da.、Vi.能力值。",
         "考試前，根據最大體力自動恢復體力。"
       ]
     },

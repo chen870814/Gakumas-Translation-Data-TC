@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "dearness_event_fktn-001",
-      "name": "將藤田琴音的舞蹈能力值培養至1800以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1800以上並完成培育"
     },
     {
       "id": "dearness_event_fktn-002",
@@ -27,7 +27,7 @@
     },
     {
       "id": "dearness_event_fktn-006",
-      "name": "藤田琴音通關{threshold}次舞蹈課程吧"
+      "name": "藤田琴音通關{threshold}次 Da.課程吧"
     },
     {
       "id": "dearness_event_fktn-007",
@@ -39,7 +39,7 @@
     },
     {
       "id": "dearness_event_hrnm-001",
-      "name": "將姬崎莉波的視覺能力值培養至1800以上並完成培育"
+      "name": "將姬崎莉波的Vi.能力值培養至1800以上並完成培育"
     },
     {
       "id": "dearness_event_hrnm-002",
@@ -59,7 +59,7 @@
     },
     {
       "id": "dearness_event_hrnm-006",
-      "name": "姬崎莉波通關{threshold}次視覺課程吧"
+      "name": "姬崎莉波通關{threshold}次 Vi.課程吧"
     },
     {
       "id": "dearness_event_hrnm-007",
@@ -71,7 +71,7 @@
     },
     {
       "id": "dearness_event_shro-001",
-      "name": "將筱澤廣的歌唱能力值培養至1800以上並完成培育"
+      "name": "將筱澤廣的Vo.能力值培養至1800以上並完成培育"
     },
     {
       "id": "dearness_event_shro-002",
@@ -91,7 +91,7 @@
     },
     {
       "id": "dearness_event_shro-006",
-      "name": "筱澤廣通過{threshold}次歌唱課程吧"
+      "name": "筱澤廣通過{threshold}次 Vo.課程吧"
     },
     {
       "id": "dearness_event_shro-007",
@@ -103,7 +103,7 @@
     },
     {
       "id": "dearness_event_ssmk-001",
-      "name": "將紫雲清夏的舞蹈能力值培養至1800以上並完成培育"
+      "name": "將紫雲清夏的Da.能力值培養至1800以上並完成培育"
     },
     {
       "id": "dearness_event_ssmk-002",
@@ -123,7 +123,7 @@
     },
     {
       "id": "dearness_event_ssmk-006",
-      "name": "紫雲清夏通關{threshold}次舞蹈課程吧"
+      "name": "紫雲清夏通關{threshold}次 Da.課程吧"
     },
     {
       "id": "dearness_event_ssmk-007",
@@ -135,7 +135,7 @@
     },
     {
       "id": "dearness_normal-mission_fktn-001",
-      "name": "將藤田琴音的舞蹈能力值培養至2000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至2000以上並完成培育"
     },
     {
       "id": "dearness_normal-mission_fktn-002",
@@ -155,7 +155,7 @@
     },
     {
       "id": "dearness_normal-mission_hrnm-001",
-      "name": "將姬崎莉波的視覺能力值培養至2000以上並完成培育"
+      "name": "將姬崎莉波的Vi.能力值培養至2000以上並完成培育"
     },
     {
       "id": "dearness_normal-mission_hrnm-002",
@@ -175,7 +175,7 @@
     },
     {
       "id": "dearness_normal-mission_shro-001",
-      "name": "將筱澤廣的歌唱能力值培養至2000以上並完成培育"
+      "name": "將筱澤廣的Vo.能力值培養至2000以上並完成培育"
     },
     {
       "id": "dearness_normal-mission_shro-002",
@@ -195,7 +195,7 @@
     },
     {
       "id": "dearness_normal-mission_ssmk-001",
-      "name": "將紫雲清夏的舞蹈能力值培養至2000以上並完成培育"
+      "name": "將紫雲清夏的Da.能力值培養至2000以上並完成培育"
     },
     {
       "id": "dearness_normal-mission_ssmk-002",
@@ -1223,27 +1223,27 @@
     },
     {
       "id": "mission-highscore-event-001-mission_12",
-      "name": "將月村手毬的歌唱能力值培養至1000以上並完成培育"
+      "name": "將月村手毬的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-001-mission_12_1",
-      "name": "將月村手毬的歌唱能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
+      "name": "將月村手毬的Vo.能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-001-mission_13",
-      "name": "將葛城莉莉婭的視覺能力值培養至1000以上並完成培育"
+      "name": "將葛城莉莉婭的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-001-mission_13_1",
-      "name": "將葛城莉莉婭的視覺能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
+      "name": "將葛城莉莉婭的Vi.能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-001-mission_14",
-      "name": "將筱澤廣的歌唱能力值培養至1000以上並完成培育"
+      "name": "將筱澤廣的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-001-mission_14_1",
-      "name": "將筱澤廣的歌唱能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
+      "name": "將筱澤廣的Vo.能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-001-mission_15",
@@ -1279,27 +1279,27 @@
     },
     {
       "id": "mission-highscore-event-002-mission_12",
-      "name": "將倉本千奈的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將倉本千奈的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-002-mission_12_1",
-      "name": "將倉本千奈的舞蹈能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
+      "name": "將倉本千奈的Da.能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-002-mission_13",
-      "name": "將花海咲季的視覺能力值培養至1000以上並完成培育"
+      "name": "將花海咲季的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-002-mission_13_1",
-      "name": "將花海咲季的視覺能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
+      "name": "將花海咲季的Vi.能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-002-mission_14",
-      "name": "將花海佑芽的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將花海佑芽的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-002-mission_14_1",
-      "name": "將花海佑芽的舞蹈能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
+      "name": "將花海佑芽的Da.能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-002-mission_15",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_12",
-      "name": "將姬崎莉波的視覺能力值培養至1000以上並完成培育"
+      "name": "將姬崎莉波的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-003-mission_13",
@@ -1355,7 +1355,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_22",
-      "name": "將藤田琴音的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-003-mission_23",
@@ -1379,7 +1379,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_32",
-      "name": "將紫雲清夏的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將紫雲清夏的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-003-mission_33",
@@ -1451,7 +1451,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_12",
-      "name": "將有村麻央的歌唱能力值培養至1000以上並完成培育"
+      "name": "將有村麻央的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-004-mission_13",
@@ -1475,7 +1475,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_22",
-      "name": "將十王星南的視覺能力值培養至1000以上並完成培育"
+      "name": "將十王星南的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-004-mission_23",
@@ -1571,7 +1571,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_12",
-      "name": "將花海咲季的視覺能力值培養至1,000以上並完成培育"
+      "name": "將花海咲季的Vi.能力值培養至1,000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-001-mission_13",
@@ -1595,7 +1595,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_22",
-      "name": "將月村手毬的歌唱能力值培養至1,000以上並完成培育"
+      "name": "將月村手毬的Vo.能力值培養至1,000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-001-mission_23",
@@ -1619,7 +1619,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_32",
-      "name": "將藤田琴音的舞蹈能力值培養至1,000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1,000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-001-mission_33",
@@ -1691,7 +1691,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_12",
-      "name": "將紫雲清夏的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將紫雲清夏的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-002-mission_13",
@@ -1711,7 +1711,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_22",
-      "name": "將藤田琴音的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-002-mission_23",
@@ -1791,7 +1791,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_12",
-      "name": "將筱澤廣的歌唱能力值培養至1000以上並完成培育"
+      "name": "將筱澤廣的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-003-mission_13",
@@ -1811,7 +1811,7 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_22",
-      "name": "將倉本千奈的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將倉本千奈的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-003-mission_23",
@@ -1891,7 +1891,7 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_12",
-      "name": "將藤田琴音的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-004-mission_13",
@@ -1911,7 +1911,7 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_22",
-      "name": "將花海佑芽的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將花海佑芽的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-004-mission_23",
@@ -1991,7 +1991,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_12",
-      "name": "將姬崎莉波的視覺能力值培養至1000以上並完成培育"
+      "name": "將姬崎莉波的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-005-mission_13",
@@ -2011,7 +2011,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_22",
-      "name": "將有村麻央的歌唱能力值培養至1000以上並完成培育"
+      "name": "將有村麻央的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-005-mission_23",
@@ -3635,15 +3635,15 @@
     },
     {
       "id": "mission-panel-mission-1-2",
-      "name": "通關{threshold}次歌唱課程吧"
+      "name": "通關{threshold}次 Vo.課程吧"
     },
     {
       "id": "mission-panel-mission-1-3",
-      "name": "通關{threshold}次舞蹈課程吧"
+      "name": "通關{threshold}次 Da.課程吧"
     },
     {
       "id": "mission-panel-mission-1-4",
-      "name": "通關{threshold}次視覺課程吧"
+      "name": "通關{threshold}次 Vi.課程吧"
     },
     {
       "id": "mission-panel-mission-1-5",
@@ -4195,15 +4195,15 @@
     },
     {
       "id": "panel_mission-event-002-mission_2",
-      "name": "通關{threshold}次SP歌唱課程吧"
+      "name": "通關{threshold}次SP Vo.課程吧"
     },
     {
       "id": "panel_mission-event-002-mission_3",
-      "name": "通關{threshold}次SP舞蹈課程吧"
+      "name": "通關{threshold}次SP Da.課程吧"
     },
     {
       "id": "panel_mission-event-002-mission_4",
-      "name": "通關{threshold}次SP視覺課程吧"
+      "name": "通關{threshold}次SP Vi.課程吧"
     },
     {
       "id": "panel_mission-event-002-mission_5",
@@ -4231,15 +4231,15 @@
     },
     {
       "id": "panel_mission-event-003-mission_2",
-      "name": "通關{threshold}次歌唱課程吧"
+      "name": "通關{threshold}次 Vo.課程吧"
     },
     {
       "id": "panel_mission-event-003-mission_3",
-      "name": "通關{threshold}次舞蹈課程吧"
+      "name": "通關{threshold}次 Da.課程吧"
     },
     {
       "id": "panel_mission-event-003-mission_4",
-      "name": "通關{threshold}次視覺課程吧"
+      "name": "通關{threshold}次 Vi.課程吧"
     },
     {
       "id": "panel_mission-event-003-mission_5",
@@ -4303,15 +4303,15 @@
     },
     {
       "id": "panel_mission-event-004-mission_2",
-      "name": "通關{threshold}次歌唱課程吧"
+      "name": "通關{threshold}次 Vo.課程吧"
     },
     {
       "id": "panel_mission-event-004-mission_3",
-      "name": "通關{threshold}次舞蹈課程吧"
+      "name": "通關{threshold}次 Da.課程吧"
     },
     {
       "id": "panel_mission-event-004-mission_4",
-      "name": "通關{threshold}次視覺課程吧"
+      "name": "通關{threshold}次 Vi.課程吧"
     },
     {
       "id": "panel_mission-event-004-mission_5",
@@ -4375,15 +4375,15 @@
     },
     {
       "id": "panel_mission-event-006-mission_2",
-      "name": "通關{threshold}次歌唱課程吧"
+      "name": "通關{threshold}次 Vo.課程吧"
     },
     {
       "id": "panel_mission-event-006-mission_3",
-      "name": "通關{threshold}次舞蹈課程吧"
+      "name": "通關{threshold}次 Da.課程吧"
     },
     {
       "id": "panel_mission-event-006-mission_4",
-      "name": "通關{threshold}次視覺課程吧"
+      "name": "通關{threshold}次 Vi.課程吧"
     },
     {
       "id": "panel_mission-event-006-mission_5",
@@ -6923,7 +6923,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-014",
-      "name": "將藤田琴音的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-fktn-015",
@@ -7111,7 +7111,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-014",
-      "name": "將姬崎莉波的視覺能力值培養至1000以上並完成培育"
+      "name": "將姬崎莉波的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-hrnm-015",
@@ -7303,7 +7303,7 @@
     },
     {
       "id": "achieve-p_idol-hume-014",
-      "name": "將花海佑芽的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將花海佑芽的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-hume-015",
@@ -7395,7 +7395,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-014",
-      "name": "將十王星南的視覺能力值培養至900以上並完成培育"
+      "name": "將十王星南的Vi.能力值培養至900以上並完成培育"
     },
     {
       "id": "achieve-p_idol-jsna-015",
@@ -7487,7 +7487,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-014",
-      "name": "將倉本千奈的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將倉本千奈的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-kcna-015",
@@ -7579,7 +7579,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-014",
-      "name": "將葛城莉莉婭的視覺能力值培養至1000以上並完成培育"
+      "name": "將葛城莉莉婭的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-kllj-015",
@@ -7671,7 +7671,7 @@
     },
     {
       "id": "achieve-p_idol-shro-014",
-      "name": "將筱澤廣的歌唱能力值培養至1000以上並完成培育"
+      "name": "將筱澤廣的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-shro-015",
@@ -7767,7 +7767,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-014",
-      "name": "將紫雲清夏的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將紫雲清夏的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-ssmk-015",
@@ -7859,7 +7859,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-014",
-      "name": "將月村手毬的歌唱能力值培養至1000以上並完成培育"
+      "name": "將月村手毬的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-ttmr-015",
