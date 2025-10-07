@@ -82,7 +82,7 @@
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 1,
       "title": "有村麻央",
-      "message": "直播辛苦了！\n領完報酬后請告訴我感想"
+      "message": "直播辛苦了！\n領完報酬後請告訴我感想"
     },
     {
       "characterId": "amao",
@@ -229,7 +229,7 @@
       "type": "PushType_Login",
       "number": 1,
       "title": "秦谷 美鈴",
-      "message": "睡了很久的午覺呢。\n醒來后，\n請來見我吧。\n我會一直等著你哦"
+      "message": "睡了很久的午覺呢。\n醒來後，\n請來見我吧。\n我會一直等著你哦"
     },
     {
       "characterId": "hmsz",
@@ -642,7 +642,7 @@
       "type": "PushType_WorkLiveStreamingFinish",
       "number": 3,
       "title": "十王星南",
-      "message": "直播后的反省會能來嗎？\n有很多新嘗試\n想和您商量"
+      "message": "直播後的反省會能來嗎？\n有很多新嘗試\n想和您商量"
     },
     {
       "characterId": "kcna",
@@ -740,7 +740,7 @@
       "type": "PushType_ApFull",
       "number": 1,
       "title": "葛城莉莉婭",
-      "message": "……前輩，可以拜託您訓練嗎？\n休息后恢復了元氣……！"
+      "message": "……前輩，可以拜託您訓練嗎？\n休息後恢復了元氣……！"
     },
     {
       "characterId": "kllj",

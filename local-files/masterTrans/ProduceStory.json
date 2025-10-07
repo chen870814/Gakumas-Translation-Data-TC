@@ -702,7 +702,7 @@
       "id": "p_story-001-amao-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試不合格"
+        "最終考試不合格"
       ]
     },
     {
@@ -710,7 +710,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -718,7 +718,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -726,7 +726,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -812,7 +812,7 @@
     },
     {
       "id": "p_story-001-amao-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -822,10 +822,10 @@
     },
     {
       "id": "p_story-001-amao-ending-normal-01",
-      "title": "【A End】向進化后的我致敬",
+      "title": "【A End】向進化後的我致敬",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -833,35 +833,35 @@
       "title": "【B End】向下一個階段邁進",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-amao-ending-normal-03",
       "title": "【C End】相信並前行",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-amao-ending-normal-04",
       "title": "【D End】持續點燃夢想的火焰",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-amao-ending-normal-05",
       "title": "【E End】將失敗作為養分",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-amao-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中以第1名合格",
+        "在最終考試中以第1名合格",
         "獲得成就「可愛和帥氣」",
         "獲得成就「要謝謝你哦」",
         "獲得成就「不僅僅是帥氣」"
@@ -933,7 +933,7 @@
       "id": "p_story-001-fktn-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試不合格"
+        "最終考試不合格"
       ]
     },
     {
@@ -941,7 +941,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -949,7 +949,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -957,7 +957,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -1043,7 +1043,7 @@
     },
     {
       "id": "p_story-001-fktn-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -1056,7 +1056,7 @@
       "title": "【A End】感謝要用手作料理",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -1064,35 +1064,35 @@
       "title": "【B End】借的就要還",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-fktn-ending-normal-03",
       "title": "【C End】爲了錢的話！",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-fktn-ending-normal-04",
       "title": "【D End】將悔恨作為動力",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-fktn-ending-normal-05",
       "title": "【E End】太陽將再次升起",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-fktn-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試以1位合格",
+        "最終考試以1位合格",
         "獲得成就「輕快步伐」",
         "獲得成就「製作人♡」",
         "獲得成就「偶像適性S」"
@@ -1164,7 +1164,7 @@
       "id": "p_story-001-hrnm-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試不合格"
+        "最終考試不合格"
       ]
     },
     {
@@ -1172,7 +1172,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -1180,7 +1180,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -1188,7 +1188,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -1274,7 +1274,7 @@
     },
     {
       "id": "p_story-001-hrnm-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -1287,7 +1287,7 @@
       "title": "【A End】閃耀著金色的景色",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -1295,35 +1295,35 @@
       "title": "【B End】希望能自然存在",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-hrnm-ending-normal-03",
       "title": "【C End】向更大的舞台努力",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-hrnm-ending-normal-04",
       "title": "【D End】從明天開始再來",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-hrnm-ending-normal-05",
       "title": "【E End】再次站起來",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-hrnm-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試以1位合格",
+        "最終考試以1位合格",
         "獲得成就「溫柔的笑容」",
         "獲得成就「我是你的……」",
         "獲得成就「心靈滋潤」"
@@ -1395,7 +1395,7 @@
       "id": "p_story-001-hski-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試不合格"
+        "最終考試不合格"
       ]
     },
     {
@@ -1403,7 +1403,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -1411,7 +1411,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -1419,7 +1419,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -1505,7 +1505,7 @@
     },
     {
       "id": "p_story-001-hski-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -1518,7 +1518,7 @@
       "title": "【A End】爲了明天",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -1526,35 +1526,35 @@
       "title": "【B End】相信並前進！",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-hski-ending-normal-03",
       "title": "【C End】有你真好",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-hski-ending-normal-04",
       "title": "【D End】快樂的培育",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-hski-ending-normal-05",
       "title": "【E End】悔恨反省會",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-hski-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試以1位合格",
+        "最終考試以1位合格",
         "獲得成就「全能選手」",
         "獲得成就「因為我在期待你！」",
         "獲得成就「合格是理所當然」"
@@ -1626,7 +1626,7 @@
       "id": "p_story-001-hume-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "挑戰期末考試"
+        "挑戰最終考試"
       ]
     },
     {
@@ -1634,7 +1634,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -1642,7 +1642,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -1650,7 +1650,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -1736,7 +1736,7 @@
     },
     {
       "id": "p_story-001-hume-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -1749,7 +1749,7 @@
       "title": "【A End】快樂假期的開始",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -1757,35 +1757,35 @@
       "title": "【B End】搞笑偶像",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-hume-ending-normal-03",
       "title": "【C End】果然直覺是對的",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-hume-ending-normal-04",
       "title": "【D End】一起復仇",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-hume-ending-normal-05",
       "title": "【E End】向下一個前進",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-hume-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試以1位合格",
+        "最終考試以1位合格",
         "獲得成就「穩步進步」",
         "獲得成就「製作人先生！」",
         "獲得成就「溢出的元氣」"
@@ -1857,7 +1857,7 @@
       "id": "p_story-001-jsna-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試不合格"
+        "最終考試不合格"
       ]
     },
     {
@@ -1865,7 +1865,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -1873,7 +1873,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -1881,7 +1881,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -1967,7 +1967,7 @@
     },
     {
       "id": "p_story-001-jsna-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -1980,7 +1980,7 @@
       "title": "【A End】對十王星南的期望",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -1988,35 +1988,35 @@
       "title": "【B End】美好的建議",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-jsna-ending-normal-03",
       "title": "【C End】星南專用方案",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-jsna-ending-normal-04",
       "title": "【D End】自身的價值",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-jsna-ending-normal-05",
       "title": "【E End】一起到最後",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-jsna-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試以1位合格",
+        "最終考試以1位合格",
         "獲得成就「完美無缺」",
         "獲得成就「看著我，前輩」",
         "獲得成就「累積起來的東西」"
@@ -2088,7 +2088,7 @@
       "id": "p_story-001-kcna-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試不合格"
+        "最終考試不合格"
       ]
     },
     {
@@ -2096,7 +2096,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -2104,7 +2104,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -2112,7 +2112,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -2198,7 +2198,7 @@
     },
     {
       "id": "p_story-001-kcna-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -2211,7 +2211,7 @@
       "title": "【A End】爲了實現夢想",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -2219,35 +2219,35 @@
       "title": "【B End】非常好的結果",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-kcna-ending-normal-03",
       "title": "【C End】一定能成為好偶像",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-kcna-ending-normal-04",
       "title": "【D End】學習也是很重要的",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-kcna-ending-normal-05",
       "title": "【E End】成長的證據",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-kcna-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試以1位合格",
+        "最終考試以1位合格",
         "獲得成就「即使不行也在努力」",
         "獲得成就「老師！！」",
         "獲得成就「元氣一點突破」"
@@ -2319,7 +2319,7 @@
       "id": "p_story-001-kllj-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試不合格"
+        "最終考試不合格"
       ]
     },
     {
@@ -2327,7 +2327,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -2335,7 +2335,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -2343,7 +2343,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -2429,7 +2429,7 @@
     },
     {
       "id": "p_story-001-kllj-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -2442,7 +2442,7 @@
       "title": "【A End】慶祝要盛大",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -2450,35 +2450,35 @@
       "title": "【B End】回家路上的反思會",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-kllj-ending-normal-03",
       "title": "【C End】莉莉婭流壓力釋放法",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-kllj-ending-normal-04",
       "title": "【D End】成長所需的事",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-kllj-ending-normal-05",
       "title": "【E End】再一次，一起",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-kllj-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試以1位合格",
+        "最終考試以1位合格",
         "獲得成就「讓人快樂的喜悅」",
         "獲得成就「和前輩在一起的話……」",
         "獲得成就「偶像初學者」"
@@ -2550,7 +2550,7 @@
       "id": "p_story-001-shro-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試不合格"
+        "最終考試不合格"
       ]
     },
     {
@@ -2558,7 +2558,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -2566,7 +2566,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -2574,7 +2574,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -2660,7 +2660,7 @@
     },
     {
       "id": "p_story-001-shro-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -2673,7 +2673,7 @@
       "title": "【A End】製作人是魔鬼",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -2681,35 +2681,35 @@
       "title": "【B End】最可怕的是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-shro-ending-normal-03",
       "title": "【C End】最好的結果",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-shro-ending-normal-04",
       "title": "【D End】有嚼勁的培育",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-shro-ending-normal-05",
       "title": "【E End】一直在尋找的東西",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-shro-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試以1位合格",
+        "最終考試以1位合格",
         "獲得成就「神秘女孩」",
         "獲得成就「還不放棄嗎？」",
         "獲得成就「即使沒有才能也能做到的事」"
@@ -2781,7 +2781,7 @@
       "id": "p_story-001-ssmk-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試不合格"
+        "最終考試不合格"
       ]
     },
     {
@@ -2789,7 +2789,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -2797,7 +2797,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -2805,7 +2805,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -2891,7 +2891,7 @@
     },
     {
       "id": "p_story-001-ssmk-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -2904,7 +2904,7 @@
       "title": "【A End】下一個目標的地方",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -2912,35 +2912,35 @@
       "title": "【B End】無論多高的墻",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-ssmk-ending-normal-03",
       "title": "【C End】直到成為頂尖才放開",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-ssmk-ending-normal-04",
       "title": "【D End】稍微，再來一次",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-ssmk-ending-normal-05",
       "title": "【E End】直到放棄為止",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-ssmk-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試以1位合格",
+        "最終考試以1位合格",
         "獲得成就「通向未來的步伐」",
         "獲得成就「謝謝你，P醬」",
         "獲得成就「如果認真起來」"
@@ -3012,7 +3012,7 @@
       "id": "p_story-001-ttmr-after-audition-final-failure-01",
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試不合格"
+        "最終考試不合格"
       ]
     },
     {
@@ -3020,7 +3020,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -3028,7 +3028,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
@@ -3036,7 +3036,7 @@
       "title": "考試結果是…",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第3名合格"
+        "在最終考試中以第3名合格"
       ]
     },
     {
@@ -3122,7 +3122,7 @@
     },
     {
       "id": "p_story-001-ttmr-before-audition-final-normal-01",
-      "title": "出發！期末考試",
+      "title": "出發！最終考試",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -3135,7 +3135,7 @@
       "title": "【A End】美味拉麵",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第1名合格"
+        "在最終考試中以第1名合格"
       ]
     },
     {
@@ -3143,35 +3143,35 @@
       "title": "【B End】水果聖代",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
-        "在期末考試中以第2名合格"
+        "在最終考試中以第2名合格"
       ]
     },
     {
       "id": "p_story-001-ttmr-ending-normal-03",
       "title": "【C End】草莓短蛋糕",
       "produceEventHintProduceConditionDescriptions": [
-        "通過期末考試"
+        "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-ttmr-ending-normal-04",
       "title": "【D End】胡蘿蔔蛋糕",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中取得第4或第5名"
+        "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-ttmr-ending-normal-05",
       "title": "【E End】下次一定要喜歡的東西",
       "produceEventHintProduceConditionDescriptions": [
-        "在期末考試中獲得第6名"
+        "在最終考試中獲得第6名"
       ]
     },
     {
       "id": "p_story-001-ttmr-ending-true-01",
       "title": "True End",
       "produceEventHintProduceConditionDescriptions": [
-        "期末考試以1位合格",
+        "最終考試以1位合格",
         "獲得成就「歌姬」",
         "獲得成就「我有那麼好嗎？」",
         "獲得成就「絕不妥協」"
@@ -3701,7 +3701,7 @@
     },
     {
       "id": "p_story-event-001_hrnm_school_005",
-      "title": "公元后",
+      "title": "公元後",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10066,7 +10066,7 @@
     },
     {
       "id": "p_story-s_card-2-0016-02",
-      "title": "自主訓練結束后又進行自主訓練",
+      "title": "自主訓練結束後又進行自主訓練",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -10481,7 +10481,7 @@
     },
     {
       "id": "p_story-s_card-3-0010-03",
-      "title": "課程后，筋疲力盡",
+      "title": "課程後，筋疲力盡",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

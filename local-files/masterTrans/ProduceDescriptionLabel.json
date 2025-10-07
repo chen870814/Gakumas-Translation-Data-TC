@@ -442,7 +442,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "可以獲得強化后的技能卡的營業"
+          "text": "可以獲得強化後的技能卡的營業"
         }
       ],
       "name": "商業設施"
@@ -6941,10 +6941,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用后變更移動到的地方"
+          "text": "使用後變更移動到的地方"
         }
       ],
-      "name": "使用后變更移動到的地方"
+      "name": "使用後變更移動到的地方"
     },
     {
       "id": "Label_PlayTriggerChange",
@@ -7005,7 +7005,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡複製后，培育結束為止追加進牌組中"
+          "text": "技能卡複製後，培育結束為止追加進牌組中"
         }
       ],
       "name": "複製"

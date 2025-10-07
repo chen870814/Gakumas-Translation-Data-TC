@@ -34,7 +34,7 @@
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "期末考試"
+      "name": "最終考試"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -62,7 +62,7 @@
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "期末考試"
+      "name": "最終考試"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -90,7 +90,7 @@
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "期末考試"
+      "name": "最終考試"
     }
   ]
 }

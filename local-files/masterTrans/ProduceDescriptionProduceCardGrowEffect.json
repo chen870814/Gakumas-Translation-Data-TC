@@ -151,7 +151,7 @@
     },
     {
       "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
-      "name": "使用后變更移動到的地方"
+      "name": "使用後變更移動到的地方"
     },
     {
       "type": "ProduceCardGrowEffectType_InitialAdd",

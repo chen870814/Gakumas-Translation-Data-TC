@@ -187,7 +187,7 @@
     },
     {
       "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
-      "name": "使用后移動先變更",
+      "name": "使用後移動先變更",
       "produceCardCustomizeTemplate": "移動先變更"
     },
     {

@@ -47,7 +47,7 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-finish",
       "order": 8,
-      "name": "活動結束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
@@ -89,7 +89,7 @@
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-finish",
       "order": 9,
-      "name": "活動結束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
@@ -293,7 +293,7 @@
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-event-finish",
       "order": 8,
-      "name": "活動結束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-highscorerush",
@@ -581,7 +581,7 @@
       "helpCategoryId": "help-livetour-event",
       "id": "tour-finish",
       "order": 9,
-      "name": "活動結束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-livetour-event",
@@ -635,7 +635,7 @@
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-finish",
       "order": 7,
-      "name": "活動結束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-main-story-event",
@@ -1199,7 +1199,7 @@
       "helpCategoryId": "help-shop",
       "id": "shop-exchange-ticket",
       "order": 8,
-      "name": "票卷兌換所"
+      "name": "票據兌換所"
     },
     {
       "helpCategoryId": "help-shop",
@@ -1265,7 +1265,7 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-finish",
       "order": 7,
-      "name": "活動結束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-story-event",

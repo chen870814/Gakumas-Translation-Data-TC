@@ -662,8 +662,8 @@
     },
     {
       "id": "Label_PlayMovePositionTypeChange",
-      "name": "使用后移動先變更",
-      "swapName": "使用后移動先變更"
+      "name": "使用後移動先變更",
+      "swapName": "使用後移動先變更"
     },
     {
       "id": "Label_PlayTriggerChange",
