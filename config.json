@@ -2,6 +2,6 @@
     "enableConsole": true,
     "transRemoteZipUrl": "",
     "useAPIAssets": true,
-    "useAPIAssetsURL": "https://uma.chinosk6.cn/api/gkms_trans_data",
+    "useAPIAssetsURL": "https://api.github.com/repos/liuyuns2/Gakumas-Translation-Data-TC/releases/latest",
     "useRemoteAssets": false
 }
