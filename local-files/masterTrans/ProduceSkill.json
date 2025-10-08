@@ -2511,7 +2511,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的概率會回覆體力"
+          "text": "的概率會回復體力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2557,7 +2557,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的概率會回覆體力"
+          "text": "的概率會回復體力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2603,7 +2603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的概率會回覆體力"
+          "text": "的概率會回復體力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2649,7 +2649,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的概率會回覆體力"
+          "text": "的概率會回復體力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2695,7 +2695,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的概率會回覆體力"
+          "text": "的概率會回復體力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2741,7 +2741,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的概率會回覆體力"
+          "text": "的概率會回復體力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2787,7 +2787,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的概率會回覆體力"
+          "text": "的概率會回復體力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2833,7 +2833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的概率會回覆體力"
+          "text": "的概率會回復體力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -2879,7 +2879,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的概率會回覆體力"
+          "text": "的概率會回復體力"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -23595,7 +23595,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "結束時，體力回覆"
+          "text": "結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -23661,7 +23661,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "結束時，體力回覆"
+          "text": "結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -23727,7 +23727,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "結束時，體力回覆"
+          "text": "結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25669,7 +25669,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Da.課程結束時，體力回覆"
+          "text": "SP Da.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25695,7 +25695,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Da.課程結束時，體力回覆"
+          "text": "SP Da.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25721,7 +25721,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Da.課程結束時，體力回覆"
+          "text": "SP Da.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25747,7 +25747,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Da.課程結束時，體力回覆"
+          "text": "SP Da.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25773,7 +25773,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Da.課程結束時，體力回覆"
+          "text": "SP Da.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25799,7 +25799,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Da.課程結束時，體力回覆"
+          "text": "SP Da.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -25825,7 +25825,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Da.課程結束時，體力回覆"
+          "text": "SP Da.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26369,7 +26369,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP課程結束時，體力回覆"
+          "text": "SP課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26395,7 +26395,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP課程結束時，體力回覆"
+          "text": "SP課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26421,7 +26421,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP課程結束時，體力回覆"
+          "text": "SP課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26629,7 +26629,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vi.課程結束時，體力回覆"
+          "text": "SP Vi.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26655,7 +26655,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vi.課程結束時，體力回覆"
+          "text": "SP Vi.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26681,7 +26681,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vi.課程結束時，體力回覆"
+          "text": "SP Vi.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26707,7 +26707,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vi.課程結束時，體力回覆"
+          "text": "SP Vi.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26733,7 +26733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vi.課程結束時，體力回覆"
+          "text": "SP Vi.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26759,7 +26759,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vi.課程結束時，體力回覆"
+          "text": "SP Vi.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -26785,7 +26785,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vi.課程結束時，體力回覆"
+          "text": "SP Vi.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -27357,7 +27357,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vo.課程結束時，體力回覆"
+          "text": "SP Vo.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -27383,7 +27383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vo.課程結束時，體力回覆"
+          "text": "SP Vo.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -27409,7 +27409,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vo.課程結束時，體力回覆"
+          "text": "SP Vo.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -27435,7 +27435,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vo.課程結束時，體力回覆"
+          "text": "SP Vo.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -27461,7 +27461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vo.課程結束時，體力回覆"
+          "text": "SP Vo.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -27487,7 +27487,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vo.課程結束時，體力回覆"
+          "text": "SP Vo.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -27513,7 +27513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "SP Vo.課程結束時，體力回覆"
+          "text": "SP Vo.課程結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -28085,7 +28085,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "外出結束時，體力回覆"
+          "text": "外出結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -28111,7 +28111,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "外出結束時，體力回覆"
+          "text": "外出結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -28137,7 +28137,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "外出結束時，體力回覆"
+          "text": "外出結束時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37461,7 +37461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "這張支援卡的事件所獲得的體力回覆量會"
+          "text": "這張支援卡的事件所獲得的體力回復量會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37497,7 +37497,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "這張支援卡的事件所獲得的體力回覆量會"
+          "text": "這張支援卡的事件所獲得的體力回復量會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37533,7 +37533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "這張支援卡的事件所獲得的體力回覆量會"
+          "text": "這張支援卡的事件所獲得的體力回復量會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37569,7 +37569,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "這張支援卡的事件所獲得的體力回覆量會"
+          "text": "這張支援卡的事件所獲得的體力回復量會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37605,7 +37605,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "這張支援卡的事件所獲得的體力回覆量會"
+          "text": "這張支援卡的事件所獲得的體力回復量會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37641,7 +37641,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "這張支援卡的事件所獲得的體力回覆量會"
+          "text": "這張支援卡的事件所獲得的體力回復量會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37677,7 +37677,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "這張支援卡的事件所獲得的體力回覆量會"
+          "text": "這張支援卡的事件所獲得的體力回復量會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37713,7 +37713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "這張支援卡的事件所獲得的體力回覆量會"
+          "text": "這張支援卡的事件所獲得的體力回復量會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -37749,7 +37749,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "這張支援卡的事件所獲得的體力回覆量會"
+          "text": "這張支援卡的事件所獲得的體力回復量會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -46575,7 +46575,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "選擇活動補給・慰問品時，體力回覆"
+          "text": "選擇活動補給・慰問品時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -46601,7 +46601,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "選擇活動補給・慰問品時，體力回覆"
+          "text": "選擇活動補給・慰問品時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -46627,7 +46627,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "選擇活動補給・慰問品時，體力回覆"
+          "text": "選擇活動補給・慰問品時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -48665,7 +48665,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "選擇諮詢時，體力回覆"
+          "text": "選擇諮詢時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -48691,7 +48691,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "選擇諮詢時，體力回覆"
+          "text": "選擇諮詢時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -48717,7 +48717,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "選擇諮詢時，體力回覆"
+          "text": "選擇諮詢時，體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",

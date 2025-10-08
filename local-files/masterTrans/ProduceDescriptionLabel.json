@@ -490,7 +490,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "可以回覆體力的營業"
+          "text": "可以回復體力的營業"
         }
       ],
       "name": "度假村設施"
@@ -2098,10 +2098,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "從弱體狀態中回覆"
+          "text": "從弱體狀態中回復"
         }
       ],
-      "name": "低下狀態回覆"
+      "name": "低下狀態回復"
     },
     {
       "id": "Label_ExamEffectTimer",
@@ -5796,7 +5796,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "體力回覆效果將"
+          "text": "體力回復效果將"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -5819,14 +5819,14 @@
           "text": "增加"
         }
       ],
-      "name": "體力回覆效果增加"
+      "name": "體力回復效果增加"
     },
     {
       "id": "Label_ExamStaminaRecoverFix",
       "produceDescriptions": [
         ""
       ],
-      "name": "體力回覆"
+      "name": "體力回復"
     },
     {
       "id": "Label_ExamStaminaRecoverRestriction",
@@ -5839,10 +5839,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "體力將不會回覆"
+          "text": "體力將不會回復"
         }
       ],
-      "name": "體力回覆無效"
+      "name": "體力回復無效"
     },
     {
       "id": "Label_ExamStaminaReduceChange",

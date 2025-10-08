@@ -1184,7 +1184,7 @@
     {
       "id": "item-staminaregen-1",
       "name": "AP飲料",
-      "description": "可以讓AP回覆20的飲料",
+      "description": "可以讓AP回復20的飲料",
       "acquisitionRouteDescription": "商店、製作人Lv提升報酬等方式"
     },
     {

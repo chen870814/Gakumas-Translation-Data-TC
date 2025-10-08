@@ -19,47 +19,47 @@
     },
     {
       "type": "ProduceEffectType_VocalDown",
-      "name": "歌唱低下"
+      "name": "Vo.能力值低下"
     },
     {
       "type": "ProduceEffectType_DanceDown",
-      "name": "舞蹈低下"
+      "name": "Da.能力值低下"
     },
     {
       "type": "ProduceEffectType_VisualDown",
-      "name": "視覺低下"
+      "name": "Vi.能力值低下"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "歌唱課程獎勵+"
+      "name": "Vo.課程獎勵+"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
-      "name": "舞蹈課程獎勵+"
+      "name": "Da.課程獎勵+"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "視覺課程獎勵+"
+      "name": "Vi.課程獎勵+"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "歌唱課程獎勵-"
+      "name": "Vo.課程獎勵-"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
-      "name": "舞蹈課程獎勵-"
+      "name": "Da.課程獎勵-"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateDown",
-      "name": "視覺課程獎勵-"
+      "name": "Vi.課程獎勵-"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
-      "name": "體力回覆"
+      "name": "體力回復"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverMultiple",
-      "name": "體力比例回覆"
+      "name": "體力比例回復"
     },
     {
       "type": "ProduceEffectType_StaminaReduceFix",
@@ -75,11 +75,11 @@
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueUp",
-      "name": "體力回覆量增加"
+      "name": "體力回復量增加"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverValueDown",
-      "name": "體力回覆量減少"
+      "name": "體力回復量減少"
     },
     {
       "type": "ProduceEffectType_StaminaReduceValueUp",
@@ -91,7 +91,7 @@
     },
     {
       "type": "ProduceEffectType_StaminaRecoverDisable",
-      "name": "體力回覆無效"
+      "name": "體力回復無效"
     },
     {
       "type": "ProduceEffectType_MaxStaminaAddition",
@@ -191,15 +191,15 @@
     },
     {
       "type": "ProduceEffectType_LessonVocalSpChangeRatePermilAddition",
-      "name": "歌唱SP課程發生概率增加"
+      "name": "SP Vo.課程發生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonDanceSpChangeRatePermilAddition",
-      "name": "舞蹈SP課程發生概率增加"
+      "name": "SP Da.課程發生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonVisualSpChangeRatePermilAddition",
-      "name": "視覺SP課程發生概率增加"
+      "name": "SP Vi.課程發生概率增加"
     },
     {
       "type": "ProduceEffectType_LessonSpChangeRatePermilDown",
@@ -255,7 +255,7 @@
     },
     {
       "type": "ProduceEffectType_SupportCardEventStaminaRecoverUp",
-      "name": "支援活動的體力回覆量增加"
+      "name": "支援活動的體力回復量增加"
     },
     {
       "type": "ProduceEffectType_SupportCardEventProducePointAdditionValueUp",
@@ -335,11 +335,11 @@
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaUp",
-      "name": "考試前體力回覆量增加"
+      "name": "考試前體力回復量增加"
     },
     {
       "type": "ProduceEffectType_BeforeAuditionRefreshStaminaDown",
-      "name": "考試前體力回覆量減少"
+      "name": "考試前體力回復量減少"
     },
     {
       "type": "ProduceEffectType_ProduceCardExcludeCountUp",

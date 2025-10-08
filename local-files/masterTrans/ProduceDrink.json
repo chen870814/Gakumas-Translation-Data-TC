@@ -145,7 +145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "體力回覆"
+          "text": "體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191,7 +191,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "體力回覆"
+          "text": "體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267,7 +267,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "體力回覆"
+          "text": "體力回復"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

@@ -15,11 +15,11 @@
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_down-000",
-      "name": "考試前體力回覆量減少"
+      "name": "考試前體力回復量減少"
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_up-000",
-      "name": "考試前體力回覆量增加"
+      "name": "考試前體力回復量增加"
     },
     {
       "id": "effect_group-visible-dance_addition-000",
@@ -251,7 +251,7 @@
     },
     {
       "id": "effect_group-visible-stamina_recover_fix-000",
-      "name": "體力回覆"
+      "name": "體力回復"
     },
     {
       "id": "effect_group-visible-stamina_reduce_fix-000",

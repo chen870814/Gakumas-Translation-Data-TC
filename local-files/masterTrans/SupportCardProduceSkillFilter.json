@@ -34,17 +34,17 @@
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_audition",
       "order": 33,
-      "title": "考試・試鏡結束時體力回覆"
+      "title": "考試・試鏡結束時體力回復"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-end_lesson-lesson_sp",
       "order": 32,
-      "title": "SP課程結束時體力回覆"
+      "title": "SP課程結束時體力回復"
     },
     {
       "id": "s_card_p_skill_filter-staminarecoverfix-p_trigger-start_present",
       "order": 34,
-      "title": "選擇活動補給・慰問品時體力回覆"
+      "title": "選擇活動補給・慰問品時體力回復"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-buy_shop_item_produce_drink",

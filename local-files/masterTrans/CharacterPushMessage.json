@@ -621,7 +621,7 @@
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
       "title": "十王星南",
-      "message": "迷你Live剛結束。現在\n能陪我覆盤嗎？"
+      "message": "迷你Live剛結束。現在\n能陪我復盤嗎？"
     },
     {
       "characterId": "jsna",
@@ -803,7 +803,7 @@
       "type": "PushType_WorkMiniLiveFinish",
       "number": 3,
       "title": "葛城莉莉婭",
-      "message": "迷你Live……好、好緊張。\n覆盤會就拜託了"
+      "message": "迷你Live……好、好緊張。\n復盤會就拜託了"
     },
     {
       "characterId": "kllj",
