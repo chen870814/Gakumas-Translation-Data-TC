@@ -207,6 +207,14 @@
       ]
     },
     {
+      "id": "help-producer-ranking",
+      "order": 24,
+      "name": "製作人排行榜",
+      "texts": [
+        ""
+      ]
+    },
+    {
       "id": "help-research-event",
       "order": 28,
       "name": "亞紗里老師的培育研討會",
