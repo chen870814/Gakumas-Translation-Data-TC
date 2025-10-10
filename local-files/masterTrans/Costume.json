@@ -136,6 +136,11 @@
       "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】有村麻央的才能開花第4階段 獲得"
     },
     {
+      "id": "amao-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【Fluorite】'25全力以赴！ 有村麻央 獲得"
+    },
+    {
       "id": "amao-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（有村麻央）"
@@ -306,6 +311,16 @@
       "description": "【世界第一可愛的我】'25奇蹟正是現在(ﾟ∀ﾟ)！ 藤田琴音 獲得"
     },
     {
+      "id": "fktn-cstm-0123",
+      "name": "全力以赴！",
+      "description": "【全力以赴！】藤田琴音 獲得"
+    },
+    {
+      "id": "fktn-cstm-0124",
+      "name": "全力以赴！",
+      "description": "【全力以赴！】藤田琴音的才能开花第4階段 獲得"
+    },
+    {
       "id": "fktn-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（藤田琴音）"
@@ -399,6 +414,11 @@
       "id": "hmsz-cstm-0122",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【月之龜】'25奇蹟正是現在(ﾟ∀ﾟ)！ 秦谷美鈴 獲得"
+    },
+    {
+      "id": "hmsz-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【月之龜】'25全力以赴！ 秦谷美鈴 獲得"
     },
     {
       "id": "hmsz-othr-0002",
@@ -564,6 +584,11 @@
       "id": "hrnm-cstm-0122",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【clumsy trick】'25奇蹟正是現在(ﾟ∀ﾟ)！ 姫崎莉波 獲得"
+    },
+    {
+      "id": "hrnm-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【clumsy trick】'25全力以赴！ 姬崎莉波 獲得"
     },
     {
       "id": "hrnm-othr-0000",
@@ -736,6 +761,11 @@
       "description": "【Fighting My Way】'25奇蹟正是現在(ﾟ∀ﾟ)！ 花海咲季 獲得"
     },
     {
+      "id": "hski-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【全力以赴！】花海咲季 獲得"
+    },
+    {
       "id": "hski-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（花海咲季）"
@@ -859,6 +889,11 @@
       "id": "hume-cstm-0122",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【The Rolling Riceball】'25奇蹟正是現在(ﾟ∀ﾟ)！ 花海佑芽 獲得"
+    },
+    {
+      "id": "hume-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【The Rolling Riceball】'25全力以赴！ 花海佑芽 獲得"
     },
     {
       "id": "hume-othr-0000",
@@ -1006,6 +1041,11 @@
       "description": "【小小的野心】'25奇蹟正是現在(ﾟ∀ﾟ)！ 十王星南 獲得"
     },
     {
+      "id": "jsna-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【小小的野心】'25全力以赴！ 十王星南 獲得"
+    },
+    {
       "id": "jsna-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（十王星南）"
@@ -1054,6 +1094,11 @@
       "id": "kcna-cstm-0033",
       "name": "每天、都有新發現！",
       "description": "【每天、都有新發現！】倉本千奈 獲得"
+    },
+    {
+      "id": "kcna-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【Wonder Scale】'25全力以赴！ 倉本千奈 獲得"
     },
     {
       "id": "kcna-cstm-0034",
@@ -1309,6 +1354,10 @@
       "id": "kllj-cstm-0122",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【白線】'25奇蹟正是現在(ﾟ∀ﾟ)！ 葛城莉莉婭 獲得"
+    },{
+      "id": "kllj-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【白線】'25全力以赴！ 葛城莉莉婭 獲得"
     },
     {
       "id": "kllj-othr-0002",
@@ -1491,6 +1540,11 @@
       "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的才能開花第4階段 獲得"
     },
     {
+      "id": "shro-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【光景】'25全力以赴！ 筱澤廣 獲得"
+    },
+    {
       "id": "shro-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（筱澤廣）"
@@ -1644,6 +1698,11 @@
       "id": "ssmk-cstm-0122",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】紫雲清夏 獲得"
+    },
+    {
+      "id": "ssmk-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【Tame-Lie-One-Step】'25全力以赴！ 紫雲清夏 獲得"
     },
     {
       "id": "ssmk-othr-0002",
