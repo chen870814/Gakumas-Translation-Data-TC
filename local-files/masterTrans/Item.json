@@ -146,7 +146,7 @@
     {
       "id": "item-dearness-unlock-shro",
       "name": "廣的記錄之鑰",
-      "description": "解鎖筱澤廣STEP3親密度交流的道具",
+      "description": "解鎖篠澤廣STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
@@ -177,7 +177,7 @@
       "id": "item-gashaitem-10_01",
       "name": "初星印章★無料10連扭蛋票據",
       "description": "可以在最多100連無料！TVCM放映紀念10連無料扭蛋中使用的道具",
-      "acquisitionRouteDescription": "TVCM放映紀念登錄獎勵"
+      "acquisitionRouteDescription": "TVCM放映紀念登入獎勵"
     },
     {
       "id": "item-gashaticket-1",
@@ -973,61 +973,61 @@
     },
     {
       "id": "item-piece-idol_shro-1-000",
-      "name": "[學園生活]筱澤廣的碎片",
+      "name": "[學園生活]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-1-001",
-      "name": "[初戀]",
+      "name": "[初戀]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-2-000",
-      "name": "[最不適合的事]",
+      "name": "[最不適合的事]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-000",
-      "name": "[光景]筱澤廣的碎片",
+      "name": "[光景]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-001",
-      "name": "[反差]筱澤廣的碎片",
+      "name": "[反差]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-002",
-      "name": "[變裝狂想曲]筱澤廣的碎片",
+      "name": "[變裝狂想曲]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-007",
-      "name": "[Campus mode!!]筱澤廣的碎片",
+      "name": "[Campus mode!!]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-008",
-      "name": "[幸福千層酥]筱澤廣的碎片",
+      "name": "[幸福千層酥]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "活動扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-012",
-      "name": "[褪色]筱澤廣的碎片",
+      "name": "[褪色]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-014",
-      "name": "[奇蹟正是現在(ﾟ∀ﾟ)！]筱澤廣的碎片",
+      "name": "[奇蹟正是現在(ﾟ∀ﾟ)！]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -1145,6 +1145,12 @@
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
+	{
+      "id": "item-piece-idol_ttmr-3-015",
+      "name": "[全力以赴！]月村手毬的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
     {
       "id": "item-play-ticket_tour-event-001",
       "name": "演唱會挑戰券（大阪）",
@@ -1183,6 +1189,12 @@
     },
     {
       "id": "item-research-event-001",
+      "name": "亞紗里老師貼紙",
+      "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-research-event-002",
       "name": "亞紗里老師貼紙",
       "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
       "acquisitionRouteDescription": "培育等方式"

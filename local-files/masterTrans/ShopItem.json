@@ -34,6 +34,10 @@
       "name": "紫陽花髮飾（藤田琴音）"
     },
     {
+      "id": "shop_costume_costume_head_fktn-hair-0003",
+      "name": "圓框眼鏡（藤田琴音）"
+    },
+    {
       "id": "shop_costume_costume_head_hmsz-hair-0001",
       "name": "紫陽花髮飾（秦谷美鈴）"
     },
@@ -54,6 +58,10 @@
       "name": "紫陽花髮飾（姬崎莉波）"
     },
     {
+      "id": "shop_costume_costume_head_hrnm-hair-0003",
+      "name": "圓框眼鏡（姬崎莉波）"
+    },
+    {
       "id": "shop_costume_costume_head_hski-hair-0001",
       "name": "紫陽花髮飾（花海咲季）"
     },
@@ -64,6 +72,10 @@
     {
       "id": "shop_costume_costume_head_hume-hair-0001",
       "name": "紫陽花髮飾（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_costume_head_hume-hair-0003",
+      "name": "圓框眼鏡（花海佑芽）"
     },
     {
       "id": "shop_costume_costume_head_jsna-hair-0001",
@@ -78,6 +90,10 @@
       "name": "紫陽花髮飾（倉本千奈）"
     },
     {
+      "id": "shop_costume_costume_head_kcna-hair-0003",
+      "name": "圓框眼鏡（仓本千奈）"
+    },
+    {
       "id": "shop_costume_costume_head_kllj-hair-0001",
       "name": "紫陽花髮飾（葛城莉莉婭）"
     },
@@ -87,11 +103,11 @@
     },
     {
       "id": "shop_costume_costume_head_shro-hair-0001",
-      "name": "紫陽花髮飾（筱澤廣）"
+      "name": "紫陽花髮飾（篠澤廣）"
     },
     {
       "id": "shop_costume_costume_head_shro-hair-0003",
-      "name": "圓框眼鏡（筱澤廣）"
+      "name": "圓框眼鏡（篠澤廣）"
     },
     {
       "id": "shop_costume_costume_head_ssmk-hair-0001",
@@ -279,19 +295,19 @@
     },
     {
       "id": "shop_costume_shro-cstm-0069_revival-1",
-      "name": "兒童罩衫（筱澤廣）"
+      "name": "兒童罩衫（篠澤廣）"
     },
     {
       "id": "shop_costume_shro-cstm-0111",
-      "name": "水手服泳裝（筱澤廣）"
+      "name": "水手服泳裝（篠澤廣）"
     },
     {
       "id": "shop_costume_shro-trng-0002",
-      "name": "初星學園體操服（筱澤廣）"
+      "name": "初星學園體操服（篠澤廣）"
     },
     {
       "id": "shop_costume_shro-trng-0002-resale",
-      "name": "初星學園體操服（筱澤廣）"
+      "name": "初星學園體操服（篠澤廣）"
     },
     {
       "id": "shop_costume_ssmk-cstm-0051",
@@ -567,7 +583,7 @@
     },
     {
       "id": "shop_pack_item-onsen-costume-shro",
-      "name": "溫泉泳裝（筱澤廣）"
+      "name": "溫泉泳裝（篠澤廣）"
     },
     {
       "id": "shop_pack_item-onsen-costume-ssmk",
@@ -652,6 +668,10 @@
     {
       "id": "shop_pass_item-0017",
       "name": "高級任務通行證 2025年9月"
+    },
+    {
+      "id": "shop_pass_item-0018",
+      "name": "高級任務通行證 2025年10月"
     }
   ]
 }

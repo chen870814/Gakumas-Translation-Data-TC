@@ -998,57 +998,57 @@
     {
       "id": "costume_head_shro-cstm-0006",
       "name": "光景",
-      "description": "【光景】筱澤廣 獲得"
+      "description": "【光景】篠澤廣 獲得"
     },
     {
       "id": "costume_head_shro-cstm-0031",
       "name": "反差",
-      "description": "【反差】筱澤廣 獲得"
+      "description": "【反差】篠澤廣 獲得"
     },
     {
       "id": "costume_head_shro-cstm-0047",
       "name": "變裝狂想曲",
-      "description": "【變裝狂想曲】筱澤廣 獲得"
+      "description": "【變裝狂想曲】篠澤廣 獲得"
     },
     {
       "id": "costume_head_shro-cstm-0048",
       "name": "變裝狂想曲",
-      "description": "【變裝狂想曲】筱澤廣的才能開花第4階段 獲得"
+      "description": "【變裝狂想曲】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_shro-cstm-0053",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】筱澤廣 獲得"
+      "description": "【Campus mode!!】篠澤廣 獲得"
     },
     {
       "id": "costume_head_shro-cstm-0054",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】筱澤廣的才能開花第4階段 獲得"
+      "description": "【Campus mode!!】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_shro-cstm-0063",
       "name": "冠菊",
-      "description": "【光景】'24祭典 筱澤廣 獲得"
+      "description": "【光景】'24祭典 篠澤廣 獲得"
     },
     {
       "id": "costume_head_shro-cstm-0088",
       "name": "褪色",
-      "description": "【褪色】筱澤廣 獲得"
+      "description": "【褪色】篠澤廣 獲得"
     },
     {
       "id": "costume_head_shro-cstm-0089",
       "name": "褪色",
-      "description": "【褪色】筱澤廣的才能開花第4階段 獲得"
+      "description": "【褪色】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_shro-cstm-0120",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
-      "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣 獲得"
+      "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】篠澤廣 獲得"
     },
     {
       "id": "costume_head_shro-cstm-0121",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
-      "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的才能開花第4階段 獲得"
+      "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_shro-hair-0001",
@@ -1058,7 +1058,7 @@
     {
       "id": "costume_head_shro-hair-0002",
       "name": "公主皇冠",
-      "description": "筱澤廣的偶像之路 通關第20關"
+      "description": "篠澤廣的偶像之路 通關第20關"
     },
     {
       "id": "costume_head_shro-hair-0003",
@@ -1088,7 +1088,7 @@
     {
       "id": "costume_head_shro-hair-0011",
       "name": "褪色（簡單搭配）",
-      "description": "【褪色】筱澤廣 獲得"
+      "description": "【褪色】篠澤廣 獲得"
     },
     {
       "id": "costume_head_ssmk-cstm-0009",
@@ -1176,13 +1176,9 @@
       "description": "高級任務通行證 2025年7月 獲得"
     },
     {
-
       "id": "costume_head_ssmk-hair-0008",
-
       "name": "狗耳",
-
       "description": "高級任務通行證 2025年10月 獲得"
-
     },
     {
       "id": "costume_head_ssmk-hair-0010",
@@ -1258,6 +1254,16 @@
       "id": "costume_head_ttmr-cstm-0113",
       "name": "雨後的鳶尾花",
       "description": "【雨後的鳶尾花】月村手毬的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0123",
+      "name": "全力以赴！",
+      "description": "【全力以赴！】月村手毬 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0124",
+      "name": "全力以赴！",
+      "description": "【全力以赴！】月村手毬的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_ttmr-hair-0001",

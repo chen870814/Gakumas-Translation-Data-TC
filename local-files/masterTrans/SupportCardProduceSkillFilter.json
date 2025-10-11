@@ -56,6 +56,11 @@
       "order": 13,
       "title": "技能卡變換時能力值上升"
     },
+	{
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-customize_produce_card",
+      "order": 32,
+      "title": "自定義技能卡時能力值上升"
+    },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-delete_produce_card-0000_0000-p_card_search-active_skill-deck_all",
       "order": 12,
@@ -75,6 +80,11 @@
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
       "order": 25,
       "title": "考試・試鏡結束時能力值上升"
+    },
+	{
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",
+      "order": 36,
+      "title": "SP課程結束時持有技能卡在20張以上時能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_vocal",
@@ -110,6 +120,11 @@
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all",
       "order": 14,
       "title": "技能卡獲得時能力值上升"
+    },
+	{
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_block-000",
+      "order": 33,
+      "title": "元氣效果的技能卡獲得時能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-0000_0000-p_card_search-deck_all-effect_group-visible-exam_card_play_aggressive-000",
@@ -151,10 +166,30 @@
       "order": 15,
       "title": "輔助技能卡獲得時能力值上升"
     },
+	{
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_card-p_card_search-ssr-deck_all-1",
+      "order": 34,
+      "title": "技能卡（SSR）獲得時能力值上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_drink",
+      "order": 31,
+      "title": "P飲料獲得時能力值上升"
+    },
+    {
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-get_produce_item",
+      "order": 35,
+      "title": "P道具獲得時能力值上升"
+    },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-produce_start-initial",
       "order": 1,
       "title": "初始能力值上升"
+    },
+	{
+      "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_customize",
+      "order": 37,
+      "title": "特别指導開始時能力值上升"
     },
     {
       "id": "s_card_p_skill_filter-vocaladdition-p_trigger-start_present",

@@ -13,6 +13,10 @@
       "id": "achievement.true_end.receive.lesson_bonus",
       "description": "能力值獎勵"
     },
+	{
+      "id": "card.detail.enhance.invalid.point.exp.short",
+      "description": "訓練Pt不足。"
+    },
     {
       "id": "dearness.dearness_level_detail_sheet.title",
       "description": "親密度Lv詳情"
@@ -57,6 +61,10 @@
       "id": "produce.server_force_reset.confirm.description",
       "description": "正在遊玩中的培育數據已被清除。"
     },
+	{
+      "id": "producer_ranking.character_reward.description",
+      "description": "根據賽季結束時製作人排行榜的排名，在統計期間結束後可以獲得獎勵"
+    },
     {
       "id": "profile.report.share.text",
       "description": "#學マス #初星學園通知表"
@@ -64,10 +72,6 @@
     {
       "id": "research_event.target_idol_sheet.description",
       "description": "只有活動模式的P偶像才可以挑戰活動模式的培育"
-    },
-    {
-      "id": "title.menu.delete_local_data.description",
-      "description": "是否要刪除已儲存的本地數據？\\n\\n■注意事項（※請務必閱讀）\\n執行本地數據刪除後，用戶數據不會被刪除，但遊戲過程中的中斷數據及部分儲存狀態將會被刪除。"
     },
     {
       "id": "voice.idol_use_produce_card",

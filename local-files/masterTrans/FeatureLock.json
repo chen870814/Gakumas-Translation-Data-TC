@@ -66,15 +66,10 @@
       "routeDescription": "可以從主頁的親密度中確認 "
     },
     {
-
       "tutorialType": "TutorialType_ProducerRanking",
-
       "name": "製作人排行榜",
-
       "description": "「製作人排行榜」功能解锁",
-
       "routeDescription": "可從競技場頁面進入確認"
-
     }
   ]
 }

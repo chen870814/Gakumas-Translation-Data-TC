@@ -1096,11 +1096,6 @@
       "description": "【每天、都有新發現！】倉本千奈 獲得"
     },
     {
-      "id": "kcna-cstm-0125",
-      "name": "全力以赴！",
-      "description": "【Wonder Scale】'25全力以赴！ 倉本千奈 獲得"
-    },
-    {
       "id": "kcna-cstm-0034",
       "name": "每天、都有新發現！",
       "description": "【每天、都有新發現！】倉本千奈的才能開花第4階段 獲得"
@@ -1199,6 +1194,11 @@
       "id": "kcna-cstm-0122",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【Wonder Scale】'25奇蹟正是現在(ﾟ∀ﾟ)！ 倉本千奈 獲得"
+    },
+    {
+      "id": "kcna-cstm-0125",
+      "name": "全力以赴！",
+      "description": "【Wonder Scale】'25全力以赴！ 倉本千奈 獲得"
     },
     {
       "id": "kcna-othr-0002",
@@ -1354,7 +1354,8 @@
       "id": "kllj-cstm-0122",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【白線】'25奇蹟正是現在(ﾟ∀ﾟ)！ 葛城莉莉婭 獲得"
-    },{
+    },
+	{
       "id": "kllj-cstm-0125",
       "name": "全力以赴！",
       "description": "【白線】'25全力以赴！ 葛城莉莉婭 獲得"
@@ -1417,57 +1418,57 @@
     {
       "id": "shro-cstm-0006",
       "name": "光景",
-      "description": "【光景】筱澤廣 獲得"
+      "description": "【光景】篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0018",
       "name": "光景",
-      "description": "【光景】筱澤廣的才能開花第4階段 獲得"
+      "description": "【光景】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "shro-cstm-0031",
       "name": "反差",
-      "description": "【反差】筱澤廣 獲得"
+      "description": "【反差】篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0032",
       "name": "反差",
-      "description": "【反差】筱澤廣的才能開花第4階段 獲得"
+      "description": "【反差】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "shro-cstm-0047",
       "name": "變裝狂想曲",
-      "description": "【變裝狂想曲】筱澤廣 獲得"
+      "description": "【變裝狂想曲】篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0048",
       "name": "變裝狂想曲",
-      "description": "【變裝狂想曲】筱澤廣的才能開花第4階段 獲得"
+      "description": "【變裝狂想曲】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "shro-cstm-0051",
       "name": "與你共度的湛藍夏日",
-      "description": "【光景】'24夏 筱澤廣 獲得"
+      "description": "【光景】'24夏 篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0053",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】筱澤廣 獲得"
+      "description": "【Campus mode!!】篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0054",
       "name": "Campus mode!!",
-      "description": "【Campus mode!!】筱澤廣的才能開花第4階段 獲得"
+      "description": "【Campus mode!!】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "shro-cstm-0063",
       "name": "冠菊",
-      "description": "【光景】'24祭典 筱澤廣 獲得"
+      "description": "【光景】'24祭典 篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0067",
       "name": "White Night! White Wish!",
-      "description": "【光景】'24聖誕節 筱澤廣 獲得"
+      "description": "【光景】'24聖誕節 篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0069",
@@ -1477,77 +1478,77 @@
     {
       "id": "shro-cstm-0072",
       "name": "黃金光輝",
-      "description": "筱澤廣的偶像之路 通關第10關"
+      "description": "篠澤廣的偶像之路 通關第10關"
     },
     {
       "id": "shro-cstm-0073",
       "name": "白金光輝",
-      "description": "筱澤廣的偶像之路 通關第15關"
+      "description": "篠澤廣的偶像之路 通關第15關"
     },
     {
       "id": "shro-cstm-0075",
       "name": "幸福千層酥",
-      "description": "【幸福千層酥】筱澤廣 獲得"
+      "description": "【幸福千層酥】篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0076",
       "name": "雪融之時",
-      "description": "【光景】'25女兒節 筱澤廣 獲得"
+      "description": "【光景】'25女兒節 篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0081",
       "name": "櫻花相簿",
-      "description": "【光景】'25櫻花 筱澤廣 獲得"
+      "description": "【光景】'25櫻花 篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0088",
       "name": "褪色",
-      "description": "【褪色】筱澤廣 獲得"
+      "description": "【褪色】篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0089",
       "name": "褪色",
-      "description": "【褪色】筱澤廣的才能開花第4階段 獲得"
+      "description": "【褪色】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "shro-cstm-0110",
       "name": "漆黑的光芒",
-      "description": "筱澤廣的偶像之路 通關第25關"
+      "description": "篠澤廣的偶像之路 通關第25關"
     },
     {
       "id": "shro-cstm-0111",
       "name": "水手服泳裝",
-      "description": "購買水手服泳裝（筱澤廣）"
+      "description": "購買水手服泳裝（篠澤廣）"
     },
     {
       "id": "shro-cstm-0118",
       "name": "Howling over the World",
-      "description": "【光景】'25Howling over the World 筱澤廣 獲得"
+      "description": "【光景】'25Howling over the World 篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0119",
       "name": "何時何地簡簡單單",
-      "description": "【光景】'25Animate 筱澤廣 獲得"
+      "description": "【光景】'25Animate 篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0120",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
-      "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣 獲得"
+      "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】篠澤廣 獲得"
     },
     {
       "id": "shro-cstm-0121",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
-      "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的才能開花第4階段 獲得"
+      "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】篠澤廣的才能開花第4階段 獲得"
     },
     {
       "id": "shro-cstm-0125",
       "name": "全力以赴！",
-      "description": "【光景】'25全力以赴！ 筱澤廣 獲得"
+      "description": "【光景】'25全力以赴！ 篠澤廣 獲得"
     },
     {
       "id": "shro-othr-0002",
       "name": "溫泉泳裝",
-      "description": "購買溫泉泳裝（筱澤廣）"
+      "description": "購買溫泉泳裝（篠澤廣）"
     },
     {
       "id": "shro-trng-0000",
@@ -1557,12 +1558,12 @@
     {
       "id": "shro-trng-0001",
       "name": "練習服",
-      "description": "筱澤廣的大師成就達到Rank3"
+      "description": "篠澤廣的大師成就達到Rank3"
     },
     {
       "id": "shro-trng-0002",
       "name": "初星學園體操服",
-      "description": "購買初星學園體操服（筱澤廣）"
+      "description": "購買初星學園體操服（篠澤廣）"
     },
     {
       "id": "ssmk-cstm-0000",
@@ -1858,6 +1859,16 @@
       "id": "ttmr-cstm-0122",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【Luna say maybe】'25奇蹟正是現在(ﾟ∀ﾟ)！ 月村手毬 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0123",
+      "name": "全力以赴！",
+      "description": "【全力以赴！】月村手毬 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0124",
+      "name": "全力以赴！",
+      "description": "【全力以赴！】月村手毬的才能開花第4階段 獲得"
     },
     {
       "id": "ttmr-othr-0002",

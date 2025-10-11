@@ -95,11 +95,19 @@
     },
     {
       "id": "music-all-012-inst",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！ [Instrumental]",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！ [Instrumental]",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！ [Instrumental]",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！ [Instrumental]",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+	{
+      "id": "music-all-013-inst",
+      "title": "全力以赴！ [Instrumental]",
+      "displayTitle": "全力以赴！ [Instrumental]",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-amao-001",
@@ -191,11 +199,19 @@
     },
     {
       "id": "music-all-amao-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+	{
+      "id": "music-all-amao-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-fktn-001",
@@ -287,11 +303,19 @@
     },
     {
       "id": "music-all-fktn-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-fktn-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-hmsz-001",
@@ -327,11 +351,19 @@
     },
     {
       "id": "music-all-hmsz-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-hmsz-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-hrnm-001",
@@ -423,11 +455,19 @@
     },
     {
       "id": "music-all-hrnm-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-hrnm-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-hski-001",
@@ -519,11 +559,19 @@
     },
     {
       "id": "music-all-hski-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-hski-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-hume-001",
@@ -591,11 +639,19 @@
     },
     {
       "id": "music-all-hume-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-hume-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-jsna-001",
@@ -671,11 +727,19 @@
     },
     {
       "id": "music-all-jsna-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-jsna-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-kcna-001",
@@ -767,11 +831,19 @@
     },
     {
       "id": "music-all-kcna-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-kcna-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-kllj-001",
@@ -863,11 +935,19 @@
     },
     {
       "id": "music-all-kllj-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-kllj-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-nasr-010",
@@ -967,11 +1047,19 @@
     },
     {
       "id": "music-all-shro-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-shro-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-ssmk-001",
@@ -1063,11 +1151,19 @@
     },
     {
       "id": "music-all-ssmk-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+    {
+      "id": "music-all-ssmk-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-all-ttmr-001",
@@ -1159,11 +1255,19 @@
     },
     {
       "id": "music-all-ttmr-012",
-      "title": "奇迹正是现在(ﾟ∀ﾟ)！",
-      "displayTitle": "奇迹正是现在(ﾟ∀ﾟ)！",
+      "title": "奇蹟正是現在(ﾟ∀ﾟ)！！",
+      "displayTitle": "奇蹟正是現在(ﾟ∀ﾟ)！！",
       "lyrics": "YUC'e",
       "composer": "YUC'e",
       "arranger": "YUC'e"
+    },
+	{
+      "id": "music-all-ttmr-013",
+      "title": "全力以赴！",
+      "displayTitle": "全力以赴！",
+      "lyrics": "SHOW (Digz, Inc. Group)",
+      "composer": "SHOW (Digz, Inc. Group)、Mitsu.J (Digz, Inc. Group)",
+      "arranger": "Mitsu.J (Digz, Inc. Group)"
     },
     {
       "id": "music-bgm-01_001",

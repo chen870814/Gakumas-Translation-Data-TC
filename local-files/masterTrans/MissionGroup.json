@@ -106,6 +106,10 @@
       "name": "BOX故事活動任務008"
     },
     {
+      "id": "mission-group-box-gasha-event-019",
+      "name": "巡演活動 名古屋篇"
+	},
+    {
       "id": "mission-group-circle-battle-event-001",
       "name": "#Animate氣氛活躍隊"
     },
@@ -532,6 +536,10 @@
     {
       "id": "mission-group-research-event-001",
       "name": "亞紗里研討001"
+    },
+	{
+      "id": "mission-group-research-event-002",
+      "name": "亞紗里研討002"
     },
     {
       "id": "mission-group-story-event-001",

@@ -114,7 +114,7 @@
     {
       "supportCardId": "s_card-2-0007",
       "number": 2,
-      "text": "哇～！好漂亮！\n筱澤同學，好厲害哇！"
+      "text": "哇～！好漂亮！\n篠澤同學，好厲害哇！"
     },
     {
       "supportCardId": "s_card-2-0007",
@@ -729,7 +729,7 @@
     {
       "supportCardId": "s_card-2-0053",
       "number": 1,
-      "text": "筱澤同學，沒事吧！？"
+      "text": "篠澤同學，沒事吧！？"
     },
     {
       "supportCardId": "s_card-2-0053",
@@ -769,7 +769,7 @@
     {
       "supportCardId": "s_card-2-0056",
       "number": 3,
-      "text": "你怎麼了！　筱澤！"
+      "text": "你怎麼了！　篠澤！"
     },
     {
       "supportCardId": "s_card-2-0058",
@@ -830,6 +830,36 @@
       "supportCardId": "s_card-2-0061",
       "number": 3,
       "text": "務必也教教我\n姬崎前輩您的拉伸方法吧！"
+    },
+    {
+      "supportCardId": "s_card-2-0062",
+      "number": 1,
+      "text": "哇～～～～～～～～！\n欸嘿嘿……麻央前輩，你被嚇到了嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0062",
+      "number": 2,
+      "text": "呵呵，原来是琴音啊。嚇了我一跳呢。\n你很適合吸血鬼呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0062",
+      "number": 3,
+      "text": "你絕對没有被嚇到吧～！？"
+    },
+	{
+      "supportCardId": "s_card-2-0063",
+      "number": 1,
+      "text": "這邊！　按這附近就好哦。"
+    },
+    {
+      "supportCardId": "s_card-2-0063",
+      "number": 2,
+      "text": "啊，等一下 —— 嘶！？"
+    },
+    {
+      "supportCardId": "s_card-2-0063",
+      "number": 3,
+      "text": "這裡痛的話，\n說不定是積累了疲勞哦～！"
     },
     {
       "supportCardId": "s_card-3-0000",
@@ -1819,7 +1849,7 @@
     {
       "supportCardId": "s_card-3-0066",
       "number": 2,
-      "text": "哼哼，我是筱澤廣"
+      "text": "哼哼，我是篠澤廣"
     },
     {
       "supportCardId": "s_card-3-0066",
@@ -1834,7 +1864,7 @@
     {
       "supportCardId": "s_card-3-0067",
       "number": 2,
-      "text": "是的……呵呵……\n在筱澤同學面前，果然沒有秘密呢。"
+      "text": "是的……呵呵……\n在篠澤同學面前，果然沒有秘密呢。"
     },
     {
       "supportCardId": "s_card-3-0067",
@@ -1945,6 +1975,36 @@
       "supportCardId": "s_card-3-0074",
       "number": 3,
       "text": "呵呵，莉莉婭，你看起來很開心呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0075",
+      "number": 1,
+      "text": "歡迎來我家做客♪"
+    },
+    {
+      "supportCardId": "s_card-3-0075",
+      "number": 2,
+      "text": "寬敞又大的房子裡還有女僕――"
+    },
+    {
+      "supportCardId": "s_card-3-0075",
+      "number": 3,
+      "text": "………………哇呀！\n就像電視劇的世界一樣～～～！"
+    },
+	{
+      "supportCardId": "s_card-3-0076",
+      "number": 1,
+      "text": "呃，那、那個…… 你懂的吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0076",
+      "number": 2,
+      "text": "呵呵。不，我不懂哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0076",
+      "number": 3,
+      "text": "（呵呵，那两個人和好了呢。）"
     },
     {
       "supportCardId": "s_card-3-0098",
