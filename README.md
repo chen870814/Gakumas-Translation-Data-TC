@@ -12,12 +12,12 @@
 - 培育研修中關卡的說明文字翻譯丟失  
 	基礎研修(0/9)  
 	├──基礎1:好調  
-	│	├──主要說明文字:heavy_check_mark:  
-	│	├──失敗建議(在好調狀態下):heavy_check_mark:  
+	│	├──主要說明文字 :heavy_check_mark:  
+	│	├──失敗建議(在好調狀態下) :heavy_check_mark:  
 	│	└──失敗建議(非好調狀態下)  
-	├──基礎2:集中:heavy_check_mark:  
+	├──基礎2:集中 :heavy_check_mark:  
 	├──基礎3:好印象  
-	│	主要說明文字:heavy_check_mark:  
+	│	主要說明文字 :heavy_check_mark:  
 	│	└──失敗建議  
 	├──基礎4:幹勁  
 	├──基礎5:消耗體力減少  
