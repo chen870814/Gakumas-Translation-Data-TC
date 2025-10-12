@@ -1,7 +1,0 @@
-{
-    "enableConsole": true,
-    "transRemoteZipUrl": "",
-    "useAPIAssets": true,
-    "useAPIAssetsURL": "https://api.github.com/repos/liuyuns2/Gakumas-Translation-Data-TC/releases/latest",
-    "useRemoteAssets": false
-}
