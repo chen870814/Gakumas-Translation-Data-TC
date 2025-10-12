@@ -71,7 +71,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverFix",
-      "name": "體力回覆"
+      "name": "體力回復"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonFix",
@@ -151,7 +151,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverAdd",
-      "name": "體力回覆效果增加"
+      "name": "體力回復效果增加"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceChange",
@@ -179,7 +179,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
-      "name": "體力回覆無效"
+      "name": "體力回復無效"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
@@ -247,7 +247,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamDebuffRecover",
-      "name": "低下狀態回覆"
+      "name": "低下狀態回復"
     },
     {
       "type": "ProduceExamEffectType_ExamReviewReduce",

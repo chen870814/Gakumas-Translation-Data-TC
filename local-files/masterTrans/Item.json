@@ -54,6 +54,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-coin-box-gasha-event-019",
+      "name": "名古屋巡演獎章",
+      "description": "可以在活動扭蛋中使用的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-coin-highscorerush-event-001",
       "name": "星之閃耀",
       "description": "可以在活動扭蛋中使用的道具",
@@ -132,9 +138,15 @@
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
+      "id": "item-dearness-unlock-hrnm",
+      "name": "莉波的記錄之鑰",
+      "description": "解鎖姬崎莉波STEP3親密度交流的道具",
+      "acquisitionRouteDescription": "兌換所等方式"
+    },
+    {
       "id": "item-dearness-unlock-shro",
       "name": "廣的記錄之鑰",
-      "description": "解鎖筱澤廣STEP3親密度交流的道具",
+      "description": "解鎖篠澤廣STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
@@ -165,7 +177,7 @@
       "id": "item-gashaitem-10_01",
       "name": "初星印章★無料10連扭蛋票據",
       "description": "可以在最多100連無料！TVCM放映紀念10連無料扭蛋中使用的道具",
-      "acquisitionRouteDescription": "TVCM放映紀念登錄獎勵"
+      "acquisitionRouteDescription": "TVCM放映紀念登入獎勵"
     },
     {
       "id": "item-gashaticket-1",
@@ -241,55 +253,55 @@
     },
     {
       "id": "item-limitovermaterial-2-a-1",
-      "name": "感性筆記（歌唱）",
+      "name": "感性筆記（Vo.）",
       "description": "可以在方案：感性的培育用偶像的特訓中使用的道具",
       "acquisitionRouteDescription": "培育（方案：感性的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-a-2",
-      "name": "感性筆記（舞蹈）",
+      "name": "感性筆記（Da.）",
       "description": "可以在方案：感性的培育用偶像的特訓中使用的道具",
       "acquisitionRouteDescription": "培育（方案：感性的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-a-3",
-      "name": "感性筆記（視覺）",
+      "name": "感性筆記（Vi.）",
       "description": "可以在方案：感性的培育用偶像的特訓中使用的道具",
       "acquisitionRouteDescription": "培育（方案：感性的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-b-1",
-      "name": "理性筆記（歌唱）",
+      "name": "理性筆記（Vo.）",
       "description": "可以在方案：理性的培育用偶像的特訓中使用的道具",
       "acquisitionRouteDescription": "培育（方案：理性的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-b-2",
-      "name": "理性筆記（舞蹈）",
+      "name": "理性筆記（Da.）",
       "description": "可以在方案：理性的培育用偶像的特訓中使用的道具",
       "acquisitionRouteDescription": "培育（方案：理性的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-b-3",
-      "name": "理性筆記（視覺）",
+      "name": "理性筆記（Vi.）",
       "description": "可以在方案：理性的培育用偶像的特訓中使用的道具",
       "acquisitionRouteDescription": "培育（方案：理性的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-1",
-      "name": "異類筆記（歌唱）",
+      "name": "異類筆記（Vo.）",
       "description": "可以在方案：異類的培育用偶像的特訓中使用的道具",
       "acquisitionRouteDescription": "培育（方案：異類的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-2",
-      "name": "異類筆記（舞蹈）",
+      "name": "異類筆記（Da.）",
       "description": "可以在方案：異類的培育用偶像的特訓中使用的道具",
       "acquisitionRouteDescription": "培育（方案：異類的培育用偶像）等方式"
     },
     {
       "id": "item-limitovermaterial-2-c-3",
-      "name": "異類筆記（視覺）",
+      "name": "異類筆記（Vi.）",
       "description": "可以在方案：異類的培育用偶像的特訓中使用的道具",
       "acquisitionRouteDescription": "培育（方案：異類的培育用偶像）等方式"
     },
@@ -332,7 +344,7 @@
     {
       "id": "item-medal-main-story-event-003",
       "name": "初星標籤",
-      "description": "在初星交流活動中收集后可以兌換道具",
+      "description": "在初星交流活動中收集後可以兌換道具",
       "acquisitionRouteDescription": "在培育中入手"
     },
     {
@@ -576,6 +588,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_fktn-3-016",
+      "name": "[全力以赴！]藤田琴音的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_hmsz-1-000",
       "name": "[學園生活]秦谷美鈴的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -736,6 +754,12 @@
       "name": "[雨後的鳶尾花]花海咲季的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hski-3-015",
+      "name": "[全力以赴！]花海咲季的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "活動扭蛋等方式"
     },
     {
       "id": "item-piece-idol_hume-1-000",
@@ -949,61 +973,61 @@
     },
     {
       "id": "item-piece-idol_shro-1-000",
-      "name": "[學園生活]筱澤廣的碎片",
+      "name": "[學園生活]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-1-001",
-      "name": "[初戀]",
+      "name": "[初戀]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-2-000",
-      "name": "[最不適合的事]",
+      "name": "[最不適合的事]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-000",
-      "name": "[光景]筱澤廣的碎片",
+      "name": "[光景]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-001",
-      "name": "[反差]筱澤廣的碎片",
+      "name": "[反差]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-002",
-      "name": "[變裝狂想曲]筱澤廣的碎片",
+      "name": "[變裝狂想曲]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-007",
-      "name": "[Campus mode!!]筱澤廣的碎片",
+      "name": "[Campus mode!!]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-008",
-      "name": "[幸福千層酥]筱澤廣的碎片",
+      "name": "[幸福千層酥]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "活動扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-012",
-      "name": "[褪色]筱澤廣的碎片",
+      "name": "[褪色]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_shro-3-014",
-      "name": "[奇蹟正是現在(ﾟ∀ﾟ)！]筱澤廣的碎片",
+      "name": "[奇蹟正是現在(ﾟ∀ﾟ)！]篠澤廣的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -1121,10 +1145,16 @@
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
+	{
+      "id": "item-piece-idol_ttmr-3-015",
+      "name": "[全力以赴！]月村手毬的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
     {
       "id": "item-play-ticket_tour-event-001",
       "name": "演唱會挑戰券（大阪）",
-      "description": "可以在巡演活動中挑戰舞臺的道具",
+      "description": "可以在巡演活動中挑戰舞台的道具",
       "acquisitionRouteDescription": "巡演活動"
     },
     {
@@ -1164,6 +1194,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-research-event-002",
+      "name": "亞紗里老師貼紙",
+      "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-selection-ticket-001",
       "name": "半週年自選票據",
       "description": "可以在票據兌換所中兌換培育用偶像以及支援卡的票據",
@@ -1184,7 +1220,7 @@
     {
       "id": "item-staminaregen-1",
       "name": "AP飲料",
-      "description": "可以讓AP回覆20的飲料",
+      "description": "可以讓AP回復20的飲料",
       "acquisitionRouteDescription": "商店、製作人Lv提升報酬等方式"
     },
     {

@@ -15,15 +15,15 @@
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_down-000",
-      "name": "考試前體力回覆量減少"
+      "name": "考試前體力回復量減少"
     },
     {
       "id": "effect_group-visible-before_audition_refresh_stamina_up-000",
-      "name": "考試前體力回覆量增加"
+      "name": "考試前體力回復量增加"
     },
     {
       "id": "effect_group-visible-dance_addition-000",
-      "name": "舞蹈能力值上升"
+      "name": "Da.能力值上升"
     },
     {
       "id": "effect_group-visible-event_activity_produce_point_down-000",
@@ -251,7 +251,7 @@
     },
     {
       "id": "effect_group-visible-stamina_recover_fix-000",
-      "name": "體力回覆"
+      "name": "體力回復"
     },
     {
       "id": "effect_group-visible-stamina_reduce_fix-000",
@@ -263,11 +263,11 @@
     },
     {
       "id": "effect_group-visible-visual_addition-000",
-      "name": "視覺能力值上升"
+      "name": "Vi.能力值上升"
     },
     {
       "id": "effect_group-visible-vocal_addition-000",
-      "name": "歌唱能力值上升"
+      "name": "Vo.能力值上升"
     }
   ]
 }

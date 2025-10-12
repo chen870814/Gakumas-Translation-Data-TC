@@ -11,19 +11,25 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 2,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 3,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -45,21 +51,25 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 3,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 4,
       "texts": [
-        "完成課程目標后，\n可以獲得對培育有用的獎勵。"
+        "完成課程目標後，\n可以獲得對培育有用的獎勵。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 9,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -89,7 +99,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 10,
       "subStep": 4,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -167,19 +179,25 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 9,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 13,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 14,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -225,7 +243,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 17,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -248,7 +268,7 @@
       "step": 4,
       "subStep": 2,
       "texts": [
-        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過中間考試和最終考試。",
+        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
         "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
         "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易通過考試了。"
       ]
@@ -266,14 +286,16 @@
       "step": 4,
       "subStep": 4,
       "texts": [
-        "首先進行舞蹈課\n提升舞蹈力吧！"
+        "首先進行Da.課程\n提升Da.能力值吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -312,7 +334,7 @@
       "step": 5,
       "subStep": 6,
       "texts": [
-        "舞蹈力的分數上升\n離課程通關更近了呢！"
+        "Da.力的分數上升\n離課程通關更近了呢！"
       ]
     },
     {
@@ -361,14 +383,16 @@
       "step": 7,
       "subStep": 1,
       "texts": [
-        "接下來選擇歌唱課\n試試看吧"
+        "接下來選擇Vo.課程\n試試看吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -479,7 +503,9 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 15,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -494,7 +520,7 @@
       "step": 4,
       "subStep": 2,
       "texts": [
-        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過中間考試和最終考試。",
+        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
         "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
         "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易通過考試了。"
       ]
@@ -512,14 +538,16 @@
       "step": 4,
       "subStep": 4,
       "texts": [
-        "首先進行舞蹈課\n提升舞蹈力吧！"
+        "首先進行Da.課程\n提升Da.能力值吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -558,7 +586,7 @@
       "step": 5,
       "subStep": 6,
       "texts": [
-        "舞蹈力的分數上升\n離課程通關更近了呢！"
+        "Da.力的分數上升\n離課程通關更近了呢！"
       ]
     },
     {
@@ -607,14 +635,16 @@
       "step": 7,
       "subStep": 1,
       "texts": [
-        "接下來選擇歌唱課\n試試看吧"
+        "接下來選擇Vo.課程\n試試看吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -734,7 +764,7 @@
       "step": 4,
       "subStep": 2,
       "texts": [
-        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過中間考試和最終考試。",
+        "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
         "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
         "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易通過考試了。"
       ]
@@ -752,14 +782,16 @@
       "step": 4,
       "subStep": 4,
       "texts": [
-        "首先進行舞蹈課\n提升舞蹈力吧！"
+        "首先進行Da.課程\n提升Da.能力值吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -798,7 +830,7 @@
       "step": 5,
       "subStep": 6,
       "texts": [
-        "舞蹈力的分數上升\n離課程通關更近了呢！"
+        "Da.力的分數上升\n離課程通關更近了呢！"
       ]
     },
     {
@@ -847,14 +879,16 @@
       "step": 7,
       "subStep": 1,
       "texts": [
-        "接下來選擇歌唱課\n試試看吧"
+        "接下來選擇Vo.課程\n試試看吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -983,14 +1017,16 @@
       "step": 1,
       "subStep": 1,
       "texts": [
-        "可培育偶像經過才能開花后，\n初期P道具和課程加成都會加強。"
+        "可培育偶像經過才能開花後，\n初期P道具和課程加成都會加強。"
       ]
     },
     {
       "tutorialType": "TutorialType_IdolCardSkin",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_PvpRate",
@@ -998,9 +1034,9 @@
       "subStep": 1,
       "texts": [
         "可以與全國的製作人進行對戰。\n競賽中可以使用培育獲得的\n回憶相關的分數、技能卡和\nP道具來進行對戰。",
-        "在每個舞臺進行表演對抗，\n通過得分來競爭勝負。\n贏得最多舞臺比賽的製作人將獲勝。",
+        "在每個舞台進行表演對抗，\n通過得分來競爭勝負。\n贏得最多舞台比賽的製作人將獲勝。",
         "競賽有評級。\n排行榜前列可以晉陞到\n更高的評級。\n評級越高獎勵越豐富。",
-        "收集競賽獎牌后\n可以在道具交換所\n兌換豐富的獎勵。"
+        "收集競賽獎牌後\n可以在道具交換所\n兌換豐富的獎勵。"
       ]
     },
     {
@@ -1031,14 +1067,16 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 5,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 6,
       "texts": [
-        "回憶在每個舞臺都有\n固定的可編成方案。",
+        "回憶在每個舞台都有\n固定的可編成方案。",
         "回憶編成分為主和副。\n主和副可以編成同一偶像的回憶。",
         "編成為主時，回憶所持的效能全部\n反映在表演對抗中。\n編成為副時，只反映部分效能。"
       ]
@@ -1080,7 +1118,7 @@
       "step": 1,
       "subStep": 1,
       "texts": [
-        "在個人資料中可以設定他人制作人可租借的\n支援卡和回憶。\n依據被租借的次數可以獲得朋友硬幣。"
+        "在個人資料中可以設定他人製作人可租借的\n支援卡和回憶。\n依據被租借的次數可以獲得朋友硬幣。"
       ]
     },
     {
@@ -1130,7 +1168,9 @@
       "tutorialType": "TutorialType_Tower",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_Guild",
@@ -1145,31 +1185,41 @@
       "tutorialType": "TutorialType_TutorialReceiveIdolCard",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_PhotoTop",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_PhotoIdol",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_PhotoPrepare",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_Photo",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_MeishiEditCustom",
@@ -1188,7 +1238,33 @@
       "tutorialType": "TutorialType_MeishiEditCustomManual",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_IdolCardSkinUnit",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        ""
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_DearnessTop",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        ""
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_DearnessPoint",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_ProduceIdolCardSelect",
@@ -1221,9 +1297,9 @@
       "step": 1,
       "subStep": 1,
       "texts": [
-        "課程有歌唱、舞蹈、視覺，分別可提高相應的分數。完成課程目標可作為獎勵獲得技能卡或P飲料。",
+        "課程有Vo.、Da.、Vi.三種，分別可提高相應的分數。完成課程目標可作為獎勵獲得技能卡或P飲料。",
         "在培養時可以選擇各種日程。根據情況選擇合適的日程吧。",
-        "考試前進行的特別課程。完成課程目標會觸發最後衝刺加成，可以均衡地成長歌唱、舞蹈、視覺分數。",
+        "考試前進行的特別課程。完成課程目標會觸發最後衝刺加成，可以均衡地成長Vo.、Da.、Vi.能力值。",
         "考試前，根據最大體力自動恢復體力。"
       ]
     },
@@ -1249,7 +1325,7 @@
       "subStep": 1,
       "texts": [
         "在諮詢中使用P點數，可交換技能卡或P飲料。\n每次諮詢中可交換的技能卡和P飲料都會不同。",
-        "使用P飲料可以增加分數或回覆體力等效果。\nP飲料只能在課程或考試中使用。"
+        "使用P飲料可以增加分數或回復體力等效果。\nP飲料只能在課程或考試中使用。"
       ]
     },
     {
@@ -1281,7 +1357,7 @@
       "step": 1,
       "subStep": 1,
       "texts": [
-        "課程目標達成后將分數提升至上限時，\n變為完美課程。\n完美課程時課程結束，\n根據剩餘回合回覆體力。"
+        "課程目標達成後將分數提升至上限時，\n變為完美課程。\n完美課程時課程結束，\n根據剩餘回合回復體力。"
       ]
     },
     {
@@ -1306,7 +1382,7 @@
       "step": 1,
       "subStep": 1,
       "texts": [
-        "可以使用P點數來強化技能卡。\n強化后技能卡的效果會提升。\n每次諮詢可以強化一張卡，每次強化所需的P點數會增加。"
+        "可以使用P點數來強化技能卡。\n強化後技能卡的效果會提升。\n每次諮詢可以強化一張卡，每次強化所需的P點數會增加。"
       ]
     },
     {
@@ -1331,91 +1407,162 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionTop",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionSchedule",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionSelect",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionStart",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionResult",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_ProduceStepBusiness",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_ProduceStepCustomize",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_ProduceStepFanPresent",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_MissionPanel",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_ProduceHighScore",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_StoryEvent",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_StoryEventMainStroy",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_StoryEventBoxGasha",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_StoryEventGuildMission",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
     },
     {
       "tutorialType": "TutorialType_GvgRaid",
       "step": 1,
       "subStep": 1,
-      "texts": []
+      "texts": [
+        ""
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_ProduceNextIdolAuditionMaster",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        "「N.I.A」的難易度「Master」已經解鎖了。\n同時也解鎖了「N.I.A大師排行榜」。\n雖然比「Pro」難易度更高但相對更容易提高能力值、也更容易得到紛絲投票數。\n只有達到親密度20的偶像才能夠挑戰。",
+        "挑戰P道具是、在難易度「Master」的培育開始前可以選擇的P道具。\n根據挑戰P道具的效果、可以在試鏡通過時增加通過試鏡獎勵所獲得的能力值。"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        ""
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_Tour",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        ""
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_Research",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        ""
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_ProducerRanking",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        ""
+      ]
     }
   ]
 }

@@ -48,7 +48,7 @@
     {
       "type": "ProduceExamEffectType_ExamCardUpgrade",
       "name": "課程中強化",
-      "swapName": "考試・舞臺中強化"
+      "swapName": "考試・舞台中強化"
     },
     {
       "type": "ProduceExamEffectType_ExamPlayableValueAdd",

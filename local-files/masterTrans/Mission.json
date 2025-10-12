@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "dearness_event_fktn-001",
-      "name": "將藤田琴音的舞蹈能力值培養至1800以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1800以上並完成培育"
     },
     {
       "id": "dearness_event_fktn-002",
@@ -27,7 +27,7 @@
     },
     {
       "id": "dearness_event_fktn-006",
-      "name": "藤田琴音通關{threshold}次舞蹈課程吧"
+      "name": "藤田琴音通關{threshold}次 Da.課程吧"
     },
     {
       "id": "dearness_event_fktn-007",
@@ -39,7 +39,7 @@
     },
     {
       "id": "dearness_event_hrnm-001",
-      "name": "將姬崎莉波的視覺能力值培養至1800以上並完成培育"
+      "name": "將姬崎莉波的Vi.能力值培養至1800以上並完成培育"
     },
     {
       "id": "dearness_event_hrnm-002",
@@ -59,7 +59,7 @@
     },
     {
       "id": "dearness_event_hrnm-006",
-      "name": "姬崎莉波通關{threshold}次視覺課程吧"
+      "name": "姬崎莉波通關{threshold}次 Vi.課程吧"
     },
     {
       "id": "dearness_event_hrnm-007",
@@ -71,39 +71,39 @@
     },
     {
       "id": "dearness_event_shro-001",
-      "name": "將筱澤廣的歌唱能力值培養至1800以上並完成培育"
+      "name": "將篠澤廣的Vo.能力值培養至1800以上並完成培育"
     },
     {
       "id": "dearness_event_shro-002",
-      "name": "在筱澤廣的培育中選擇{threshold}次外出吧"
+      "name": "在篠澤廣的培育中選擇{threshold}次外出吧"
     },
     {
       "id": "dearness_event_shro-003",
-      "name": "在筱澤廣的培育中選擇{threshold}次諮詢吧"
+      "name": "在篠澤廣的培育中選擇{threshold}次諮詢吧"
     },
     {
       "id": "dearness_event_shro-004",
-      "name": "在筱澤廣的培育中選擇{threshold}次營業吧"
+      "name": "在篠澤廣的培育中選擇{threshold}次營業吧"
     },
     {
       "id": "dearness_event_shro-005",
-      "name": "在筱澤廣的培育中選擇{threshold}次慰問品吧"
+      "name": "在篠澤廣的培育中選擇{threshold}次慰問品吧"
     },
     {
       "id": "dearness_event_shro-006",
-      "name": "筱澤廣通過{threshold}次歌唱課程吧"
+      "name": "篠澤廣通過{threshold}次 Vo.課程吧"
     },
     {
       "id": "dearness_event_shro-007",
-      "name": "在筱澤廣的培育中選擇{threshold}次特別指導吧"
+      "name": "在篠澤廣的培育中選擇{threshold}次特別指導吧"
     },
     {
       "id": "dearness_event_shro-008",
-      "name": "讓筱澤廣通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓篠澤廣通過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_event_ssmk-001",
-      "name": "將紫雲清夏的舞蹈能力值培養至1800以上並完成培育"
+      "name": "將紫雲清夏的Da.能力值培養至1800以上並完成培育"
     },
     {
       "id": "dearness_event_ssmk-002",
@@ -123,7 +123,7 @@
     },
     {
       "id": "dearness_event_ssmk-006",
-      "name": "紫雲清夏通關{threshold}次舞蹈課程吧"
+      "name": "紫雲清夏通關{threshold}次 Da.課程吧"
     },
     {
       "id": "dearness_event_ssmk-007",
@@ -135,7 +135,7 @@
     },
     {
       "id": "dearness_normal-mission_fktn-001",
-      "name": "將藤田琴音的舞蹈能力值培養至2000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至2000以上並完成培育"
     },
     {
       "id": "dearness_normal-mission_fktn-002",
@@ -155,7 +155,7 @@
     },
     {
       "id": "dearness_normal-mission_hrnm-001",
-      "name": "將姬崎莉波的視覺能力值培養至2000以上並完成培育"
+      "name": "將姬崎莉波的Vi.能力值培養至2000以上並完成培育"
     },
     {
       "id": "dearness_normal-mission_hrnm-002",
@@ -175,27 +175,27 @@
     },
     {
       "id": "dearness_normal-mission_shro-001",
-      "name": "將筱澤廣的歌唱能力值培養至2000以上並完成培育"
+      "name": "將篠澤廣的Vo.能力值培養至2000以上並完成培育"
     },
     {
       "id": "dearness_normal-mission_shro-002",
-      "name": "在筱澤廣的培育中累計使用{threshold}次技能卡吧"
+      "name": "在篠澤廣的培育中累計使用{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_shro-003",
-      "name": "在筱澤廣的培育中強化{threshold}次技能卡吧"
+      "name": "在篠澤廣的培育中強化{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_shro-004",
-      "name": "讓筱澤廣通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓篠澤廣通過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_normal-mission_shro-005",
-      "name": "在筱澤廣的培育中自定義{threshold}次技能卡吧"
+      "name": "在篠澤廣的培育中自定義{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_ssmk-001",
-      "name": "將紫雲清夏的舞蹈能力值培養至2000以上並完成培育"
+      "name": "將紫雲清夏的Da.能力值培養至2000以上並完成培育"
     },
     {
       "id": "dearness_normal-mission_ssmk-002",
@@ -667,7 +667,7 @@
     },
     {
       "id": "mission-box-gasha-event-001-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-box-gasha-event-001-mission_2",
@@ -687,7 +687,7 @@
     },
     {
       "id": "mission-box-gasha-event-002-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-box-gasha-event-002-mission_2",
@@ -707,7 +707,7 @@
     },
     {
       "id": "mission-box-gasha-event-003-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-box-gasha-event-003-mission_2",
@@ -727,7 +727,7 @@
     },
     {
       "id": "mission-box-gasha-event-004-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-box-gasha-event-004-mission_2",
@@ -747,7 +747,7 @@
     },
     {
       "id": "mission-box-gasha-event-005-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-box-gasha-event-005-mission_2",
@@ -767,7 +767,7 @@
     },
     {
       "id": "mission-box-gasha-event-006-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-box-gasha-event-006-mission_2",
@@ -787,7 +787,7 @@
     },
     {
       "id": "mission-box-gasha-event-007-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-box-gasha-event-007-mission_2",
@@ -807,7 +807,7 @@
     },
     {
       "id": "mission-box-gasha-event-015-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-box-gasha-event-015-mission_2",
@@ -826,12 +826,32 @@
       "name": "完成{threshold}次SP課程吧"
     },
     {
+      "id": "mission-box-gasha-event-019-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-box-gasha-event-019-mission_2",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-box-gasha-event-019-mission_3",
+      "name": "抽取{threshold}次活動BOX扭蛋吧"
+    },
+    {
+      "id": "mission-box-gasha-event-019-mission_4",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-box-gasha-event-019-mission_5",
+      "name": "完成{threshold}次SP課程吧"
+    },
+    {
       "id": "mission-circle-battle-event-001-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-circle-battle-event-001-mission_2",
-      "name": "挑戰任意舞臺{threshold}次吧"
+      "name": "挑戰任意舞台{threshold}次吧"
     },
     {
       "id": "mission-circle-battle-event-001-mission_3",
@@ -1019,7 +1039,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_11",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_12",
@@ -1043,7 +1063,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_21",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_22",
@@ -1067,7 +1087,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_31",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_32",
@@ -1091,7 +1111,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_41",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_42",
@@ -1115,7 +1135,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_51",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_52",
@@ -1139,7 +1159,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_61",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_62",
@@ -1163,7 +1183,7 @@
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_71",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_72",
@@ -1223,27 +1243,27 @@
     },
     {
       "id": "mission-highscore-event-001-mission_12",
-      "name": "將月村手毬的歌唱能力值培養至1000以上並完成培育"
+      "name": "將月村手毬的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-001-mission_12_1",
-      "name": "將月村手毬的歌唱能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
+      "name": "將月村手毬的Vo.能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-001-mission_13",
-      "name": "將葛城莉莉婭的視覺能力值培養至1000以上並完成培育"
+      "name": "將葛城莉莉婭的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-001-mission_13_1",
-      "name": "將葛城莉莉婭的視覺能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
+      "name": "將葛城莉莉婭的Vi.能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-001-mission_14",
-      "name": "將筱澤廣的歌唱能力值培養至1000以上並完成培育"
+      "name": "將篠澤廣的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-001-mission_14_1",
-      "name": "將筱澤廣的歌唱能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
+      "name": "將篠澤廣的Vo.能力值培養至1000以上並完成培育（截至8/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-001-mission_15",
@@ -1263,11 +1283,11 @@
     },
     {
       "id": "mission-highscore-event-001-mission_17",
-      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+      "name": "在篠澤廣的培育中累計獲得{threshold}培育評價吧"
     },
     {
       "id": "mission-highscore-event-001-mission_17_1",
-      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價（截至8/1 4:59:59）吧"
+      "name": "在篠澤廣的培育中累計獲得{threshold}培育評價（截至8/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-002-mission_11",
@@ -1279,27 +1299,27 @@
     },
     {
       "id": "mission-highscore-event-002-mission_12",
-      "name": "將倉本千奈的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將倉本千奈的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-002-mission_12_1",
-      "name": "將倉本千奈的舞蹈能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
+      "name": "將倉本千奈的Da.能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-002-mission_13",
-      "name": "將花海咲季的視覺能力值培養至1000以上並完成培育"
+      "name": "將花海咲季的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-002-mission_13_1",
-      "name": "將花海咲季的視覺能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
+      "name": "將花海咲季的Vi.能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-002-mission_14",
-      "name": "將花海佑芽的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將花海佑芽的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-002-mission_14_1",
-      "name": "將花海佑芽的舞蹈能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
+      "name": "將花海佑芽的Da.能力值培養至1000以上並完成培育（截至9/1 4:59:59）吧"
     },
     {
       "id": "mission-highscore-event-002-mission_15",
@@ -1331,7 +1351,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_12",
-      "name": "將姬崎莉波的視覺能力值培養至1000以上並完成培育"
+      "name": "將姬崎莉波的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-003-mission_13",
@@ -1355,7 +1375,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_22",
-      "name": "將藤田琴音的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-003-mission_23",
@@ -1379,7 +1399,7 @@
     },
     {
       "id": "mission-highscore-event-003-mission_32",
-      "name": "將紫雲清夏的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將紫雲清夏的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-003-mission_33",
@@ -1451,7 +1471,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_12",
-      "name": "將有村麻央的歌唱能力值培養至1000以上並完成培育"
+      "name": "將有村麻央的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-004-mission_13",
@@ -1475,7 +1495,7 @@
     },
     {
       "id": "mission-highscore-event-004-mission_22",
-      "name": "將十王星南的視覺能力值培養至1000以上並完成培育"
+      "name": "將十王星南的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscore-event-004-mission_23",
@@ -1571,7 +1591,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_12",
-      "name": "將花海咲季的視覺能力值培養至1,000以上並完成培育"
+      "name": "將花海咲季的Vi.能力值培養至1,000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-001-mission_13",
@@ -1595,7 +1615,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_22",
-      "name": "將月村手毬的歌唱能力值培養至1,000以上並完成培育"
+      "name": "將月村手毬的Vo.能力值培養至1,000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-001-mission_23",
@@ -1619,7 +1639,7 @@
     },
     {
       "id": "mission-highscorerush-event-001-mission_32",
-      "name": "將藤田琴音的舞蹈能力值培養至1,000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1,000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-001-mission_33",
@@ -1691,7 +1711,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_12",
-      "name": "將紫雲清夏的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將紫雲清夏的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-002-mission_13",
@@ -1711,7 +1731,7 @@
     },
     {
       "id": "mission-highscorerush-event-002-mission_22",
-      "name": "將藤田琴音的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-002-mission_23",
@@ -1791,11 +1811,11 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_12",
-      "name": "將筱澤廣的歌唱能力值培養至1000以上並完成培育"
+      "name": "將篠澤廣的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-003-mission_13",
-      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+      "name": "在篠澤廣的培育中累計獲得{threshold}培育評價吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_14",
@@ -1811,11 +1831,11 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_22",
-      "name": "將倉本千奈的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將倉本千奈的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-003-mission_23",
-      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+      "name": "在篠澤廣的培育中累計獲得{threshold}培育評價吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_24",
@@ -1831,11 +1851,11 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_32",
-      "name": "在筱澤廣或倉本千奈的培育中通過{threshold}次最終考試吧"
+      "name": "在篠澤廣或倉本千奈的培育中通過{threshold}次最終考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_33",
-      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+      "name": "在篠澤廣的培育中累計獲得{threshold}培育評價吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_34",
@@ -1851,11 +1871,11 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_42",
-      "name": "在筱澤廣或倉本千奈的培育中通過{threshold}次最終考試吧"
+      "name": "在篠澤廣或倉本千奈的培育中通過{threshold}次最終考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_43",
-      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+      "name": "在篠澤廣的培育中累計獲得{threshold}培育評價吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_44",
@@ -1871,11 +1891,11 @@
     },
     {
       "id": "mission-highscorerush-event-003-mission_52",
-      "name": "在筱澤廣或倉本千奈的培育中通過{threshold}次最終考試吧"
+      "name": "在篠澤廣或倉本千奈的培育中通過{threshold}次最終考試吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_53",
-      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+      "name": "在篠澤廣的培育中累計獲得{threshold}培育評價吧"
     },
     {
       "id": "mission-highscorerush-event-003-mission_54",
@@ -1891,7 +1911,7 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_12",
-      "name": "將藤田琴音的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-004-mission_13",
@@ -1911,7 +1931,7 @@
     },
     {
       "id": "mission-highscorerush-event-004-mission_22",
-      "name": "將花海佑芽的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將花海佑芽的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-004-mission_23",
@@ -1991,7 +2011,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_12",
-      "name": "將姬崎莉波的視覺能力值培養至1000以上並完成培育"
+      "name": "將姬崎莉波的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-005-mission_13",
@@ -2011,7 +2031,7 @@
     },
     {
       "id": "mission-highscorerush-event-005-mission_22",
-      "name": "將有村麻央的歌唱能力值培養至1000以上並完成培育"
+      "name": "將有村麻央的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "mission-highscorerush-event-005-mission_23",
@@ -3447,11 +3467,11 @@
     },
     {
       "id": "mission-normal-linkBandaiNamco-1",
-      "name": "進行數據關聯吧\n※可從菜單 > 數據關聯進行操作"
+      "name": "進行數據關聯吧\n※可從選單 > 數據關聯進行操作"
     },
     {
       "id": "mission-normal-linkBandaiNamco-2",
-      "name": "進行智慧手機版與DMM GAMES版的數據關聯吧\n※可從菜單 > 數據關聯進行操作"
+      "name": "進行智慧手機版與DMM GAMES版的數據關聯吧\n※可從選單 > 數據關聯進行操作"
     },
     {
       "id": "mission-normal-pcondtionclear-p-cd-amao-1st",
@@ -3635,15 +3655,15 @@
     },
     {
       "id": "mission-panel-mission-1-2",
-      "name": "通關{threshold}次歌唱課程吧"
+      "name": "通關{threshold}次 Vo.課程吧"
     },
     {
       "id": "mission-panel-mission-1-3",
-      "name": "通關{threshold}次舞蹈課程吧"
+      "name": "通關{threshold}次 Da.課程吧"
     },
     {
       "id": "mission-panel-mission-1-4",
-      "name": "通關{threshold}次視覺課程吧"
+      "name": "通關{threshold}次 Vi.課程吧"
     },
     {
       "id": "mission-panel-mission-1-5",
@@ -3671,7 +3691,7 @@
     },
     {
       "id": "mission-panel-mission-2-2",
-      "name": "完成{threshold}次方案：邏輯的培育吧"
+      "name": "完成{threshold}次方案：理性的培育吧"
     },
     {
       "id": "mission-panel-mission-2-3",
@@ -3767,7 +3787,7 @@
     },
     {
       "id": "mission-release_mission-3-5",
-      "name": "在方案：邏輯的培育用偶像的培育中達成C+以上評價吧"
+      "name": "在方案：理性的培育用偶像的培育中達成C+以上評價吧"
     },
     {
       "id": "mission-release_mission-3-6",
@@ -3839,7 +3859,7 @@
     },
     {
       "id": "mission-release_mission-6-4",
-      "name": "在Pro培育中達成B以上評價吧\n【條件】方案：邏輯的培育用偶像"
+      "name": "在Pro培育中達成B以上評價吧\n【條件】方案：理性的培育用偶像"
     },
     {
       "id": "mission-release_mission-6-5",
@@ -3875,7 +3895,7 @@
     },
     {
       "id": "mission-research-event-001-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-research-event-001-mission_10",
@@ -3905,9 +3925,41 @@
       "id": "mission-research-event-001-mission_9",
       "name": "在持有技能卡「國民級偶像」的狀態下完成培育吧"
     },
+	{
+      "id": "mission-research-event-002-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_10",
+      "name": "在持有技能卡「成为偶像」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_11",
+      "name": "在持有技能卡「覺悟」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_12",
+      "name": "完成{threshold}次SP課程吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_2",
+      "name": "讓方案：理性的培育用偶像取得{threshold}次最終考試合格吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_3",
+      "name": "在培育的諮詢中兌換{threshold}次吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_8",
+      "name": "在持有技能卡「全心全意」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-002-mission_9",
+      "name": "在持有技能卡「心・技・體」的狀態下完成培育吧"
+    },
     {
       "id": "mission-story-event-001-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-story-event-001-mission_2",
@@ -3931,7 +3983,7 @@
     },
     {
       "id": "mission-story-event-002-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-story-event-002-mission_2",
@@ -3955,7 +4007,7 @@
     },
     {
       "id": "mission-story-event-003-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-story-event-003-mission_2",
@@ -3979,7 +4031,7 @@
     },
     {
       "id": "mission-story-event-004-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-story-event-004-mission_2",
@@ -4003,7 +4055,7 @@
     },
     {
       "id": "mission-story-event-006-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-story-event-006-mission_2",
@@ -4027,7 +4079,7 @@
     },
     {
       "id": "mission-story-event-007-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-story-event-007-mission_2",
@@ -4051,7 +4103,7 @@
     },
     {
       "id": "mission-story-event-008-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-story-event-008-mission_2",
@@ -4075,7 +4127,7 @@
     },
     {
       "id": "mission-story-event-013-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-story-event-013-mission_2",
@@ -4099,7 +4151,7 @@
     },
     {
       "id": "mission-tour-event-001-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-tour-event-001-mission_2",
@@ -4111,15 +4163,15 @@
     },
     {
       "id": "mission-tour-event-001-mission_4",
-      "name": "在巡演活動中挑戰並通關應援共鳴Lv1以上的舞臺{threshold}次吧"
+      "name": "在巡演活動中挑戰並通關應援共鳴Lv1以上的舞台{threshold}次吧"
     },
     {
       "id": "mission-tour-event-001-mission_5",
-      "name": "在巡演活動中挑戰並通關應援共鳴Lv2以上的舞臺{threshold}次吧"
+      "name": "在巡演活動中挑戰並通關應援共鳴Lv2以上的舞台{threshold}次吧"
     },
     {
       "id": "mission-tour-event-001-mission_6",
-      "name": "在巡演活動中挑戰並通關應援共鳴Lv3以上的舞臺{threshold}次吧"
+      "name": "在巡演活動中挑戰並通關應援共鳴Lv3以上的舞台{threshold}次吧"
     },
     {
       "id": "mission-tour-event-001-mission_7",
@@ -4131,7 +4183,7 @@
     },
     {
       "id": "mission-weekly-incrementlogincount-1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "mission-weekly-incrementmoneyexchangecount-1",
@@ -4163,7 +4215,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_12",
-      "name": "完成{threshold}次方案：邏輯的培育吧"
+      "name": "完成{threshold}次方案：理性的培育吧"
     },
     {
       "id": "panel_mission-event-002-mission_13",
@@ -4195,15 +4247,15 @@
     },
     {
       "id": "panel_mission-event-002-mission_2",
-      "name": "通關{threshold}次SP歌唱課程吧"
+      "name": "通關{threshold}次SP Vo.課程吧"
     },
     {
       "id": "panel_mission-event-002-mission_3",
-      "name": "通關{threshold}次SP舞蹈課程吧"
+      "name": "通關{threshold}次SP Da.課程吧"
     },
     {
       "id": "panel_mission-event-002-mission_4",
-      "name": "通關{threshold}次SP視覺課程吧"
+      "name": "通關{threshold}次SP Vi.課程吧"
     },
     {
       "id": "panel_mission-event-002-mission_5",
@@ -4227,19 +4279,19 @@
     },
     {
       "id": "panel_mission-event-003-mission_1",
-      "name": "登錄{threshold}天吧"
+      "name": "登入{threshold}天吧"
     },
     {
       "id": "panel_mission-event-003-mission_2",
-      "name": "通關{threshold}次歌唱課程吧"
+      "name": "通關{threshold}次 Vo.課程吧"
     },
     {
       "id": "panel_mission-event-003-mission_3",
-      "name": "通關{threshold}次舞蹈課程吧"
+      "name": "通關{threshold}次 Da.課程吧"
     },
     {
       "id": "panel_mission-event-003-mission_4",
-      "name": "通關{threshold}次視覺課程吧"
+      "name": "通關{threshold}次 Vi.課程吧"
     },
     {
       "id": "panel_mission-event-003-mission_5",
@@ -4271,7 +4323,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_12",
-      "name": "完成{threshold}次方案：邏輯的培育吧"
+      "name": "完成{threshold}次方案：理性的培育吧"
     },
     {
       "id": "panel_mission-event-004-mission_13",
@@ -4303,15 +4355,15 @@
     },
     {
       "id": "panel_mission-event-004-mission_2",
-      "name": "通關{threshold}次歌唱課程吧"
+      "name": "通關{threshold}次 Vo.課程吧"
     },
     {
       "id": "panel_mission-event-004-mission_3",
-      "name": "通關{threshold}次舞蹈課程吧"
+      "name": "通關{threshold}次 Da.課程吧"
     },
     {
       "id": "panel_mission-event-004-mission_4",
-      "name": "通關{threshold}次視覺課程吧"
+      "name": "通關{threshold}次 Vi.課程吧"
     },
     {
       "id": "panel_mission-event-004-mission_5",
@@ -4343,7 +4395,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_12",
-      "name": "完成{threshold}次方案：邏輯的培育吧"
+      "name": "完成{threshold}次方案：理性的培育吧"
     },
     {
       "id": "panel_mission-event-006-mission_13",
@@ -4375,15 +4427,15 @@
     },
     {
       "id": "panel_mission-event-006-mission_2",
-      "name": "通關{threshold}次歌唱課程吧"
+      "name": "通關{threshold}次 Vo.課程吧"
     },
     {
       "id": "panel_mission-event-006-mission_3",
-      "name": "通關{threshold}次舞蹈課程吧"
+      "name": "通關{threshold}次 Da.課程吧"
     },
     {
       "id": "panel_mission-event-006-mission_4",
-      "name": "通關{threshold}次視覺課程吧"
+      "name": "通關{threshold}次 Vi.課程吧"
     },
     {
       "id": "panel_mission-event-006-mission_5",
@@ -4752,6 +4804,30 @@
     {
       "id": "achieve-i_card-fktn-3-013-06",
       "name": "【自我肯定感爆棚↑↑超愛琴音之歌】藤田琴音的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-016-01",
+      "name": "【全力以赴！】藤田琴音的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-016-02",
+      "name": "【全力以赴！】藤田琴音的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-016-03",
+      "name": "【全力以赴！】藤田琴音的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-016-04",
+      "name": "【全力以赴！】藤田琴音的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-016-05",
+      "name": "【全力以赴！】藤田琴音的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-016-06",
+      "name": "【全力以赴！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hmsz-2-000-01",
@@ -5208,6 +5284,30 @@
     {
       "id": "achieve-i_card-hski-3-012-06",
       "name": "【雨後的鳶尾花】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-015-01",
+      "name": "【全力以赴！】花海咲季的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hski-3-015-02",
+      "name": "【全力以赴！】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-015-03",
+      "name": "【全力以赴！】花海咲季的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hski-3-015-04",
+      "name": "【全力以赴！】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-015-05",
+      "name": "【全力以赴！】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-015-06",
+      "name": "【全力以赴！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",
@@ -5811,171 +5911,171 @@
     },
     {
       "id": "achieve-i_card-shro-2-000-04",
-      "name": "【最不適合的事】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【最不適合的事】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-2-000-05",
-      "name": "【最不適合的事】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【最不適合的事】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-2-000-06",
-      "name": "【最不適合的事】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【最不適合的事】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-000-04",
-      "name": "【光景】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【光景】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-000-05",
-      "name": "【光景】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【光景】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-000-06",
-      "name": "【光景】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【光景】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-001-01",
-      "name": "【反差】筱澤廣的培育中通過最終考試"
+      "name": "【反差】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-001-02",
-      "name": "【反差】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【反差】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-001-03",
-      "name": "【反差】筱澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "【反差】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-001-04",
-      "name": "【反差】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【反差】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-001-05",
-      "name": "【反差】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【反差】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-001-06",
-      "name": "【反差】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【反差】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-002-01",
-      "name": "【變裝狂想曲】筱澤廣的培育中通過最終考試"
+      "name": "【變裝狂想曲】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-002-02",
-      "name": "【變裝狂想曲】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【變裝狂想曲】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-002-03",
-      "name": "【變裝狂想曲】筱澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "【變裝狂想曲】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-002-04",
-      "name": "【變裝狂想曲】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【變裝狂想曲】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-002-05",
-      "name": "【變裝狂想曲】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【變裝狂想曲】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-002-06",
-      "name": "【變裝狂想曲】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【變裝狂想曲】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-007-01",
-      "name": "【Campus mode!!】筱澤廣的培育中通過最終考試"
+      "name": "【Campus mode!!】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-007-02",
-      "name": "【Campus mode!!】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【Campus mode!!】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-007-03",
-      "name": "【Campus mode!!】筱澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "【Campus mode!!】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-007-04",
-      "name": "【Campus mode!!】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【Campus mode!!】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-007-05",
-      "name": "【Campus mode!!】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【Campus mode!!】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-007-06",
-      "name": "【Campus mode!!】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【Campus mode!!】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-008-01",
-      "name": "【幸福千層酥】筱澤廣的培育中通過最終考試"
+      "name": "【幸福千層酥】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-008-02",
-      "name": "【幸福千層酥】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【幸福千層酥】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-008-03",
-      "name": "【幸福千層酥】筱澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "【幸福千層酥】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-008-04",
-      "name": "【幸福千層酥】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【幸福千層酥】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-008-05",
-      "name": "【幸福千層酥】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【幸福千層酥】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-008-06",
-      "name": "【幸福千層酥】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【幸福千層酥】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-012-01",
-      "name": "【褪色】筱澤廣的培育中通過最終考試"
+      "name": "【褪色】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-012-02",
-      "name": "【褪色】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【褪色】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-012-03",
-      "name": "【褪色】筱澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "【褪色】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-012-04",
-      "name": "【褪色】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【褪色】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-012-05",
-      "name": "【褪色】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【褪色】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-012-06",
-      "name": "【褪色】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【褪色】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-014-01",
-      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的培育中通過最終考試"
+      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-shro-3-014-02",
-      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-014-03",
-      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-shro-3-014-04",
-      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-014-05",
-      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-3-014-06",
-      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ssmk-2-000-04",
@@ -6289,6 +6389,30 @@
       "id": "achieve-i_card-ttmr-3-011-06",
       "name": "【雨後的鳶尾花】月村手毬的特訓階段提升至{threshold}級"
     },
+	{
+      "id": "achieve-i_card-ttmr-3-015-01",
+      "name": "【全力以赴！】月村手毬的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-02",
+      "name": "【全力以赴！】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-03",
+      "name": "【全力以赴！】月村手毬的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-04",
+      "name": "【全力以赴！】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-05",
+      "name": "【全力以赴！】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-015-06",
+      "name": "【全力以赴！】月村手毬的特訓階段提升至{threshold}級"
+    },
     {
       "id": "achieve-m_amao-001",
       "name": "有村麻央的成就★獲得了{threshold}個"
@@ -6327,7 +6451,7 @@
     },
     {
       "id": "achieve-m_shro-001",
-      "name": "筱澤廣的成就★獲得了{threshold}個"
+      "name": "篠澤廣的成就★獲得了{threshold}個"
     },
     {
       "id": "achieve-m_ssmk-001",
@@ -6791,27 +6915,27 @@
     },
     {
       "id": "achieve-p_idol-card-shro-002-1",
-      "name": "【最不適合的事】筱澤廣的培育中通過最終考試"
+      "name": "【最不適合的事】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-shro-002-2",
-      "name": "【最不適合的事】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【最不適合的事】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-shro-002-3",
-      "name": "【最不適合的事】筱澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "【最不適合的事】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-shro-003-1",
-      "name": "【光景】筱澤廣的培育中通過最終考試"
+      "name": "【光景】篠澤廣的培育中通過最終考試"
     },
     {
       "id": "achieve-p_idol-card-shro-003-2",
-      "name": "【光景】筱澤廣的特訓階段提升至{threshold}級"
+      "name": "【光景】篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-card-shro-003-3",
-      "name": "【光景】筱澤廣的培育中獲得了{threshold}次A+以上的評價"
+      "name": "【光景】篠澤廣的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-p_idol-card-ssmk-002-1",
@@ -6923,7 +7047,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-014",
-      "name": "將藤田琴音的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將藤田琴音的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-fktn-015",
@@ -7019,7 +7143,7 @@
     },
     {
       "id": "achieve-p_idol-hmsz-014",
-      "name": "將秦谷美鈴的歌唱能力培養至1000以上並完成培育 "
+      "name": "將秦谷美鈴的Vo.能力值培養至1000以上並完成培育 "
     },
     {
       "id": "achieve-p_idol-hmsz-015",
@@ -7111,7 +7235,7 @@
     },
     {
       "id": "achieve-p_idol-hrnm-014",
-      "name": "將姬崎莉波的視覺能力值培養至1000以上並完成培育"
+      "name": "將姬崎莉波的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-hrnm-015",
@@ -7303,7 +7427,7 @@
     },
     {
       "id": "achieve-p_idol-hume-014",
-      "name": "將花海佑芽的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將花海佑芽的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-hume-015",
@@ -7395,7 +7519,7 @@
     },
     {
       "id": "achieve-p_idol-jsna-014",
-      "name": "將十王星南的視覺能力值培養至900以上並完成培育"
+      "name": "將十王星南的Vi.能力值培養至900以上並完成培育"
     },
     {
       "id": "achieve-p_idol-jsna-015",
@@ -7487,7 +7611,7 @@
     },
     {
       "id": "achieve-p_idol-kcna-014",
-      "name": "將倉本千奈的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將倉本千奈的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-kcna-015",
@@ -7579,7 +7703,7 @@
     },
     {
       "id": "achieve-p_idol-kllj-014",
-      "name": "將葛城莉莉婭的視覺能力值培養至1000以上並完成培育"
+      "name": "將葛城莉莉婭的Vi.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-kllj-015",
@@ -7611,67 +7735,67 @@
     },
     {
       "id": "achieve-p_idol-shro-000",
-      "name": "觀看筱澤廣的True End"
+      "name": "觀看篠澤廣的True End"
     },
     {
       "id": "achieve-p_idol-shro-000-1",
-      "name": "觀看筱澤廣的True End : N.I.A"
+      "name": "觀看篠澤廣的True End : N.I.A"
     },
     {
       "id": "achieve-p_idol-shro-001",
-      "name": "在筱澤廣的培育中使用技能卡{threshold}次"
+      "name": "在篠澤廣的培育中使用技能卡{threshold}次"
     },
     {
       "id": "achieve-p_idol-shro-002",
-      "name": "使用筱澤廣完成{threshold}次課程"
+      "name": "使用篠澤廣完成{threshold}次課程"
     },
     {
       "id": "achieve-p_idol-shro-003",
-      "name": "使用筱澤廣完成{threshold}次SP課程"
+      "name": "使用篠澤廣完成{threshold}次SP課程"
     },
     {
       "id": "achieve-p_idol-shro-004",
-      "name": "使用筱澤廣通過最終考試並獲得{threshold}次B以上評價"
+      "name": "使用篠澤廣通過最終考試並獲得{threshold}次B以上評價"
     },
     {
       "id": "achieve-p_idol-shro-005",
-      "name": "使用筱澤廣通過最終考試並獲得{threshold}次A以上評價"
+      "name": "使用篠澤廣通過最終考試並獲得{threshold}次A以上評價"
     },
     {
       "id": "achieve-p_idol-shro-006",
-      "name": "使用筱澤廣通過最終考試並獲得{threshold}次S以上評價"
+      "name": "使用篠澤廣通過最終考試並獲得{threshold}次S以上評價"
     },
     {
       "id": "achieve-p_idol-shro-007",
-      "name": "完成筱澤廣的培育{threshold}次"
+      "name": "完成篠澤廣的培育{threshold}次"
     },
     {
       "id": "achieve-p_idol-shro-008",
-      "name": "將筱澤廣的特訓階段提升至{threshold}級"
+      "name": "將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-shro-009",
-      "name": "在筱澤廣的培育中通過{threshold}次最終考試"
+      "name": "在篠澤廣的培育中通過{threshold}次最終考試"
     },
     {
       "id": "achieve-p_idol-shro-010",
-      "name": "獲得筱澤廣獲得{threshold}粉絲"
+      "name": "獲得篠澤廣獲得{threshold}粉絲"
     },
     {
       "id": "achieve-p_idol-shro-011",
-      "name": "將筱澤廣的親密度提升至Lv{threshold}"
+      "name": "將篠澤廣的親密度提升至Lv{threshold}"
     },
     {
       "id": "achieve-p_idol-shro-012",
-      "name": "在筱澤廣的培育中累計獲得{threshold}的評價"
+      "name": "在篠澤廣的培育中累計獲得{threshold}的評價"
     },
     {
       "id": "achieve-p_idol-shro-013",
-      "name": "在筱澤廣的培育中累計獲得{threshold}點元氣"
+      "name": "在篠澤廣的培育中累計獲得{threshold}點元氣"
     },
     {
       "id": "achieve-p_idol-shro-014",
-      "name": "將筱澤廣的歌唱能力值培養至1000以上並完成培育"
+      "name": "將篠澤廣的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-shro-015",
@@ -7679,11 +7803,11 @@
     },
     {
       "id": "achieve-p_idol-shro-016",
-      "name": "在筱澤廣的培育中通過最終考試並獲得S+以上評價{threshold}次"
+      "name": "在篠澤廣的培育中通過最終考試並獲得S+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-shro-017",
-      "name": "在筱澤廣的定期公演『初』難易度：Master下獲得最終考試第一名"
+      "name": "在篠澤廣的定期公演『初』難易度：Master下獲得最終考試第一名"
     },
     {
       "id": "achieve-p_idol-shro-018",
@@ -7695,15 +7819,15 @@
     },
     {
       "id": "achieve-p_idol-shro-020",
-      "name": "在筱澤廣的培育中通過最終考試並獲得{threshold}次SS以上評價"
+      "name": "在篠澤廣的培育中通過最終考試並獲得{threshold}次SS以上評價"
     },
     {
       "id": "achieve-p_idol-shro-021",
-      "name": "使用筱澤廣通過最終考試並獲得SS+以上評價{threshold}次"
+      "name": "使用篠澤廣通過最終考試並獲得SS+以上評價{threshold}次"
     },
     {
       "id": "achieve-p_idol-shro-022",
-      "name": "將筱澤廣的特訓階段提升至{threshold}級"
+      "name": "將篠澤廣的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-ssmk-000",
@@ -7767,7 +7891,7 @@
     },
     {
       "id": "achieve-p_idol-ssmk-014",
-      "name": "將紫雲清夏的舞蹈能力值培養至1000以上並完成培育"
+      "name": "將紫雲清夏的Da.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-ssmk-015",
@@ -7859,7 +7983,7 @@
     },
     {
       "id": "achieve-p_idol-ttmr-014",
-      "name": "將月村手毬的歌唱能力值培養至1000以上並完成培育"
+      "name": "將月村手毬的Vo.能力值培養至1000以上並完成培育"
     },
     {
       "id": "achieve-p_idol-ttmr-015",
@@ -8327,7 +8451,7 @@
     },
     {
       "id": "main_task_group-02-01#46",
-      "name": "在培育中通過最終考試吧\n【條件】：筱澤廣"
+      "name": "在培育中通過最終考試吧\n【條件】：篠澤廣"
     },
     {
       "id": "main_task_group-02-01#47",
@@ -8451,7 +8575,7 @@
     },
     {
       "id": "main_task_group-02-01#77",
-      "name": "讓筱澤廣通過最終考試並獲得{threshold}次A以上的評價吧"
+      "name": "讓篠澤廣通過最終考試並獲得{threshold}次A以上的評價吧"
     },
     {
       "id": "main_task_group-02-01#78",
@@ -8595,7 +8719,7 @@
     },
     {
       "id": "main_task_group-03-01#13",
-      "name": "去通過任意精明P研修吧"
+      "name": "去通過任意幹練P研修吧"
     },
     {
       "id": "main_task_group-03-01#14",
@@ -8727,7 +8851,7 @@
     },
     {
       "id": "main_task_group-03-01#46",
-      "name": "讓筱澤廣的親密度Lv達到{threshold}吧"
+      "name": "讓篠澤廣的親密度Lv達到{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#47",
@@ -8899,7 +9023,7 @@
     },
     {
       "id": "main_task_group-03-01#89",
-      "name": "讓筱澤廣的親密度Lv達到{threshold}吧"
+      "name": "讓篠澤廣的親密度Lv達到{threshold}吧"
     },
     {
       "id": "main_task_group-03-01#90",
@@ -9011,7 +9135,7 @@
     },
     {
       "id": "main_task_group-04-01#17",
-      "name": "讓筱澤廣的親密度Lv達到{threshold}吧"
+      "name": "讓篠澤廣的親密度Lv達到{threshold}吧"
     },
     {
       "id": "main_task_group-04-01#18",
@@ -9099,7 +9223,7 @@
     },
     {
       "id": "main_task_group-04-01#39",
-      "name": "讓筱澤廣通過最終考試並獲得{threshold}次SS以上評價吧"
+      "name": "讓篠澤廣通過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "main_task_group-04-01#40",

@@ -19,7 +19,7 @@
     {
       "characterId": "amao",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "amao",
@@ -29,12 +29,12 @@
     {
       "characterId": "amao",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中歌唱能力450以上"
+      "produceConditionDescription": "培育中Vo.能力值450以上"
     },
     {
       "characterId": "amao",
@@ -44,7 +44,7 @@
     {
       "characterId": "amao",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中歌唱能力1000以上"
+      "produceConditionDescription": "培育中Vo.能力值1000以上"
     },
     {
       "characterId": "amao",
@@ -84,12 +84,12 @@
     {
       "characterId": "amao",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "amao",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "amao",
@@ -99,7 +99,7 @@
     {
       "characterId": "amao",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "amao",
@@ -119,7 +119,7 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "fktn",
@@ -129,12 +129,12 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中視覺能力450以上"
+      "produceConditionDescription": "培育中Vi.能力值450以上"
     },
     {
       "characterId": "fktn",
@@ -144,7 +144,7 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中舞蹈能力800以上"
+      "produceConditionDescription": "培育中Da.能力值800以上"
     },
     {
       "characterId": "fktn",
@@ -184,12 +184,12 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "fktn",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "fktn",
@@ -199,7 +199,7 @@
     {
       "characterId": "fktn",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "fktn",
@@ -254,7 +254,7 @@
     {
       "characterId": "hmsz",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "hmsz",
@@ -264,12 +264,12 @@
     {
       "characterId": "hmsz",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "hmsz",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中視覺能力450以上"
+      "produceConditionDescription": "培育中Vi.能力值450以上"
     },
     {
       "characterId": "hmsz",
@@ -279,7 +279,7 @@
     {
       "characterId": "hmsz",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中歌唱能力1000以上"
+      "produceConditionDescription": "培育中Vo.能力值1000以上"
     },
     {
       "characterId": "hmsz",
@@ -319,12 +319,12 @@
     {
       "characterId": "hmsz",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "hmsz",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "hmsz",
@@ -334,7 +334,7 @@
     {
       "characterId": "hmsz",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "hmsz",
@@ -354,7 +354,7 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "hrnm",
@@ -364,12 +364,12 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中舞蹈能力450以上"
+      "produceConditionDescription": "培育中Da.能力值450以上"
     },
     {
       "characterId": "hrnm",
@@ -379,7 +379,7 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中視覺能力800以上"
+      "produceConditionDescription": "培育中Vi.能力值800以上"
     },
     {
       "characterId": "hrnm",
@@ -419,12 +419,12 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "hrnm",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "hrnm",
@@ -434,7 +434,7 @@
     {
       "characterId": "hrnm",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "hrnm",
@@ -489,7 +489,7 @@
     {
       "characterId": "hski",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "hski",
@@ -499,12 +499,12 @@
     {
       "characterId": "hski",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中歌唱能力450以上"
+      "produceConditionDescription": "培育中Vo.能力值450以上"
     },
     {
       "characterId": "hski",
@@ -514,7 +514,7 @@
     {
       "characterId": "hski",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中視覺能力1000以上"
+      "produceConditionDescription": "培育中Vi.能力值1000以上"
     },
     {
       "characterId": "hski",
@@ -554,12 +554,12 @@
     {
       "characterId": "hski",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "hski",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "hski",
@@ -569,7 +569,7 @@
     {
       "characterId": "hski",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "hski",
@@ -589,7 +589,7 @@
     {
       "characterId": "hume",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "hume",
@@ -599,12 +599,12 @@
     {
       "characterId": "hume",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中舞蹈能力450以上"
+      "produceConditionDescription": "培育中Da.能力值450以上"
     },
     {
       "characterId": "hume",
@@ -614,7 +614,7 @@
     {
       "characterId": "hume",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中歌唱能力1000以上"
+      "produceConditionDescription": "培育中Vo.能力值1000以上"
     },
     {
       "characterId": "hume",
@@ -654,12 +654,12 @@
     {
       "characterId": "hume",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "hume",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "hume",
@@ -669,7 +669,7 @@
     {
       "characterId": "hume",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "hume",
@@ -689,7 +689,7 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "jsna",
@@ -699,12 +699,12 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中歌唱能力450以上"
+      "produceConditionDescription": "培育中Vo.能力值450以上"
     },
     {
       "characterId": "jsna",
@@ -714,7 +714,7 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中視覺能力900以上"
+      "produceConditionDescription": "培育中Vi.能力值900以上"
     },
     {
       "characterId": "jsna",
@@ -754,12 +754,12 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "jsna",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "jsna",
@@ -769,7 +769,7 @@
     {
       "characterId": "jsna",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "jsna",
@@ -789,7 +789,7 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "kcna",
@@ -799,12 +799,12 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中視覺能力450以上"
+      "produceConditionDescription": "培育中Vi.能力值450以上"
     },
     {
       "characterId": "kcna",
@@ -814,7 +814,7 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中舞蹈能力1000以上"
+      "produceConditionDescription": "培育中Da.能力值1000以上"
     },
     {
       "characterId": "kcna",
@@ -854,12 +854,12 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "kcna",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "kcna",
@@ -869,7 +869,7 @@
     {
       "characterId": "kcna",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "kcna",
@@ -889,7 +889,7 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "kllj",
@@ -899,12 +899,12 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中歌唱能力450以上"
+      "produceConditionDescription": "培育中Vo.能力值450以上"
     },
     {
       "characterId": "kllj",
@@ -914,7 +914,7 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中視覺能力1000以上"
+      "produceConditionDescription": "培育中Vi.能力值1000以上"
     },
     {
       "characterId": "kllj",
@@ -954,12 +954,12 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "kllj",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "kllj",
@@ -969,7 +969,7 @@
     {
       "characterId": "kllj",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "kllj",
@@ -989,7 +989,7 @@
     {
       "characterId": "shro",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "shro",
@@ -999,22 +999,22 @@
     {
       "characterId": "shro",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中舞蹈能力450以上"
+      "produceConditionDescription": "培育中Da.能力值450以上"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 7,
-      "produceConditionDescription": "在獲得了成就「即使沒有才能也能做到的事」的狀態下，培育中的中間考試合格"
+      "produceConditionDescription": "在獲得了成就「即使沒有才能也能做到的事」的狀態下，培育中的期中考試合格"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中歌唱能力1000以上"
+      "produceConditionDescription": "培育中Vo.能力值1000以上"
     },
     {
       "characterId": "shro",
@@ -1054,12 +1054,12 @@
     {
       "characterId": "shro",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "shro",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "shro",
@@ -1069,7 +1069,7 @@
     {
       "characterId": "shro",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "shro",
@@ -1079,7 +1079,7 @@
     {
       "characterId": "shro",
       "dearnessLevel": 21,
-      "produceConditionDescription": "移動至筱澤廣的親密度TOP"
+      "produceConditionDescription": "移動至篠澤廣的親密度TOP"
     },
     {
       "characterId": "shro",
@@ -1124,7 +1124,7 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "ssmk",
@@ -1134,12 +1134,12 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中視覺能力450以上"
+      "produceConditionDescription": "培育中Vi.能力值450以上"
     },
     {
       "characterId": "ssmk",
@@ -1149,7 +1149,7 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中舞蹈能力1000以上"
+      "produceConditionDescription": "培育中Da.能力值1000以上"
     },
     {
       "characterId": "ssmk",
@@ -1189,12 +1189,12 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "ssmk",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "ssmk",
@@ -1204,7 +1204,7 @@
     {
       "characterId": "ssmk",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "ssmk",
@@ -1259,7 +1259,7 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 3,
-      "produceConditionDescription": "培育中的中間考試合格后經過1週"
+      "produceConditionDescription": "培育中的期中考試合格後經過1週"
     },
     {
       "characterId": "ttmr",
@@ -1269,12 +1269,12 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 5,
-      "produceConditionDescription": "以第1名通過中間考試"
+      "produceConditionDescription": "以第1名通過期中考試"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 6,
-      "produceConditionDescription": "培育中舞蹈能力450以上"
+      "produceConditionDescription": "培育中Da.能力值450以上"
     },
     {
       "characterId": "ttmr",
@@ -1284,7 +1284,7 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 8,
-      "produceConditionDescription": "培育中歌唱能力1000以上"
+      "produceConditionDescription": "培育中Vo.能力值1000以上"
     },
     {
       "characterId": "ttmr",
@@ -1324,12 +1324,12 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 16,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "ttmr",
       "dearnessLevel": 17,
-      "produceConditionDescription": "最終試鏡選擇「QUARTET」后通過"
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後通過"
     },
     {
       "characterId": "ttmr",
@@ -1339,7 +1339,7 @@
     {
       "characterId": "ttmr",
       "dearnessLevel": 19,
-      "produceConditionDescription": "最終試鏡選擇「FINALE」后通過"
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後通過"
     },
     {
       "characterId": "ttmr",
