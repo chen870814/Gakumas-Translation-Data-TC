@@ -3495,7 +3495,7 @@
   "produce.lesson.no_effect.sheet_suffix": "\n確定執行嗎？",
   "produce.lesson.no_effect.stamina_max": "因體力已滿，效果未能發動。",
   "produce.lesson.no_effect.stamina_recover_restriction": "由於體力恢復無效狀態，效果未能觸發。",
-  "produce.lesson.no_effect.stance_over_preservation": "由於方針是悠閑，方針儲存的效果未觸發。",
+  "produce.lesson.no_effect.stance_over_preservation": "由於方針是悠閒，方針儲存的效果未觸發。",
   "produce.lesson.no_effect.stance_same": "由於已經是變更到的指針，效果未能發動。",
   "produce.lesson.no_effect.stance_step_max": "因指針階段已達到上限，效果未能發動。",
   "produce.lesson.no_effect.timer_over": "因剩餘回合少，效果未能發動。",
