@@ -1425,14 +1425,14 @@
       "id": "p_story-001-fktn-opening-true-01",
       "title": "爲了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
-        "觀看藤田ことね的True End"
+        "觀看藤田琴音的True End"
       ]
     },
     {
       "id": "p_story-001-fktn-opening-true-02",
       "title": "爲了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
-        "觀看藤田ことね的True End"
+        "觀看藤田琴音的True End"
       ]
     },
     {
@@ -1573,7 +1573,7 @@
     },
     {
       "id": "p_story-001-hmsz-ending-normal-01",
-      "title": "一起打瞌睡",
+      "title": "【A End】一起打瞌睡",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
         "在最終考試中以第1名合格"
@@ -1581,7 +1581,7 @@
     },
     {
       "id": "p_story-001-hmsz-ending-normal-02",
-      "title": "就算墮落至深淵",
+      "title": "【B End】就算墮落至深淵",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上",
         "在最終考試中以第2名合格"
@@ -1589,21 +1589,21 @@
     },
     {
       "id": "p_story-001-hmsz-ending-normal-03",
-      "title": "如願以償的日子",
+      "title": "【C End】如願以償的日子",
       "produceEventHintProduceConditionDescriptions": [
         "通過最終考試"
       ]
     },
     {
       "id": "p_story-001-hmsz-ending-normal-04",
-      "title": "從今以後到永遠",
+      "title": "【D End】從今以後到永遠",
       "produceEventHintProduceConditionDescriptions": [
         "在最終考試中取得第4或第5名"
       ]
     },
     {
       "id": "p_story-001-hmsz-ending-normal-05",
-      "title": "請喝點茶",
+      "title": "【E End】請喝點茶",
       "produceEventHintProduceConditionDescriptions": [
         "在最終考試中獲得第6名"
       ]
@@ -3166,28 +3166,28 @@
     },
     {
       "id": "p_story-001-kllj-opening-normal-02",
-      "title": "葛城利莉亞，啟動！",
+      "title": "葛城莉莉婭，啟動！",
       "produceEventHintProduceConditionDescriptions": [
         "開始培育"
       ]
     },
     {
       "id": "p_story-001-kllj-opening-normal-03",
-      "title": "葛城利莉亞，啟動！",
+      "title": "葛城莉莉婭，啟動！",
       "produceEventHintProduceConditionDescriptions": [
         "開始培育"
       ]
     },
     {
       "id": "p_story-001-kllj-opening-normal-04",
-      "title": "葛城利莉亞，啟動！",
+      "title": "葛城莉莉婭，啟動！",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上"
       ]
     },
     {
       "id": "p_story-001-kllj-opening-normal-05",
-      "title": "葛城利莉亞，啟動！",
+      "title": "葛城莉莉婭，啟動！",
       "produceEventHintProduceConditionDescriptions": [
         "親密度達到4以上"
       ]
@@ -3196,14 +3196,14 @@
       "id": "p_story-001-kllj-opening-true-01",
       "title": "爲了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
-        "觀看葛城リーリヤ的True End"
+        "觀看葛城莉莉婭的True End"
       ]
     },
     {
       "id": "p_story-001-kllj-opening-true-02",
       "title": "爲了更接近夢想",
       "produceEventHintProduceConditionDescriptions": [
-        "觀看葛城リーリヤ的True End"
+        "觀看葛城莉莉婭的True End"
       ]
     },
     {
@@ -3866,7 +3866,7 @@
     },
     {
       "id": "p_story-001-ttmr-ending-normal-03",
-      "title": "【C End】草莓短蛋糕",
+      "title": "【C End】草莓奶油蛋糕",
       "produceEventHintProduceConditionDescriptions": [
         "通過最終考試"
       ]
@@ -6620,14 +6620,14 @@
     },
     {
       "id": "p_story-event-001_ttmr_activity_017-01",
-      "title": "音游",
+      "title": "音遊",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-001_ttmr_activity_017-02",
-      "title": "音游",
+      "title": "音遊",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -7117,21 +7117,21 @@
     },
     {
       "id": "p_story-event-002_amao_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_amao_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_amao_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -7621,21 +7621,21 @@
     },
     {
       "id": "p_story-event-002_fktn_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_fktn_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_fktn_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -8125,21 +8125,21 @@
     },
     {
       "id": "p_story-event-002_hmsz_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_hmsz_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_hmsz_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -8629,21 +8629,21 @@
     },
     {
       "id": "p_story-event-002_hrnm_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_hrnm_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_hrnm_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -9133,21 +9133,21 @@
     },
     {
       "id": "p_story-event-002_hski_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_hski_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_hski_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -9637,21 +9637,21 @@
     },
     {
       "id": "p_story-event-002_hume_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_hume_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_hume_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -10141,21 +10141,21 @@
     },
     {
       "id": "p_story-event-002_jsna_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_jsna_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_jsna_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -10645,21 +10645,21 @@
     },
     {
       "id": "p_story-event-002_kcna_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_kcna_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_kcna_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -11149,21 +11149,21 @@
     },
     {
       "id": "p_story-event-002_kllj_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_kllj_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_kllj_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -11653,21 +11653,21 @@
     },
     {
       "id": "p_story-event-002_shro_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_shro_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_shro_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -12157,21 +12157,21 @@
     },
     {
       "id": "p_story-event-002_ssmk_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_ssmk_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_ssmk_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -12661,21 +12661,21 @@
     },
     {
       "id": "p_story-event-002_ttmr_business-4-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_ttmr_business-4-1-1",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-event-002_ttmr_business-4-1-2",
-      "title": "小型表演",
+      "title": "迷你Live",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
