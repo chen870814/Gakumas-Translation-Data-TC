@@ -4653,7 +4653,7 @@
     },
     {
       "id": "p_story-event-001_hmsz_school_011",
-      "title": "課程是什麼？",
+      "title": "課程是為了什麼？",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -13102,21 +13102,21 @@
     },
     {
       "id": "p_story-i_card-hmsz-3-005-01",
-      "title": "Campus mode!! 1話",
+      "title": "Campus mode!! 第1話",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-i_card-hmsz-3-005-02",
-      "title": "Campus mode!! 2話",
+      "title": "Campus mode!! 第2話",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "p_story-i_card-hmsz-3-005-03",
-      "title": "Campus mode!! 3話",
+      "title": "Campus mode!! 第3話",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
@@ -17183,49 +17183,49 @@
     },
     {
       "id": "story-dearness-hmsz-004",
-      "title": "4話",
+      "title": "第4話",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "story-dearness-hmsz-005",
-      "title": "5話",
+      "title": "第5話",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "story-dearness-hmsz-006",
-      "title": "6話",
+      "title": "第6話",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "story-dearness-hmsz-007",
-      "title": "7話",
+      "title": "第7話",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "story-dearness-hmsz-008",
-      "title": "8話",
+      "title": "第8話",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "story-dearness-hmsz-009",
-      "title": "9話",
+      "title": "第9話",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
     },
     {
       "id": "story-dearness-hmsz-010",
-      "title": "10話",
+      "title": "第10話",
       "produceEventHintProduceConditionDescriptions": [
         ""
       ]
