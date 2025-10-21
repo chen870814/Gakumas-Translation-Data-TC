@@ -14,6 +14,10 @@
       "name": "偶像任務莉波"
     },
     {
+      "id": "dearness_normal-mission_kcna_01",
+      "name": "偶像任務千奈"
+    },
+    {
       "id": "dearness_normal-mission_shro_01",
       "name": "偶像任務廣"
     },
@@ -27,6 +31,10 @@
     },
     {
       "id": "dearness_panel-mission_hrnm_01",
+      "name": "親密度強化活動"
+    },
+    {
+      "id": "dearness_panel-mission_kcna_01",
       "name": "親密度強化活動"
     },
     {
@@ -108,7 +116,7 @@
     {
       "id": "mission-group-box-gasha-event-019",
       "name": "巡演活動 名古屋篇"
-	},
+    },
     {
       "id": "mission-group-circle-battle-event-001",
       "name": "#Animate氣氛活躍隊"
@@ -326,6 +334,26 @@
       "name": "高分衝刺活動任務"
     },
     {
+      "id": "mission-group-highscorerush-event-006_1",
+      "name": "高分衝刺活動任務"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_2",
+      "name": "高分衝刺活動任務"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_3",
+      "name": "高分衝刺活動任務"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_4",
+      "name": "高分衝刺活動任務"
+    },
+    {
+      "id": "mission-group-highscorerush-event-006_5",
+      "name": "高分衝刺活動任務"
+    },
+    {
       "id": "mission-group-main-story-event-001_1",
       "name": "初星交流活動任務"
     },
@@ -537,7 +565,7 @@
       "id": "mission-group-research-event-001",
       "name": "亞紗里研討001"
     },
-	{
+    {
       "id": "mission-group-research-event-002",
       "name": "亞紗里研討002"
     },

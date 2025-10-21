@@ -3588,6 +3588,31 @@
       ]
     },
     {
+      "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-01-ido-3_150-0_1",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceCard",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "p_card-01-ido-3_150",
+          "text": "世界第一的勇氣"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "使用時，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_card_play-p_card_search-playing-p_card-02-act-1_028-0_1",
       "produceDescriptions": [
         {
@@ -3598,7 +3623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "悠哉閒談"
+          "text": "悠哉閑談"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4343,7 +4368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡使用時，在6回合以後的時候，"
+          "text": "技能卡使用時，在第6回合以後的時候，"
         }
       ]
     },
@@ -13010,6 +13035,36 @@
       ]
     },
     {
+      "id": "e_trigger-none-turn_progress_up-2",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在3回合以上的時候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-turn_progress_up-3",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在4回合以上的時候，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-start_exam_play",
       "produceDescriptions": [
         {
@@ -13341,6 +13396,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "剩餘2回合內的回合開始後，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-start_play-remaining_turn-3",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "剩餘3回合內的回合開始後，"
         }
       ]
     },
