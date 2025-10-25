@@ -11,6 +11,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -19,6 +20,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 2,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -27,6 +29,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 3,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -35,6 +38,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 1,
+      "title": "",
       "texts": [
         "課程完成恭喜！\n達成課程的目標\n可以獲得獎勵哦"
       ]
@@ -43,6 +47,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 2,
+      "title": "",
       "texts": [
         "看起來可以從中選擇一個呢\n這次就領取這張技能卡\n試試看吧！"
       ]
@@ -51,6 +56,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 3,
+      "title": "",
       "texts": [
         ""
       ]
@@ -59,6 +65,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 6,
       "subStep": 4,
+      "title": "課程的基礎",
       "texts": [
         "完成課程目標後，\n可以獲得對培育有用的獎勵。"
       ]
@@ -67,6 +74,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 9,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -75,6 +83,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 10,
       "subStep": 1,
+      "title": "",
       "texts": [
         "體力好像變少了呢"
       ]
@@ -83,6 +92,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 10,
       "subStep": 2,
+      "title": "",
       "texts": [
         "選擇「休息」\n讓偶像休息一會吧"
       ]
@@ -91,6 +101,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 10,
       "subStep": 3,
+      "title": "體力與休息",
       "texts": [
         "體力變少時，用「休息」恢復體力\n為考試和課程做好準備吧。"
       ]
@@ -99,6 +110,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 10,
       "subStep": 4,
+      "title": "",
       "texts": [
         ""
       ]
@@ -107,6 +119,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 11,
       "subStep": 1,
+      "title": "考試的基礎",
       "texts": [
         "和其他偶像競爭得分\n進入前三名即可合格。"
       ]
@@ -115,6 +128,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 1,
+      "title": "",
       "texts": [
         "使用與課程相同的技能卡，\n提升得分進行排名競爭"
       ]
@@ -123,6 +137,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 2,
+      "title": "",
       "texts": [
         "這裡可以確認目前的得分與排名"
       ]
@@ -131,6 +146,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 3,
+      "title": "",
       "texts": [
         "考試結束時，\n若在三位以內即為合格哦"
       ]
@@ -139,6 +155,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 4,
+      "title": "",
       "texts": [
         "立刻使用技能卡\n提升得分吧！"
       ]
@@ -147,6 +164,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 5,
+      "title": "",
       "texts": [
         "比課程時大幅上升了呢\n考試時根據分數，\n得分會有加成"
       ]
@@ -155,6 +173,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 6,
+      "title": "",
       "texts": [
         "加成可以在這裡確認\n每回合加成會變化\n請注意哦！"
       ]
@@ -163,6 +182,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 7,
+      "title": "",
       "texts": [
         "那麼還有三回合\n考試加油！"
       ]
@@ -171,6 +191,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 8,
+      "title": "考試的基礎",
       "texts": [
         "考試中每回合得分有加成。\n分數越高得分加成的值就越大。"
       ]
@@ -179,6 +200,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 12,
       "subStep": 9,
+      "title": "",
       "texts": [
         ""
       ]
@@ -187,6 +209,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 13,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -195,6 +218,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 14,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -203,6 +227,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 15,
       "subStep": 1,
+      "title": "",
       "texts": [
         "直播中最多可以拍攝50次\n記錄下偶像的身影吧！"
       ]
@@ -211,6 +236,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 16,
       "subStep": 1,
+      "title": "關於演唱會",
       "texts": [
         "通過培育結果和偶像的成長\n決定可以參與的直播。"
       ]
@@ -219,6 +245,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 16,
       "subStep": 2,
+      "title": "",
       "texts": [
         "培育的結果\n可以作為「回憶」\n獲得哦"
       ]
@@ -227,6 +254,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 16,
       "subStep": 3,
+      "title": "關於回憶",
       "texts": [
         "根據培育的評價\n回憶的效能會變化。"
       ]
@@ -235,6 +263,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 16,
       "subStep": 4,
+      "title": "",
       "texts": [
         "可以選擇成為「回憶」的照片哦！\n選擇你喜歡的照片試試看吧"
       ]
@@ -243,6 +272,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 17,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -251,6 +281,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 17,
       "subStep": 2,
+      "title": "製作人Lv",
       "texts": [
         "製作人Lv上升時，會解鎖新的技能卡和\nP飲料等，並在培育中出現。"
       ]
@@ -259,6 +290,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 1,
+      "title": "",
       "texts": [
         "好了，培育開始了呢\n這次考試特別的只有最終考試哦\n我會幫你緊跟的，請放心吧！"
       ]
@@ -267,6 +299,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 2,
+      "title": "培育的目的",
       "texts": [
         "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
         "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
@@ -277,6 +310,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 3,
+      "title": "",
       "texts": [
         "在這裡可以確認偶像的分數、建議、\n審查標準"
       ]
@@ -285,6 +319,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 4,
+      "title": "",
       "texts": [
         "首先進行Da.課程\n提升Da.能力值吧！"
       ]
@@ -293,6 +328,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -301,6 +337,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 2,
+      "title": "",
       "texts": [
         "可以在這裡確認到\n通關所需的分數和\n目前偶像的分數哦"
       ]
@@ -309,6 +346,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 3,
+      "title": "",
       "texts": [
         "課程中可以在固定的回合數內\n進行行動\n這次似乎還剩下3回合呢！"
       ]
@@ -317,6 +355,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 4,
+      "title": "",
       "texts": [
         "在課程中\n可以選擇在這裡的技能卡\n進行使用哦"
       ]
@@ -325,6 +364,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 5,
+      "title": "",
       "texts": [
         "趕緊試著使用吧！"
       ]
@@ -333,6 +373,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 6,
+      "title": "",
       "texts": [
         "Da.力的分數上升\n離課程通關更近了呢！"
       ]
@@ -341,6 +382,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 7,
+      "title": "",
       "texts": [
         "體力在下降呢\n使用技能卡時\n可能需要體力"
       ]
@@ -349,6 +391,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 8,
+      "title": "",
       "texts": [
         "接下來試試選擇這張技能卡吧！"
       ]
@@ -357,6 +400,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 9,
+      "title": "",
       "texts": [
         "{ExamEffectType.ExamBlock}元氣上升了呢！\n{ExamEffectType.ExamBlock}元氣在體力下降時，\n會優先作為體力的替代消耗"
       ]
@@ -365,6 +409,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 10,
+      "title": "課程的基礎",
       "texts": [
         "",
         "技能卡的使用需要體力。\n當有元氣時，可以用元氣作為體力的替代消耗\n來使用技能卡。"
@@ -374,6 +419,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 11,
+      "title": "",
       "texts": [
         "最後再選擇一張試試吧！"
       ]
@@ -382,6 +428,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 7,
       "subStep": 1,
+      "title": "",
       "texts": [
         "接下來選擇Vo.課程\n試試看吧"
       ]
@@ -390,6 +437,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -398,6 +446,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 2,
+      "title": "",
       "texts": [
         "上次課程獲得的\n技能卡在手牌里呢\n試著選擇看看吧！"
       ]
@@ -406,6 +455,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 3,
+      "title": "",
       "texts": [
         "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
       ]
@@ -414,6 +464,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 4,
+      "title": "",
       "texts": [
         "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
       ]
@@ -422,6 +473,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 5,
+      "title": "",
       "texts": [
         "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
       ]
@@ -430,6 +482,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 6,
+      "title": "",
       "texts": [
         "所持的P道具效果也可以通過\n點選圖示進行確認哦"
       ]
@@ -438,6 +491,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 7,
+      "title": "",
       "texts": [
         "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
       ]
@@ -446,6 +500,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 8,
+      "title": "",
       "texts": [
         "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
       ]
@@ -454,6 +509,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 9,
+      "title": "",
       "texts": [
         "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
       ]
@@ -462,6 +518,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 10,
+      "title": "",
       "texts": [
         "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
       ]
@@ -470,6 +527,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 11,
+      "title": "課程的基礎",
       "texts": [
         "課程中的效果可以通過\n點選圖示確認詳細資訊。",
         "P道具在滿足條件後會生效。\n一開始持有的P道具由可培育偶像決定。"
@@ -479,6 +537,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 12,
+      "title": "課程的基礎",
       "texts": [
         "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
       ]
@@ -487,6 +546,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 13,
+      "title": "",
       "texts": [
         "沒問題，你一定能做到的！"
       ]
@@ -495,14 +555,16 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 14,
+      "title": "",
       "texts": [
-        "沒問題，你一定能做到的！"
+        ""
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 15,
+      "title": "",
       "texts": [
         ""
       ]
@@ -511,6 +573,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 1,
+      "title": "",
       "texts": [
         "好了，培育開始了呢\n這次考試特別的只有最終考試哦\n我會幫你緊跟的，請放心吧！"
       ]
@@ -519,6 +582,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 2,
+      "title": "培育的目的",
       "texts": [
         "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
         "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
@@ -529,6 +593,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 3,
+      "title": "",
       "texts": [
         "在這裡可以確認偶像的分數、建議、\n審查標準"
       ]
@@ -537,6 +602,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 4,
+      "title": "",
       "texts": [
         "首先進行Da.課程\n提升Da.能力值吧！"
       ]
@@ -545,6 +611,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -553,6 +620,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 2,
+      "title": "",
       "texts": [
         "可以在這裡確認到\n通關所需的分數和\n目前偶像的分數哦"
       ]
@@ -561,6 +629,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 3,
+      "title": "",
       "texts": [
         "課程中可以在固定的回合數內\n進行行動\n這次似乎還剩下3回合呢！"
       ]
@@ -569,6 +638,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 4,
+      "title": "",
       "texts": [
         "在課程中\n可以選擇在這裡的技能卡\n進行使用哦"
       ]
@@ -577,6 +647,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 5,
+      "title": "",
       "texts": [
         "趕緊試著使用吧！"
       ]
@@ -585,6 +656,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 6,
+      "title": "",
       "texts": [
         "Da.力的分數上升\n離課程通關更近了呢！"
       ]
@@ -593,6 +665,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 7,
+      "title": "",
       "texts": [
         "體力在下降呢\n使用技能卡時\n可能需要體力"
       ]
@@ -601,6 +674,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 8,
+      "title": "",
       "texts": [
         "接下來試試選擇這張技能卡吧！"
       ]
@@ -609,6 +683,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 9,
+      "title": "",
       "texts": [
         "{ExamEffectType.ExamBlock}元氣上升了呢！\n{ExamEffectType.ExamBlock}元氣在體力下降時，\n會優先作為體力的替代消耗"
       ]
@@ -617,6 +692,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 10,
+      "title": "課程的基礎",
       "texts": [
         "",
         "技能卡的使用需要體力。\n當有元氣時，可以用元氣作為體力的替代消耗\n來使用技能卡。"
@@ -626,6 +702,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 11,
+      "title": "",
       "texts": [
         "最後再選擇一張試試吧！"
       ]
@@ -634,6 +711,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 7,
       "subStep": 1,
+      "title": "",
       "texts": [
         "接下來選擇Vo.課程\n試試看吧"
       ]
@@ -642,6 +720,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -650,6 +729,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 2,
+      "title": "",
       "texts": [
         "上次課程獲得的\n技能卡在手牌里呢\n試著選擇看看吧！"
       ]
@@ -658,6 +738,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 3,
+      "title": "",
       "texts": [
         "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
       ]
@@ -666,6 +747,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 4,
+      "title": "",
       "texts": [
         "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
       ]
@@ -674,6 +756,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 5,
+      "title": "",
       "texts": [
         "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
       ]
@@ -682,6 +765,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 6,
+      "title": "",
       "texts": [
         "所持的P道具效果也可以通過\n點選圖示進行確認哦"
       ]
@@ -690,6 +774,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 7,
+      "title": "",
       "texts": [
         "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
       ]
@@ -698,6 +783,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 8,
+      "title": "",
       "texts": [
         "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
       ]
@@ -706,6 +792,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 9,
+      "title": "",
       "texts": [
         "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
       ]
@@ -714,6 +801,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 10,
+      "title": "",
       "texts": [
         "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
       ]
@@ -722,6 +810,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 11,
+      "title": "課程的基礎",
       "texts": [
         "課程中的效果可以通過\n點選圖示確認詳細資訊。",
         "P道具在滿足條件後會生效。\n一開始持有的P道具由可培育偶像決定。"
@@ -731,6 +820,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 12,
+      "title": "課程的基礎",
       "texts": [
         "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
       ]
@@ -739,6 +829,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 13,
+      "title": "",
       "texts": [
         "沒問題，你一定能做到的！"
       ]
@@ -747,14 +838,16 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 14,
+      "title": "",
       "texts": [
-        "沒問題，你一定能做到的！"
+        ""
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 1,
+      "title": "",
       "texts": [
         "好了，培育開始了呢\n這次考試特別的只有最終考試哦\n我會幫你緊跟的，請放心吧！"
       ]
@@ -763,6 +856,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 2,
+      "title": "培育的目的",
       "texts": [
         "通過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須通過期中考試和最終考試。",
         "爲了通過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
@@ -773,6 +867,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 3,
+      "title": "",
       "texts": [
         "在這裡可以確認偶像的分數、建議、\n審查標準"
       ]
@@ -781,6 +876,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 4,
       "subStep": 4,
+      "title": "",
       "texts": [
         "首先進行Da.課程\n提升Da.能力值吧！"
       ]
@@ -789,6 +885,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -797,6 +894,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 2,
+      "title": "",
       "texts": [
         "可以在這裡確認到\n通關所需的分數和\n目前偶像的分數哦"
       ]
@@ -805,6 +903,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 3,
+      "title": "",
       "texts": [
         "課程中可以在固定的回合數內\n進行行動\n這次似乎還剩下3回合呢！"
       ]
@@ -813,6 +912,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 4,
+      "title": "",
       "texts": [
         "在課程中\n可以選擇在這裡的技能卡\n進行使用哦"
       ]
@@ -821,6 +921,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 5,
+      "title": "",
       "texts": [
         "趕緊試著使用吧！"
       ]
@@ -829,6 +930,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 6,
+      "title": "",
       "texts": [
         "Da.力的分數上升\n離課程通關更近了呢！"
       ]
@@ -837,6 +939,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 7,
+      "title": "",
       "texts": [
         "體力在下降呢\n使用技能卡時\n可能需要體力"
       ]
@@ -845,6 +948,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 8,
+      "title": "",
       "texts": [
         "接下來試試選擇這張技能卡吧！"
       ]
@@ -853,6 +957,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 9,
+      "title": "",
       "texts": [
         "{ExamEffectType.ExamBlock}元氣上升了呢！\n{ExamEffectType.ExamBlock}元氣在體力下降時，\n會優先作為體力的替代消耗"
       ]
@@ -861,6 +966,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 10,
+      "title": "課程的基礎",
       "texts": [
         "",
         "技能卡的使用需要體力。\n當有元氣時，可以用元氣作為體力的替代消耗\n來使用技能卡。"
@@ -870,6 +976,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 5,
       "subStep": 11,
+      "title": "",
       "texts": [
         "最後再選擇一張試試吧！"
       ]
@@ -878,6 +985,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 7,
       "subStep": 1,
+      "title": "",
       "texts": [
         "接下來選擇Vo.課程\n試試看吧"
       ]
@@ -886,6 +994,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -894,6 +1003,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 2,
+      "title": "",
       "texts": [
         "上次課程獲得的\n技能卡在手牌里呢\n試著選擇看看吧！"
       ]
@@ -902,6 +1012,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 3,
+      "title": "",
       "texts": [
         "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
       ]
@@ -910,6 +1021,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 4,
+      "title": "",
       "texts": [
         "可以通過點選圖示\n來確認目前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
       ]
@@ -918,6 +1030,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 5,
+      "title": "",
       "texts": [
         "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
       ]
@@ -926,6 +1039,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 6,
+      "title": "",
       "texts": [
         "所持的P道具效果也可以通過\n點選圖示進行確認哦"
       ]
@@ -934,6 +1048,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 7,
+      "title": "",
       "texts": [
         "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
       ]
@@ -942,6 +1057,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 8,
+      "title": "",
       "texts": [
         "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
       ]
@@ -950,6 +1066,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 9,
+      "title": "",
       "texts": [
         "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
       ]
@@ -958,6 +1075,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 10,
+      "title": "",
       "texts": [
         "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
       ]
@@ -966,6 +1084,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 11,
+      "title": "課程的基礎",
       "texts": [
         "課程中的效果可以通過\n點選圖示確認詳細資訊。",
         "P道具在滿足條件後會生效。\n一開始持有的P道具由可培育偶像決定。"
@@ -975,6 +1094,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 12,
+      "title": "課程的基礎",
       "texts": [
         "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
       ]
@@ -983,6 +1103,7 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 13,
+      "title": "",
       "texts": [
         "沒問題，你一定能做到的！"
       ]
@@ -991,14 +1112,16 @@
       "tutorialType": "TutorialType_GameStart",
       "step": 8,
       "subStep": 14,
+      "title": "",
       "texts": [
-        "沒問題，你一定能做到的！"
+        ""
       ]
     },
     {
       "tutorialType": "TutorialType_MainTask",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "通過完成課題可以解鎖新的功能\n和初星交流。\n此外，還可以獲得製作人Exp等的獎勵。"
       ]
@@ -1007,6 +1130,7 @@
       "tutorialType": "TutorialType_Work",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "派遣偶像去工作\n可以獲得各種獎勵。",
         "工作有時會大成功，\n大成功時可以獲得更多獎勵。\n工作開始時好調的偶像\n必定會大成功。"
@@ -1016,6 +1140,7 @@
       "tutorialType": "TutorialType_IdolCard",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "可培育偶像經過才能開花後，\n初期P道具和課程加成都會加強。"
       ]
@@ -1024,6 +1149,7 @@
       "tutorialType": "TutorialType_IdolCardSkin",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1032,6 +1158,7 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "可以與全國的製作人進行對戰。\n競賽中可以使用培育獲得的\n回憶相關的分數、技能卡和\nP道具來進行對戰。",
         "在每個舞台進行表演對抗，\n通過得分來競爭勝負。\n贏得最多舞台比賽的製作人將獲勝。",
@@ -1043,6 +1170,7 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 2,
+      "title": "",
       "texts": [
         "爲了參加競賽\n來編成組合吧"
       ]
@@ -1051,6 +1179,7 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 3,
+      "title": "",
       "texts": [
         "使用全權委託可以\n一次性編成"
       ]
@@ -1059,6 +1188,7 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 4,
+      "title": "",
       "texts": [
         "使用全權委託可以\n一次性編成"
       ]
@@ -1067,6 +1197,7 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 5,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1075,6 +1206,7 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 6,
+      "title": "",
       "texts": [
         "回憶在每個舞台都有\n固定的可編成方案。",
         "回憶編成分為主和副。\n主和副可以編成同一偶像的回憶。",
@@ -1085,6 +1217,7 @@
       "tutorialType": "TutorialType_PvpRate",
       "step": 1,
       "subStep": 7,
+      "title": "",
       "texts": [
         "返回去參加競賽吧"
       ]
@@ -1093,6 +1226,7 @@
       "tutorialType": "TutorialType_CoinGasha",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "在硬幣扭蛋中可以使用通過培育等獲得的\n硬幣來進行扭蛋。\n可以獲得支援卡和特訓道具等。"
       ]
@@ -1101,6 +1235,7 @@
       "tutorialType": "TutorialType_MoneyReceive",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "隨著時間的推移金幣會累積，可以領取。\n根據製作人Lv，獲取量和儲存上限會增加。"
       ]
@@ -1109,6 +1244,7 @@
       "tutorialType": "TutorialType_MissionPass",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "在任務通行證中，每當任務通行證Pt\n達到一定值時即可獲得獎勵。\n任務通行證Pt通過完成每日任務和\n每週任務來獲得。"
       ]
@@ -1117,6 +1253,7 @@
       "tutorialType": "TutorialType_Profile",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "在個人資料中可以設定他人製作人可租借的\n支援卡和回憶。\n依據被租借的次數可以獲得朋友硬幣。"
       ]
@@ -1125,6 +1262,7 @@
       "tutorialType": "TutorialType_Meishi",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "可以製作自己原創的名片，並在SNS上分享名片圖片。可以自定義顯示除了個人資料外，擔當偶像、支援卡、照片等的圖片。"
       ]
@@ -1133,6 +1271,7 @@
       "tutorialType": "TutorialType_Friend",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "在好友功能中可以檢視關注和粉絲的製作人。關注的好友的支援卡和回憶可以在培育時租借。"
       ]
@@ -1141,6 +1280,7 @@
       "tutorialType": "TutorialType_Achievement",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "成就是通過滿足各種條件來獲得的。可以獲得如提升製作人Lv所需的經驗值等多種獎勵，所以積極收整合就吧。",
         "獲得成就時，可以獲得一定數量的星星，達到一定數量時可以獲得大師成就。大師成就根據獲得的星星數量進行升級，並可以獲得獎勵。",
@@ -1151,6 +1291,7 @@
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "對可培育偶像進行特訓時，\n初始技能卡和分數會得到強化，\n培育更為有利。此外，\n可培育偶像的形象將解鎖。"
       ]
@@ -1159,6 +1300,7 @@
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "提升支援卡的Lv時，\n支援能力和支援活動會被解鎖。\n同時，支援能力會\n隨Lv進行強化。",
         "支援卡進行上限解鎖時，\n最大Lv會提升。"
@@ -1168,6 +1310,7 @@
       "tutorialType": "TutorialType_Tower",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1176,6 +1319,7 @@
       "tutorialType": "TutorialType_Guild",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "在社團中可以與全國的製作人組成社團進行交流。",
         "在社團中可以向社團成員募集特訓道具，並領取捐贈的道具。此外，捐贈道具時可以獲得好友幣。"
@@ -1185,6 +1329,7 @@
       "tutorialType": "TutorialType_TutorialReceiveIdolCard",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1193,6 +1338,7 @@
       "tutorialType": "TutorialType_PhotoTop",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1201,6 +1347,7 @@
       "tutorialType": "TutorialType_PhotoIdol",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1209,6 +1356,7 @@
       "tutorialType": "TutorialType_PhotoPrepare",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1217,6 +1365,7 @@
       "tutorialType": "TutorialType_Photo",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1225,6 +1374,7 @@
       "tutorialType": "TutorialType_MeishiEditCustom",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "自定義名片可以通過【名片 > 新建 > 自定義名片】製作",
         "在模板名片中只能指定背景，但在自定義名片中可以指定多個",
@@ -1238,6 +1388,7 @@
       "tutorialType": "TutorialType_MeishiEditCustomManual",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1246,6 +1397,7 @@
       "tutorialType": "TutorialType_IdolCardSkinUnit",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1254,6 +1406,7 @@
       "tutorialType": "TutorialType_DearnessTop",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1262,6 +1415,7 @@
       "tutorialType": "TutorialType_DearnessPoint",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1270,6 +1424,7 @@
       "tutorialType": "TutorialType_ProduceIdolCardSelect",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "",
         "每位可培育偶像都有相應的「方案」。\n根據方案在培育中出現的技能卡和P道具種類有所不同。"
@@ -1279,6 +1434,7 @@
       "tutorialType": "TutorialType_ProduceSupportCardSelect",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "支援卡是在培育中可編製的卡片。\n編製後會觸發多種效果，支援培育。\n",
         "支援卡有型別，\n根據型別在編製時上升的分數與\n觸發的效果會有所不同。"
@@ -1288,6 +1444,7 @@
       "tutorialType": "TutorialType_ProduceMemorySelect",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "回憶最多可在四張中租借一張\n好友或其他製作人的回憶。\n每天的租借次數有限。"
       ]
@@ -1296,6 +1453,7 @@
       "tutorialType": "TutorialType_ProduceSchedule",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "課程有Vo.、Da.、Vi.三種，分別可提高相應的分數。完成課程目標可作為獎勵獲得技能卡或P飲料。",
         "在培養時可以選擇各種日程。根據情況選擇合適的日程吧。",
@@ -1307,6 +1465,7 @@
       "tutorialType": "TutorialType_ProduceEvent",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "上課和外出中，根據選項效果會有所不同。\n確認要消耗的內容和觸發效果，做出適宜的選擇。"
       ]
@@ -1315,6 +1474,7 @@
       "tutorialType": "TutorialType_ProducePresentStep",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "在活動補給中可以獲得技能卡、P點數、P飲料。"
       ]
@@ -1323,6 +1483,7 @@
       "tutorialType": "TutorialType_ProduceShopStep",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "在諮詢中使用P點數，可交換技能卡或P飲料。\n每次諮詢中可交換的技能卡和P飲料都會不同。",
         "使用P飲料可以增加分數或回復體力等效果。\nP飲料只能在課程或考試中使用。"
@@ -1332,6 +1493,7 @@
       "tutorialType": "TutorialType_ProduceExamGimmick",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "在指定回合時滿足條件會自動\n觸發的效果。在課程中顯示的\n圖示可以點選確認觸發條件。"
       ]
@@ -1340,6 +1502,7 @@
       "tutorialType": "TutorialType_ProduceExamGimmick",
       "step": 1,
       "subStep": 2,
+      "title": "",
       "texts": [
         "援助或干擾的內容可以\n點選此處確認"
       ]
@@ -1348,6 +1511,7 @@
       "tutorialType": "TutorialType_ProduceExamGimmick",
       "step": 1,
       "subStep": 3,
+      "title": "",
       "texts": [
         "確認效果內容和觸發條件，\n做好應對措施吧！"
       ]
@@ -1356,6 +1520,7 @@
       "tutorialType": "TutorialType_ProduceExamPerfect",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "課程目標達成後將分數提升至上限時，\n變為完美課程。\n完美課程時課程結束，\n根據剩餘回合回復體力。"
       ]
@@ -1364,6 +1529,7 @@
       "tutorialType": "TutorialType_ProduceBeforeLiveEvaluation",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "True End是在獲得特定成就的狀態下，\n最終考試獲得第一名時可以看到的特別結局。",
         "True End所需的成就可點選「True End條件」確認。"
@@ -1373,6 +1539,7 @@
       "tutorialType": "TutorialType_ProduceDifficultySelect",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "難度「Pro」已解鎖。\n難度「Pro」雖難度較高但\n偶像的分數上升得更快。"
       ]
@@ -1381,6 +1548,7 @@
       "tutorialType": "TutorialType_ProduceCardUpgrade",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "可以使用P點數來強化技能卡。\n強化後技能卡的效果會提升。\n每次諮詢可以強化一張卡，每次強化所需的P點數會增加。"
       ]
@@ -1389,6 +1557,7 @@
       "tutorialType": "TutorialType_ProduceCardDelete",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "可以使用P點數來刪除技能卡。\n刪除後會從持有的技能卡中消失。\n每次諮詢可以刪除一張卡，每次刪除所需的P點數會增加。"
       ]
@@ -1397,6 +1566,7 @@
       "tutorialType": "TutorialType_ProduceChallenge",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         "難度「Master」已解鎖。\n與「Pro」相比，雖然難度更高，但偶像的分數更容易提高。\n只有親密度達成10的偶像才可挑戰。",
         "挑戰P道具是在難度「Master」的培育開始前可選擇的P道具。\n通過挑戰P道具的效果，可以提高課程・SP課程的PERFECT上限。",
@@ -1407,6 +1577,7 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionTop",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1415,6 +1586,7 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionSchedule",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1423,6 +1595,7 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionSelect",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1431,6 +1604,7 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionStart",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1439,6 +1613,7 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionResult",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1447,6 +1622,7 @@
       "tutorialType": "TutorialType_ProduceStepBusiness",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1455,6 +1631,7 @@
       "tutorialType": "TutorialType_ProduceStepCustomize",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1463,6 +1640,7 @@
       "tutorialType": "TutorialType_ProduceStepFanPresent",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1471,6 +1649,7 @@
       "tutorialType": "TutorialType_MissionPanel",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1479,6 +1658,7 @@
       "tutorialType": "TutorialType_ProduceHighScore",
       "step": 1,
       "subStep": 1,
+      "title": "十王邦夫的偶像強化月～星光璀璨～",
       "texts": [
         ""
       ]
@@ -1487,6 +1667,7 @@
       "tutorialType": "TutorialType_StoryEvent",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1495,6 +1676,7 @@
       "tutorialType": "TutorialType_StoryEventMainStroy",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1503,6 +1685,7 @@
       "tutorialType": "TutorialType_StoryEventBoxGasha",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1511,6 +1694,7 @@
       "tutorialType": "TutorialType_StoryEventGuildMission",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1519,6 +1703,7 @@
       "tutorialType": "TutorialType_GvgRaid",
       "step": 1,
       "subStep": 1,
+      "title": "地方巡演",
       "texts": [
         ""
       ]
@@ -1527,6 +1712,7 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMaster",
       "step": 1,
       "subStep": 1,
+      "title": "N.I.A大師",
       "texts": [
         "「N.I.A」的難易度「Master」已經解鎖了。\n同時也解鎖了「N.I.A大師排行榜」。\n雖然比「Pro」難易度更高但相對更容易提高能力值、也更容易得到紛絲投票數。\n只有達到親密度20的偶像才能夠挑戰。",
         "挑戰P道具是、在難易度「Master」的培育開始前可以選擇的P道具。\n根據挑戰P道具的效果、可以在試鏡通過時增加通過試鏡獎勵所獲得的能力值。"
@@ -1536,6 +1722,7 @@
       "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
       "step": 1,
       "subStep": 1,
+      "title": "N.I.A大師排行榜",
       "texts": [
         ""
       ]
@@ -1544,6 +1731,7 @@
       "tutorialType": "TutorialType_Tour",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1552,6 +1740,7 @@
       "tutorialType": "TutorialType_Research",
       "step": 1,
       "subStep": 1,
+      "title": "",
       "texts": [
         ""
       ]
@@ -1560,6 +1749,7 @@
       "tutorialType": "TutorialType_ProducerRanking",
       "step": 1,
       "subStep": 1,
+      "title": "製作人排行榜",
       "texts": [
         ""
       ]
