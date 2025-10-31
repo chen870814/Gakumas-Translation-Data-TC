@@ -1319,8 +1319,8 @@
     },
     {
       "id": "music-bgm-01_007",
-      "title": "展现努力成果的时刻！",
-      "displayTitle": "展现努力成果的时刻！",
+      "title": "展現努力成果的时刻！",
+      "displayTitle": "展現努力成果的时刻！",
       "lyrics": "",
       "composer": "",
       "arranger": ""
@@ -1351,8 +1351,8 @@
     },
     {
       "id": "music-bgm-01_011",
-      "title": "表演对决",
-      "displayTitle": "表演对决",
+      "title": "表演对決",
+      "displayTitle": "表演对決",
       "lyrics": "",
       "composer": "",
       "arranger": ""
@@ -1588,6 +1588,22 @@
       "lyrics": "SHOW (Digz, Inc. Group)",
       "composer": "SHOW (Digz, Inc. Group)",
       "arranger": "SHOW (Digz, Inc. Group)"
+    },
+    {
+      "id": "music-char-amao-004",
+      "title": "看著我",
+      "displayTitle": "看著我",
+      "lyrics": "kamome sano",
+      "composer": "kamome sano",
+      "arranger": "kamome sano"
+    },
+    {
+      "id": "music-char-amao-004-inst",
+      "title": "看著我 [Instrumental]",
+      "displayTitle": "看著我 [Instrumental]",
+      "lyrics": "kamome sano",
+      "composer": "kamome sano",
+      "arranger": "kamome sano"
     },
     {
       "id": "music-char-fktn-001",
@@ -1895,16 +1911,16 @@
     },
     {
       "id": "music-char-kcna-002",
-      "title": "每天、都有新发现！",
-      "displayTitle": "每天、都有新发现！",
+      "title": "每天、都有新发現！",
+      "displayTitle": "每天、都有新发現！",
       "lyrics": "椿山日南子(Dream Monster)",
       "composer": "椿山日南子(Dream Monster)",
       "arranger": "椿山日南子(Dream Monster)"
     },
     {
       "id": "music-char-kcna-002-inst",
-      "title": "每天、都有新发现！ [Instrumental]",
-      "displayTitle": "每天、都有新发现！ [Instrumental]",
+      "title": "每天、都有新发現！ [Instrumental]",
+      "displayTitle": "每天、都有新发現！ [Instrumental]",
       "lyrics": "椿山日南子(Dream Monster)",
       "composer": "椿山日南子(Dream Monster)",
       "arranger": "椿山日南子(Dream Monster)"

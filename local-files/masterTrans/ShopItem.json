@@ -15,7 +15,7 @@
     },
     {
       "id": "shop_costume_amao-othr-0002-resale",
-      "name": "溫泉用泳裝（有村麻央）"
+      "name": "溫泉泳裝（有村麻央）"
     },
     {
       "id": "shop_costume_amao-trng-0002",
@@ -40,6 +40,10 @@
     {
       "id": "shop_costume_costume_head_fktn-hair-0003",
       "name": "圓框眼鏡（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_costume_head_fktn-hair-0004",
+      "name": "貓耳（藤田琴音）"
     },
     {
       "id": "shop_costume_costume_head_hmsz-hair-0001",
@@ -74,6 +78,10 @@
       "name": "圓框眼鏡（花海咲季）"
     },
     {
+      "id": "shop_costume_costume_head_hski-hair-0004",
+      "name": "貓耳（花海咲季）"
+    },
+    {
       "id": "shop_costume_costume_head_hume-hair-0001",
       "name": "紫陽花髮飾（花海佑芽）"
     },
@@ -95,7 +103,7 @@
     },
     {
       "id": "shop_costume_costume_head_kcna-hair-0003",
-      "name": "圓框眼鏡（仓本千奈）"
+      "name": "圓框眼鏡（倉本千奈）"
     },
     {
       "id": "shop_costume_costume_head_kllj-hair-0001",
@@ -130,6 +138,10 @@
       "name": "圓框眼鏡（月村手毬）"
     },
     {
+      "id": "shop_costume_costume_head_ttmr-hair-0004",
+      "name": "貓耳（月村手毬）"
+    },
+    {
       "id": "shop_costume_fktn-cstm-0063",
       "name": "祭典法批（藤田琴音）"
     },
@@ -143,7 +155,7 @@
     },
     {
       "id": "shop_costume_fktn-othr-0002-resale",
-      "name": "溫泉用泳裝（藤田琴音）"
+      "name": "溫泉泳裝（藤田琴音）"
     },
     {
       "id": "shop_costume_fktn-trng-0002",
@@ -163,7 +175,7 @@
     },
     {
       "id": "shop_costume_hmsz-othr-0002",
-      "name": "溫泉泳裝（秦谷美鈴）"
+      "name": "溫泉用泳裝（秦谷美鈴）"
     },
     {
       "id": "shop_costume_hmsz-othr-0002-resale",
@@ -207,7 +219,7 @@
     },
     {
       "id": "shop_costume_hski-othr-0002-resale",
-      "name": "溫泉用泳裝（花海咲季）"
+      "name": "溫泉泳裝（花海咲季）"
     },
     {
       "id": "shop_costume_hski-trng-0002",
@@ -251,7 +263,7 @@
     },
     {
       "id": "shop_costume_jsna-othr-0002",
-      "name": "溫泉泳裝（十王星南）"
+      "name": "溫泉用泳裝（十王星南）"
     },
     {
       "id": "shop_costume_jsna-othr-0002-resale",
@@ -295,7 +307,7 @@
     },
     {
       "id": "shop_costume_kllj-othr-0002-resale",
-      "name": "溫泉用泳裝（葛城莉莉婭）"
+      "name": "溫泉泳裝（葛城莉莉婭）"
     },
     {
       "id": "shop_costume_kllj-trng-0002",
@@ -327,7 +339,7 @@
     },
     {
       "id": "shop_costume_shro-othr-0002-resale",
-      "name": "溫泉用泳裝（篠澤廣）"
+      "name": "溫泉泳裝（篠澤廣）"
     },
     {
       "id": "shop_costume_shro-trng-0002",
@@ -351,7 +363,7 @@
     },
     {
       "id": "shop_costume_ssmk-othr-0002-resale",
-      "name": "溫泉用泳裝（紫雲清夏）"
+      "name": "溫泉泳裝（紫雲清夏）"
     },
     {
       "id": "shop_costume_ssmk-trng-0002",
@@ -371,7 +383,7 @@
     },
     {
       "id": "shop_costume_ttmr-othr-0002-resale",
-      "name": "溫泉用泳裝（月村手毬）"
+      "name": "溫泉泳裝（月村手毬）"
     },
     {
       "id": "shop_costume_ttmr-trng-0002",
@@ -708,6 +720,10 @@
     {
       "id": "shop_pass_item-0018",
       "name": "高級任務通行證 2025年10月"
+    },
+    {
+      "id": "shop_pass_item-0019",
+      "name": "高級任務通行證 2025年11月"
     }
   ]
 }

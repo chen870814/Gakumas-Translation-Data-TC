@@ -61,6 +61,16 @@
       "description": "【Fluorite】'24萬聖節 有村麻央 獲得"
     },
     {
+      "id": "costume_head_amao-cstm-0092",
+      "name": "看著我",
+      "description": "【看著我】有村麻央 獲得"
+    },
+    {
+      "id": "costume_head_amao-cstm-0093",
+      "name": "看著我",
+      "description": "【看著我】有村麻央的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_amao-cstm-0120",
       "name": "奇蹟正是現在(ﾟ∀ﾟ)！",
       "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】有村麻央 獲得"
@@ -109,6 +119,11 @@
       "id": "costume_head_amao-hair-0008",
       "name": "狗耳",
       "description": "高級任務通行證 2025年10月 獲得"
+    },
+    {
+      "id": "costume_head_amao-hair-0014",
+      "name": "看著我（簡單搭配）",
+      "description": "【看著我】有村麻央 獲得"
     },
     {
       "id": "costume_head_atbm-schl-0000",
@@ -254,6 +269,11 @@
       "id": "costume_head_fktn-hair-0008",
       "name": "狗耳",
       "description": "高級任務通行證 2025年8月 獲得"
+    },
+    {
+      "id": "costume_head_fktn-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2025年11月 獲得"
     },
     {
       "id": "costume_head_fktn-hair-0012",
@@ -574,6 +594,11 @@
       "id": "costume_head_hski-hair-0008",
       "name": "狗耳",
       "description": "高級任務通行證 2025年8月 獲得"
+    },
+    {
+      "id": "costume_head_hski-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2025年11月 獲得"
     },
     {
       "id": "costume_head_hski-schl-0000",
@@ -1314,6 +1339,11 @@
       "id": "costume_head_ttmr-hair-0008",
       "name": "狗耳",
       "description": "高級任務通行證 2025年8月 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0009",
+      "name": "大蝴蝶結",
+      "description": "高級任務通行證 2025年11月 獲得"
     }
   ]
 }

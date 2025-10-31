@@ -186,6 +186,36 @@
       "description": "【奇蹟正是現在(ﾟ∀ﾟ)！】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-amao-3-015-01",
+      "name": "在我發現的世界",
+      "description": "【看著我】在有村麻央的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-02",
+      "name": "看著我",
+      "description": "【看著我】將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-03",
+      "name": "讓你更加傾心於我",
+      "description": "【看著我】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-04",
+      "name": "看著我+",
+      "description": "【看著我】將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-05",
+      "name": "看著我++",
+      "description": "【看著我】將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-06",
+      "name": "看著我+++",
+      "description": "【看著我】將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-fktn-2-000-04",
       "name": "可愛♡開始啦 +",
       "description": "【可愛♡開始啦】將藤田琴音的特訓階段提升至{threshold}級"

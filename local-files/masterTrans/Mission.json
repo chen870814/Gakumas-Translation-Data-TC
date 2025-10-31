@@ -6,6 +6,38 @@
   },
   "data": [
     {
+      "id": "dearness_event_amao-001",
+      "name": "將有村麻央的Vo.能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_amao-002",
+      "name": "在有村麻央的培育中選擇{threshold}次外出吧"
+    },
+    {
+      "id": "dearness_event_amao-003",
+      "name": "在有村麻央的培育中選擇{threshold}次諮詢吧"
+    },
+    {
+      "id": "dearness_event_amao-004",
+      "name": "在有村麻央的培育中選擇{threshold}次營業吧"
+    },
+    {
+      "id": "dearness_event_amao-005",
+      "name": "在有村麻央的培育中選擇{threshold}次慰問品吧"
+    },
+    {
+      "id": "dearness_event_amao-006",
+      "name": "有村麻央通過{threshold}次 Vo.課程吧"
+    },
+    {
+      "id": "dearness_event_amao-007",
+      "name": "在有村麻央的培育中選擇{threshold}次特別指導吧"
+    },
+    {
+      "id": "dearness_event_amao-008",
+      "name": "讓有村麻央通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
       "id": "dearness_event_fktn-001",
       "name": "將藤田琴音的Da.能力值培養至1800以上並完成培育"
     },
@@ -164,6 +196,26 @@
     {
       "id": "dearness_event_ssmk-008",
       "name": "紫雲清夏通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_normal-mission_amao-001",
+      "name": "將有村麻央的Vo.能力值培養至2000以上並完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_amao-002",
+      "name": "在有村麻央的培育中累計使用{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_amao-003",
+      "name": "在有村麻央的培育中強化{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_amao-004",
+      "name": "讓有村麻央通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_normal-mission_amao-005",
+      "name": "在有村麻央的培育中自定義{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_fktn-001",
@@ -2255,6 +2307,106 @@
     },
     {
       "id": "mission-highscorerush-event-006-mission_56",
+      "name": "通關第5天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_11",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_12",
+      "name": "將有村麻央的Vo.能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_13",
+      "name": "在有村麻央的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_14",
+      "name": "在花海佑芽的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_16",
+      "name": "通關第1天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_21",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_22",
+      "name": "將花海佑芽的Da.能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_23",
+      "name": "在有村麻央的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_24",
+      "name": "在花海佑芽的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_26",
+      "name": "通關第2天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_31",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_32",
+      "name": "在有村麻央或花海佑芽的培育中通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_33",
+      "name": "在有村麻央的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_34",
+      "name": "在花海佑芽的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_36",
+      "name": "通關第3天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_41",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_42",
+      "name": "在有村麻央或花海佑芽的培育中通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_43",
+      "name": "在有村麻央的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_44",
+      "name": "在花海佑芽的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_46",
+      "name": "通關第4天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_51",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_52",
+      "name": "在有村麻央或花海佑芽的培育中通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_53",
+      "name": "在有村麻央的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_54",
+      "name": "在花海佑芽的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-007-mission_56",
       "name": "通關第5天的全部任務"
     },
     {
@@ -4788,6 +4940,30 @@
     {
       "id": "achieve-i_card-amao-3-013-06",
       "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-01",
+      "name": "【看著我】在有村麻央的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-02",
+      "name": "【看著我】將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-03",
+      "name": "【看著我】在有村麻央的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-04",
+      "name": "【看著我】將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-05",
+      "name": "【看著我】將有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-015-06",
+      "name": "【看著我】將有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-fktn-2-000-04",
