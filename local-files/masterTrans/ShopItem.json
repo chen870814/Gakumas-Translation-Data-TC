@@ -330,6 +330,10 @@
       "name": "方框眼鏡（根緒亞紗里）"
     },
     {
+      "id": "shop_costume_shro-cstm-0065",
+      "name": "殭屍制服（篠澤廣）"
+    },
+    {
       "id": "shop_costume_shro-cstm-0069_revival-1",
       "name": "兒童罩衫（篠澤廣）"
     },
@@ -372,6 +376,10 @@
     {
       "id": "shop_costume_ssmk-trng-0002-resale",
       "name": "初星學園體操服（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_ttmr-cstm-0065",
+      "name": "殭屍制服（月村手毬）"
     },
     {
       "id": "shop_costume_ttmr-cstm-0069_revival-1",
@@ -640,6 +648,10 @@
     {
       "id": "shop_pack_item-onsen-costume-ttmr",
       "name": "溫泉泳裝（月村手毬）"
+    },
+    {
+      "id": "shop_pack_item-pre1.5anniversary-selection-ticket",
+      "name": "1.5th Anniversary前夜祭禮包"
     },
     {
       "id": "shop_pack_item-weekly-0002",

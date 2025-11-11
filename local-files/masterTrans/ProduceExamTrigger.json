@@ -3713,7 +3713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "p_card-02-act-1_028",
-          "text": "悠哉閑談"
+          "text": "悠哉閒談"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7544,9 +7544,7 @@
     },
     {
       "id": "e_trigger-exam_start_exam-no_description",
-      "produceDescriptions": [
-        ""
-      ]
+      "produceDescriptions": []
     },
     {
       "id": "e_trigger-exam_start_exam-parameter_buff-1",
@@ -12080,9 +12078,7 @@
     },
     {
       "id": "e_trigger-exam_turn_timer-1",
-      "produceDescriptions": [
-        ""
-      ]
+      "produceDescriptions": []
     },
     {
       "id": "e_trigger-exam_turn_timer-1-description",
@@ -13171,6 +13167,21 @@
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
           "text": "在6以上的時候，"
+        }
+      ]
+    },
+    {
+      "id": "e_trigger-none-stamina_up_multiple-500",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "體力在50%以上的時候，"
         }
       ]
     },

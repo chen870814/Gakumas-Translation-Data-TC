@@ -306,6 +306,11 @@
       "description": "【月之龜】'25祭 秦谷美鈴 獲得"
     },
     {
+      "id": "costume_head_hmsz-cstm-0065",
+      "name": "變裝狂想曲",
+      "description": "【月之龜】'25萬聖節 秦谷美鈴 獲得"
+    },
+    {
       "id": "costume_head_hmsz-cstm-0114",
       "name": "Star-mine",
       "description": "【Star-mine】秦谷美鈴 獲得"
@@ -746,6 +751,11 @@
       "description": "【小小的野心】'25祭 十王星南 獲得"
     },
     {
+      "id": "costume_head_jsna-cstm-0065",
+      "name": "變裝狂想曲",
+      "description": "【小小的野心】'25萬聖節 十王星南 獲得"
+    },
+    {
       "id": "costume_head_jsna-cstm-0077",
       "name": "Our Chant",
       "description": "【Our Chant】十王星南 獲得"
@@ -857,13 +867,13 @@
     },
     {
       "id": "costume_head_kcna-cstm-0090",
-      "name": "與天空的約定",
-      "description": "【與天空的約定】倉本千奈 獲得"
+      "name": "向天空約定",
+      "description": "【向天空約定】倉本千奈 獲得"
     },
     {
       "id": "costume_head_kcna-cstm-0091",
-      "name": "與天空的約定",
-      "description": "【與天空的約定】倉本千奈的才能開花第4階段 獲得"
+      "name": "向天空約定",
+      "description": "【向天空約定】倉本千奈的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_kcna-cstm-0116",
@@ -912,8 +922,8 @@
     },
     {
       "id": "costume_head_kcna-hair-0013",
-      "name": "與天空的約定（簡單搭配）",
-      "description": "【與天空的約定】倉本千奈 獲得"
+      "name": "向天空約定（簡單搭配）",
+      "description": "【向天空約定】倉本千奈 獲得"
     },
     {
       "id": "costume_head_kllj-cstm-0007",
@@ -1069,6 +1079,11 @@
       "id": "costume_head_shro-cstm-0063",
       "name": "冠菊",
       "description": "【光景】'24祭典 篠澤廣 獲得"
+    },
+    {
+      "id": "costume_head_shro-cstm-0065",
+      "name": "殭屍制服",
+      "description": "購買殭屍制服（篠澤廣）"
     },
     {
       "id": "costume_head_shro-cstm-0088",
@@ -1269,6 +1284,11 @@
       "id": "costume_head_ttmr-cstm-0063",
       "name": "冠菊",
       "description": "【Luna say maybe】'24祭典 月村手毬 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0065",
+      "name": "殭屍制服",
+      "description": "購買殭屍制服（月村手毬）"
     },
     {
       "id": "costume_head_ttmr-cstm-0072",

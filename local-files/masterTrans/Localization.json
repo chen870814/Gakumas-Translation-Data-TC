@@ -82,6 +82,10 @@
       "description": "預定追加於日後的更新中。"
     },
     {
+      "id": "shop.web_store.confirm.description",
+      "description": "要開啟網頁瀏覽器嗎？\\出生年月日可以在【選單>其他>設定出生年月日】中設定。"
+    },
+    {
       "id": "voice.idol_use_produce_card",
       "description": "使用P偶像固有技能卡"
     }

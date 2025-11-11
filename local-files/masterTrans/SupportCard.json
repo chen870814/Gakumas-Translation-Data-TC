@@ -250,7 +250,7 @@
           "text": "/ 概率中等"
         }
       ],
-      "name": "悠閑而堅定"
+      "name": "悠閒而堅定"
     },
     {
       "id": "s_card-2-0003",
@@ -2411,6 +2411,22 @@
         }
       ],
       "name": "各就各位、預備、開始！"
+    },
+    {
+      "id": "s_card-3-0080",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 概率高"
+        }
+      ],
+      "name": "一定能拿到！"
     },
     {
       "id": "s_card-3-0098",

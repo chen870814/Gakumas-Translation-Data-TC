@@ -4430,6 +4430,30 @@
       "name": "完成{threshold}次SP課程吧"
     },
     {
+      "id": "mission-story-event-009-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-story-event-009-mission_2",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-story-event-009-mission_3",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-story-event-009-mission_4",
+      "name": "在培育的諮詢中兌換{threshold}次吧"
+    },
+    {
+      "id": "mission-story-event-009-mission_5",
+      "name": "使用{threshold}次P飲料"
+    },
+    {
+      "id": "mission-story-event-009-mission_6",
+      "name": "完成{threshold}次SP課程吧"
+    },
+    {
       "id": "mission-story-event-013-mission_1",
       "name": "登入{threshold}天吧"
     },
@@ -6071,27 +6095,27 @@
     },
     {
       "id": "achieve-i_card-kcna-3-014-01",
-      "name": "【與天空的約定】在倉本千奈的培育中通過最終考試"
+      "name": "【向天空約定】在倉本千奈的培育中通過最終考試"
     },
     {
       "id": "achieve-i_card-kcna-3-014-02",
-      "name": "【與天空的約定】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "【向天空約定】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-014-03",
-      "name": "【與天空的約定】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
+      "name": "【向天空約定】在倉本千奈的培育中獲得了{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-kcna-3-014-04",
-      "name": "【與天空的約定】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "【向天空約定】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-014-05",
-      "name": "【與天空的約定】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "【向天空約定】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-3-014-06",
-      "name": "【與天空的約定】將倉本千奈的特訓階段提升至{threshold}級"
+      "name": "【向天空約定】將倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-2-000-04",
