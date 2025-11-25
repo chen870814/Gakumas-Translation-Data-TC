@@ -4011,7 +4011,7 @@
     },
     {
       "id": "p_story-event-001_atbm_activity_006",
-      "title": "君子『虫』に近寄らず",
+      "title": "君子不近『蟲』",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4026,7 +4026,7 @@
     },
     {
       "id": "p_story-event-001_atbm_activity_009",
-      "title": "我が相棒の名は……！",
+      "title": "我的夥伴的名字是……！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4051,12 +4051,12 @@
     },
     {
       "id": "p_story-event-001_atbm_activity_014",
-      "title": "書道を修めし者",
+      "title": "書法的修行者",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-event-001_atbm_activity_015",
-      "title": "披露されるファン魂",
+      "title": "批露出的粉絲魂",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4076,17 +4076,17 @@
     },
     {
       "id": "p_story-event-001_atbm_activity_018-01",
-      "title": "挑め、くじ百番！",
+      "title": "挑戰，百番賞！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-event-001_atbm_activity_018-02",
-      "title": "挑め、くじ百番！",
+      "title": "挑戰，百番賞！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-event-001_atbm_activity_019",
-      "title": "身だしなみ注意！",
+      "title": "注意儀容整潔！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4106,17 +4106,17 @@
     },
     {
       "id": "p_story-event-001_atbm_school_003",
-      "title": "信頼関係はバッチリ？",
+      "title": "完美的信賴關係？",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-event-001_atbm_school_004",
-      "title": "手綱はしっかりと",
+      "title": "好好地抓住韁繩",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-event-001_atbm_school_005",
-      "title": "3つの『白』城",
+      "title": "3座『白』城",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -4126,7 +4126,7 @@
     },
     {
       "id": "p_story-event-001_atbm_school_007",
-      "title": "筆の達人の名は？",
+      "title": "書法達人的名字是？",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5506,7 +5506,7 @@
     },
     {
       "id": "p_story-event-001_shro_activity_008",
-      "title": "化妝10",
+      "title": "湊成10",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -5576,7 +5576,7 @@
     },
     {
       "id": "p_story-event-001_shro_activity_020",
-      "title": "卡拉OK的鹽焗包菜",
+      "title": "卡拉OK的鹽焗高麗菜",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -11186,17 +11186,17 @@
     },
     {
       "id": "p_story-i_card-shro-3-001-01",
-      "title": "對比第1話",
+      "title": "對比 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-001-02",
-      "title": "對比第2話",
+      "title": "對比 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-shro-3-001-03",
-      "title": "對比第3話",
+      "title": "對比 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -11396,17 +11396,17 @@
     },
     {
       "id": "p_story-i_card-ttmr-3-001-01",
-      "title": "Ivy第1話",
+      "title": "Ivy 第1話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-001-02",
-      "title": "Ivy第2話",
+      "title": "Ivy 第2話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
       "id": "p_story-i_card-ttmr-3-001-03",
-      "title": "Ivy第3話",
+      "title": "Ivy 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

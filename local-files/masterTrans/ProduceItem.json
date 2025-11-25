@@ -5085,10 +5085,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
-      "name": "強化馬甲"
+      "name": "強化運動背心"
     },
     {
       "id": "pitem_00-1-036-challenge-exam_card_play_aggressive",
@@ -9913,7 +9913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "強化支架"
@@ -29457,7 +29457,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "機緣紐帶"
@@ -30290,7 +30290,7 @@
           "text": "(培育中3次)"
         }
       ],
-      "name": "強化馬甲（紫）"
+      "name": "強化運動背心（紫）"
     },
     {
       "id": "pitem_01-2-047-challenge",
@@ -31496,7 +31496,7 @@
           "text": "(培育中3次)"
         }
       ],
-      "name": "強化馬甲（綠）"
+      "name": "強化運動背心（綠）"
     },
     {
       "id": "pitem_01-2-053-challenge",
@@ -36579,7 +36579,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "光滑且豐盈"
@@ -43607,7 +43607,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "道謝的下午茶"
@@ -52185,7 +52185,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "溫柔牛奶糖"
@@ -52251,7 +52251,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "又大又有光澤"
@@ -52473,7 +52473,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "絕對秘密食譜"
@@ -53030,7 +53030,7 @@
           "text": "(培育中3次)"
         }
       ],
-      "name": "強化馬甲（黃）"
+      "name": "強化運動背心（黃）"
     },
     {
       "id": "pitem_02-2-059-challenge",
@@ -54236,7 +54236,7 @@
           "text": "(培育中3次)"
         }
       ],
-      "name": "強化馬甲（赤）"
+      "name": "強化運動背心（赤）"
     },
     {
       "id": "pitem_02-2-065-challenge",
@@ -54943,7 +54943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "累到倒地"
@@ -55417,7 +55417,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "肌肉痠痛拉伸"
@@ -55483,7 +55483,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "劇痛之後熱意滿滿"
@@ -64825,7 +64825,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "青梅竹馬的逞強"
@@ -75113,7 +75113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "溫暖的分享"
@@ -75644,7 +75644,7 @@
           "text": "(培育中3次)"
         }
       ],
-      "name": "強化馬甲（桃）"
+      "name": "強化運動背心（桃）"
     },
     {
       "id": "pitem_03-2-071-challenge",
@@ -76830,7 +76830,7 @@
           "text": "(培育中3次)"
         }
       ],
-      "name": "強化馬甲（青）"
+      "name": "強化運動背心（青）"
     },
     {
       "id": "pitem_03-2-077-challenge",
@@ -78001,7 +78001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "咻咻唰唰竹刀"
@@ -78439,7 +78439,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（課程中1次）"
+          "text": "\n（培育中1次）"
         }
       ],
       "name": "滿滿一筐的成果"
@@ -90667,7 +90667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2張"
+          "text": "2張向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -91535,7 +91535,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2張"
+          "text": "2張向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -93763,7 +93763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2張"
+          "text": "2張向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -98159,7 +98159,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2張"
+          "text": "2張向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -101145,7 +101145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2張"
+          "text": "2張向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -104191,7 +104191,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2張"
+          "text": "2張向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
