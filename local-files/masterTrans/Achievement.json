@@ -1236,6 +1236,36 @@
       "description": "【Campus mode!!】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hume-3-009-01",
+      "name": "石頭剪刀布",
+      "description": "【呼嚕呼嚕】在花海佑芽的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-02",
+      "name": "呼嚕呼嚕",
+      "description": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-03",
+      "name": "我們一起，去尋找那答案！",
+      "description": "【呼嚕呼嚕】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-04",
+      "name": "呼嚕呼嚕 +",
+      "description": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-05",
+      "name": "呼嚕呼嚕 ++",
+      "description": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-009-06",
+      "name": "呼嚕呼嚕 +++",
+      "description": "【呼嚕呼嚕】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-hume-3-012-01",
       "name": "緊握的未來",
       "description": "【Star-mine】在花海佑芽的培育中通過最終考試"

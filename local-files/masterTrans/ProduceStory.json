@@ -10855,6 +10855,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hume-3-009-01",
+      "title": "呼嚕呼嚕 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hume-3-009-02",
+      "title": "呼嚕呼嚕 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hume-3-009-03",
+      "title": "呼嚕呼嚕 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hume-3-012-01",
       "title": "Star-mine 第1話",
       "produceEventHintProduceConditionDescriptions": []
@@ -12042,6 +12057,16 @@
     {
       "id": "p_story-s_card-2-0045-02",
       "title": "其實很膽小的前輩",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0046-01",
+      "title": "絕不手下留情！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0046-02",
+      "title": "宿舍的祕寶",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13422,6 +13447,36 @@
     {
       "id": "p_story-s_card-3-0080-03",
       "title": "用動漫歌曲來一決勝負！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0081-01",
+      "title": "互相交換的最喜歡",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0081-02",
+      "title": "登場，姐姐聖誕老人！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0081-03",
+      "title": "目標送來的禮物",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0086-01",
+      "title": "挑戰超級可愛拍貼！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0086-02",
+      "title": "挑戰超大聖代！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0086-03",
+      "title": "挑戰青梅約會！",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

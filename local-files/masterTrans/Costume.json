@@ -171,6 +171,11 @@
       "description": "購買初星學園體操服（有村麻央）"
     },
     {
+      "id": "atbm-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
+    },
+    {
       "id": "atbm-cstm-0000",
       "name": "初（hajime）",
       "description": "初始持有"
@@ -896,6 +901,16 @@
       "description": "【Campus mode!!】花海佑芽的才能開花第4階段 獲得"
     },
     {
+      "id": "hume-cstm-0057",
+      "name": "呼嚕呼嚕",
+      "description": "【呼嚕呼嚕】花海佑芽 獲得"
+    },
+    {
+      "id": "hume-cstm-0058",
+      "name": "呼嚕呼嚕",
+      "description": "【呼嚕呼嚕】花海佑芽的才能開花第4階段 獲得"
+    },
+    {
       "id": "hume-cstm-0063",
       "name": "冠菊",
       "description": "【The Rolling Riceball】'24祭典 花海佑芽 獲得"
@@ -989,6 +1004,11 @@
       "id": "hume-trng-0002",
       "name": "初星學園體操服",
       "description": "購買初星學園體操服（花海佑芽）"
+    },
+    {
+      "id": "jsna-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
     },
     {
       "id": "jsna-cstm-0000",
