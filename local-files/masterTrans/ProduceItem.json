@@ -32445,7 +32445,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，视觉能力值在700以上的时候，随机"
+          "text": "效果的技能卡獲得時，Vi.能力值在700以上的時候，隨機"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -32455,7 +32455,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_TroubleSkillCard",
-          "text": "干扰卡"
+          "text": "干擾卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32485,7 +32485,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n视觉能力值上升+"
+          "text": "\nVi.能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -32505,7 +32505,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n（课程中1次）"
+          "text": "\n（課程中1次）"
         }
       ],
       "name": "復活的棒棒冰"
@@ -55629,7 +55629,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "向"
+          "text": "會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -78701,7 +78701,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "向"
+          "text": "會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -79139,7 +79139,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "向"
+          "text": "會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
