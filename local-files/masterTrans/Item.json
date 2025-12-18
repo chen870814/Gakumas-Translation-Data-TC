@@ -174,6 +174,12 @@
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
+      "id": "item-dearness-unlock-kllj",
+      "name": "莉莉婭的記錄之鑰",
+      "description": "解鎖葛城莉莉婭STEP3親密度交流的道具",
+      "acquisitionRouteDescription": "兌換所等方式"
+    },
+    {
       "id": "item-dearness-unlock-shro",
       "name": "廣的記錄之鑰",
       "description": "解鎖篠澤廣STEP3親密度交流的道具",
@@ -231,6 +237,12 @@
       "id": "item-gashaticket-10",
       "name": "白金10連扭蛋票卷",
       "description": "可以在白金扭蛋中使用的10連票卷",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-christmas-001",
+      "name": "聖誕10連扭蛋票卷",
+      "description": "可以在聖誕登入獎勵票卷扭蛋中使用的票卷",
       "acquisitionRouteDescription": ""
     },
     {
@@ -1303,6 +1315,12 @@
     },
     {
       "id": "item-research-event-002",
+      "name": "亞紗里老師貼紙",
+      "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-research-event-003",
       "name": "亞紗里老師貼紙",
       "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
       "acquisitionRouteDescription": "培育等方式"

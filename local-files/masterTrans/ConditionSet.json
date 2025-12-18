@@ -17,6 +17,16 @@
       "description": ""
     },
     {
+      "id": "cd_achieve-o_015",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_achieve-o_015",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd_achieve-o_016",
       "number": 1,
       "description": ""
@@ -83,6 +93,26 @@
     },
     {
       "id": "cd_achieve-o_022",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_achieve-o_026",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_achieve-o_026",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_achieve-o_027",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_achieve-o_027",
       "number": 2,
       "description": ""
     },
@@ -902,6 +932,16 @@
       "description": ""
     },
     {
+      "id": "cd_gasha_have_ticket_christmas-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_gasha_have_ticket_item-gashaticket-ssr-idol-fix_3",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_gasha_have_ticket_seasons-2511-001",
       "number": 1,
       "description": ""
@@ -1573,6 +1613,21 @@
     },
     {
       "id": "cd_login_bonus_wednesday-25-1210",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-25-1217",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-25-1218",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-25-1224",
       "number": 1,
       "description": ""
     },
@@ -5172,7 +5227,17 @@
       "description": ""
     },
     {
+      "id": "cd_time_25_1201_1100_26_0101_1000",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time_25_1201_26_0501",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_25_12015-1100",
       "number": 1,
       "description": ""
     },
@@ -5187,7 +5252,32 @@
       "description": ""
     },
     {
+      "id": "cd_time_25_1213-2030_26_0201-1059",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_25_1215_1100_25_1218_1100",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_25_1221-0000",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_25_1224",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_time_25_1224_0000",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_25_1224_25_0101",
       "number": 1,
       "description": ""
     },
@@ -5238,6 +5328,11 @@
     },
     {
       "id": "cd_time_26_1031",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_time_26_1201_1100_27_0101_1000",
       "number": 1,
       "description": ""
     },
@@ -6088,6 +6183,16 @@
     },
     {
       "id": "cd_view_shop_costume_item-00065",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_view_shop_costume_item-00067",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_view_shop_costume_item-00067",
       "number": 2,
       "description": ""
     },
@@ -6983,6 +7088,11 @@
     },
     {
       "id": "cd-birthday-shro-2024",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-birthday-shro-2025",
       "number": 1,
       "description": ""
     },
@@ -8764,7 +8874,7 @@
     {
       "id": "cd-dearness_normal-mission_kllj-0001",
       "number": 1,
-      "description": "親密度強化活動結束後"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_kllj-0001",
@@ -8795,6 +8905,36 @@
       "id": "cd-dearness_shro-20",
       "number": 1,
       "description": "篠澤廣的親密度達到Lv20"
+    },
+    {
+      "id": "cd-dearness_someone-20",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_someone-20",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_someone-20",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_someone-20",
+      "number": 4,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_someone-20",
+      "number": 5,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_someone-20",
+      "number": 6,
+      "description": ""
     },
     {
       "id": "cd-dearness_ssmk-20",
@@ -9357,6 +9497,11 @@
       "description": ""
     },
     {
+      "id": "cd-have_costume_hume-cstm-0067",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-have_costume_hume-cstm-0069",
       "number": 1,
       "description": ""
@@ -9389,6 +9534,21 @@
     {
       "id": "cd-have_costume_kllj-cstm-0063",
       "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_kllj-cstm-0067",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_kllj-cstm-0067-hume-cstm-0067",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-have_costume_kllj-cstm-0067-hume-cstm-0067",
+      "number": 2,
       "description": ""
     },
     {
@@ -9678,6 +9838,21 @@
     },
     {
       "id": "cd-highscore_event-ignore",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_background-birthday-shro-2025",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_background-christmas-2025",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-home_background-christmas-2025-02",
       "number": 1,
       "description": ""
     },
@@ -13082,6 +13257,11 @@
       "description": ""
     },
     {
+      "id": "cd-purchase-shop_pack_item-0062",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-purchase-shop_pack_item-1stPeriodHarmonyStar-selection-ticket",
       "number": 1,
       "description": ""
@@ -13118,6 +13298,11 @@
     },
     {
       "id": "cd-ralease_dearness-story-kcna",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-ralease_dearness-story-kllj",
       "number": 1,
       "description": ""
     },
@@ -14092,6 +14277,16 @@
       "description": ""
     },
     {
+      "id": "cd-release-music-inst-all-006",
+      "number": 11,
+      "description": ""
+    },
+    {
+      "id": "cd-release-music-inst-all-006",
+      "number": 12,
+      "description": ""
+    },
+    {
       "id": "cd-release-music-inst-all-007",
       "number": 1,
       "description": ""
@@ -14657,6 +14852,11 @@
       "description": ""
     },
     {
+      "id": "cd-release-music-inst-shro-005",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-release-music-inst-shro-01",
       "number": 1,
       "description": ""
@@ -15072,6 +15272,16 @@
       "description": ""
     },
     {
+      "id": "cd-shop_costume_hume-cstm-0067",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_hume-cstm-0067",
+      "number": 2,
+      "description": ""
+    },
+    {
       "id": "cd-shop_costume_hume-cstm-0069_revival-1",
       "number": 1,
       "description": ""
@@ -15138,6 +15348,16 @@
     },
     {
       "id": "cd-shop_costume_kllj-cstm-0063",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_kllj-cstm-0067",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-shop_costume_kllj-cstm-0067",
       "number": 2,
       "description": ""
     },
@@ -16767,6 +16987,11 @@
       "description": ""
     },
     {
+      "id": "cd-view-shop_pack_item-0062",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-view-shop_pack_item-1stPeriodHarmonyStar-selection-ticket",
       "number": 1,
       "description": ""
@@ -17283,6 +17508,11 @@
     },
     {
       "id": "view-home-boards-christmas-00",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "view-home-boards-christmas-01",
       "number": 1,
       "description": ""
     },

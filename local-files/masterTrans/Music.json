@@ -231,6 +231,11 @@
       "displayTitle": "仮装狂騒曲"
     },
     {
+      "id": "music-all-hmsz-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!"
+    },
+    {
       "id": "music-all-hmsz-008",
       "title": "古今東西ちょちょいのちょい",
       "displayTitle": "古今東西ちょちょいのちょい"
@@ -449,6 +454,11 @@
       "id": "music-all-jsna-005",
       "title": "仮装狂騒曲",
       "displayTitle": "仮装狂騒曲"
+    },
+    {
+      "id": "music-all-jsna-006",
+      "title": "White Night! White Wish!",
+      "displayTitle": "White Night! White Wish!"
     },
     {
       "id": "music-all-jsna-007",
@@ -1384,6 +1394,16 @@
       "id": "music-char-shro-004-inst",
       "title": "サンフェーデッド [Instrumental]",
       "displayTitle": "サンフェーデッド [Instrumental]"
+    },
+    {
+      "id": "music-char-shro-005",
+      "title": "コンテンポラリのダンス",
+      "displayTitle": "コンテンポラリのダンス"
+    },
+    {
+      "id": "music-char-shro-005-inst",
+      "title": "コンテンポラリのダンス [Instrumental]",
+      "displayTitle": "コンテンポラリのダンス [Instrumental]"
     },
     {
       "id": "music-char-ssmk-001",
