@@ -181,9 +181,29 @@
       "description": "初始持有"
     },
     {
+      "id": "atbm-cstm-0053",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】雨夜燕 獲得"
+    },
+    {
+      "id": "atbm-cstm-0054",
+      "name": "Campus mode!!",
+      "description": "【Campus mode!!】雨夜燕的才能開花第4階段 獲得"
+    },
+    {
       "id": "atbm-cstm-0069",
       "name": "兒童罩衫",
       "description": "購買兒童罩衫（雨夜燕）"
+    },
+    {
+      "id": "atbm-cstm-0072",
+      "name": "黃金光輝",
+      "description": "雨夜燕的偶像之路 通關第10關"
+    },
+    {
+      "id": "atbm-cstm-0073",
+      "name": "白金光輝",
+      "description": "雨夜燕的偶像之路 通關第15關"
     },
     {
       "id": "atbm-cstm-0106",
@@ -194,6 +214,11 @@
       "id": "atbm-cstm-0107",
       "name": "理論武装して",
       "description": "【理論武装して】雨夜燕的才能開花第4階段 獲得"
+    },
+    {
+      "id": "atbm-cstm-0110",
+      "name": "漆黑的光芒",
+      "description": "雨夜燕的偶像之路 通關第25關"
     },
     {
       "id": "atbm-cstm-0111",
