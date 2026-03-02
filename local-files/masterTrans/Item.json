@@ -55,13 +55,13 @@
     },
     {
       "id": "item-coin-box-gasha-event-015",
-      "name": "廣島巡演獎章",
+      "name": "廣島巡演代幣",
       "description": "可以在活動扭蛋中使用的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-coin-box-gasha-event-019",
-      "name": "名古屋巡演獎章",
+      "name": "名古屋巡演代幣",
       "description": "可以在活動扭蛋中使用的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
@@ -183,6 +183,12 @@
       "id": "item-dearness-unlock-hrnm",
       "name": "與莉波的記錄之鑰",
       "description": "解鎖姬崎莉波STEP3親密度交流的道具",
+      "acquisitionRouteDescription": "兌換所等方式"
+    },
+    {
+      "id": "item-dearness-unlock-jsna",
+      "name": "與星南的記錄之鑰",
+      "description": "解鎖十王星南STEP3親密度交流的道具",
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
@@ -588,6 +594,12 @@
       "acquisitionRouteDescription": "巡演活動"
     },
     {
+      "id": "item-medal-tour-event-002",
+      "name": "澀谷巡演代幣",
+      "description": "可以在活動兌換所交換各式報酬的道具",
+      "acquisitionRouteDescription": "巡演活動，培育"
+    },
+    {
       "id": "item-memory_exchange-class1",
       "name": "感性硬幣",
       "description": "可以在感性扭蛋中使用的硬幣",
@@ -810,6 +822,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_hmsz-3-015",
+      "name": "[ENDLESS DANCE]秦谷美鈴的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "活動兌換所等方式"
+    },
+    {
       "id": "item-piece-idol_hrnm-1-000",
       "name": "[學園生活]姬崎莉波的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -986,6 +1004,12 @@
     {
       "id": "item-piece-idol_hume-3-012",
       "name": "[Star-mine]花海佑芽的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hume-3-016",
+      "name": "[ENDLESS DANCE]花海佑芽的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -1380,6 +1404,12 @@
       "acquisitionRouteDescription": "巡演活動"
     },
     {
+      "id": "item-play-ticket_tour-event-002",
+      "name": "演唱會挑戰券（澀谷）",
+      "description": "可以在巡演活動中挑戰舞台的道具",
+      "acquisitionRouteDescription": "巡演活動"
+    },
+    {
       "id": "item-produce_continue-1",
       "name": "再挑戰票卷",
       "description": "可以在培育的再次挑戰時使用的票卷",
@@ -1423,6 +1453,12 @@
     },
     {
       "id": "item-research-event-003",
+      "name": "亞紗里老師貼紙",
+      "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-research-event-004",
       "name": "亞紗里老師貼紙",
       "description": "可以在亞紗里老師的培育研討會活動中，重新抽取回憶能力的道具",
       "acquisitionRouteDescription": "培育等方式"

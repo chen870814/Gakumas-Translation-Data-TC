@@ -198,6 +198,54 @@
       "name": "讓葛城莉莉婭通過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
+      "id": "dearness_event_relaunch_fktn-001",
+      "name": "將藤田琴音的Da.能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_fktn-002",
+      "name": "在藤田琴音的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_fktn-003",
+      "name": "讓藤田琴音通關{threshold}次 Da.課程吧"
+    },
+    {
+      "id": "dearness_event_relaunch_fktn-004",
+      "name": "讓藤田琴音通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_relaunch_shro-001",
+      "name": "將篠澤廣的Vo.能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_shro-002",
+      "name": "在篠澤廣的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_shro-003",
+      "name": "讓篠澤廣通過{threshold}次 Vo.課程吧"
+    },
+    {
+      "id": "dearness_event_relaunch_shro-004",
+      "name": "讓篠澤廣通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_relaunch_ssmk-001",
+      "name": "將紫雲清夏的Da.能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_ssmk-002",
+      "name": "在紫雲清夏的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_ssmk-003",
+      "name": "讓紫雲清夏通關{threshold}次 Da.課程吧"
+    },
+    {
+      "id": "dearness_event_relaunch_ssmk-004",
+      "name": "讓紫雲清夏通過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
       "id": "dearness_event_shro-001",
       "name": "將篠澤廣的Vo.能力值培養至1800以上並完成培育"
     },
@@ -4898,6 +4946,38 @@
       "name": "在持有技能卡「虹色夢想家」的狀態下完成培育吧"
     },
     {
+      "id": "mission-research-event-004-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_10",
+      "name": "在持有技能卡「天真爛漫」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_11",
+      "name": "在持有技能卡「存在感」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_12",
+      "name": "完成{threshold}次SP課程吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_2",
+      "name": "讓方案：理性的培育用偶像取得{threshold}次最終考試合格吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_3",
+      "name": "在培育的諮詢中兌換{threshold}次吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_8",
+      "name": "在持有技能卡「國民級偶像」的狀態下完成培育吧"
+    },
+    {
+      "id": "mission-research-event-004-mission_9",
+      "name": "在持有技能卡「掌聲不息」的狀態下完成培育吧"
+    },
+    {
       "id": "mission-story-event-001-mission_1",
       "name": "登入{threshold}天吧"
     },
@@ -5211,6 +5291,34 @@
     },
     {
       "id": "mission-tour-event-001-mission_7",
+      "name": "完成{threshold}次SP課程吧"
+    },
+    {
+      "id": "mission-tour-event-002-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-tour-event-002-mission_2",
+      "name": "通過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-tour-event-002-mission_3",
+      "name": "在巡演活動中挑戰並通關{threshold}次吧"
+    },
+    {
+      "id": "mission-tour-event-002-mission_4",
+      "name": "在巡演活動中挑戰並通關應援共鳴Lv1以上的舞台{threshold}次吧"
+    },
+    {
+      "id": "mission-tour-event-002-mission_5",
+      "name": "在巡演活動中挑戰並通關應援共鳴Lv2以上的舞台{threshold}次吧"
+    },
+    {
+      "id": "mission-tour-event-002-mission_6",
+      "name": "在巡演活動中挑戰並通關應援共鳴Lv3以上的舞台{threshold}次吧"
+    },
+    {
+      "id": "mission-tour-event-002-mission_7",
       "name": "完成{threshold}次SP課程吧"
     },
     {
@@ -6234,6 +6342,30 @@
       "name": "【Superlative】將秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hmsz-3-015-01",
+      "name": "【ENDLESS DANCE】在秦谷美鈴的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-015-02",
+      "name": "【ENDLESS DANCE】將秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-015-03",
+      "name": "【ENDLESS DANCE】在秦谷美鈴的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-015-04",
+      "name": "【ENDLESS DANCE】將秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-015-05",
+      "name": "【ENDLESS DANCE】將秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-015-06",
+      "name": "【ENDLESS DANCE】將秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-hrnm-2-000-04",
       "name": "【『私らしさ』のはじまり】將姬崎莉波的特訓階段提升至{threshold}級"
     },
@@ -6760,6 +6892,30 @@
     {
       "id": "achieve-i_card-hume-3-012-06",
       "name": "【Star-mine】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-016-01",
+      "name": "【ENDLESS DANCE】在花海佑芽的培育中通過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hume-3-016-02",
+      "name": "【ENDLESS DANCE】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-016-03",
+      "name": "【ENDLESS DANCE】在花海佑芽的培育中獲得了{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hume-3-016-04",
+      "name": "【ENDLESS DANCE】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-016-05",
+      "name": "【ENDLESS DANCE】將花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-016-06",
+      "name": "【ENDLESS DANCE】將花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-2-000-01",

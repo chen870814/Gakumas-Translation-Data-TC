@@ -877,6 +877,51 @@
       "description": ""
     },
     {
+      "id": "cd_dis-costume_head_fktn-hair-0032",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_dis-costume_head_fktn-hair-0032",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_dis-costume_head_fktn-hair-0032",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd_dis-costume_head_shro-hair-0031",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_dis-costume_head_shro-hair-0031",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_dis-costume_head_shro-hair-0031",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd_dis-costume_head_ssmk-hair-0030",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_dis-costume_head_ssmk-hair-0030",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd_dis-costume_head_ssmk-hair-0030",
+      "number": 3,
+      "description": ""
+    },
+    {
       "id": "cd_draw_gasha-000240-ssr-idol-1",
       "number": 1,
       "description": ""
@@ -1008,6 +1053,21 @@
     },
     {
       "id": "cd_gasha_not_have_ticket_10",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_have_costume_head_fktn-hair-0032",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_have_costume_head_shro-hair-0031",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_have_costume_head_ssmk-hair-0030",
       "number": 1,
       "description": ""
     },
@@ -1697,12 +1757,27 @@
       "description": ""
     },
     {
+      "id": "cd_login_bonus_wednesday-26-02018",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_login_bonus_wednesday-26-0204",
       "number": 1,
       "description": ""
     },
     {
       "id": "cd_login_bonus_wednesday-26-0211",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0219",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd_login_bonus_wednesday-26-0225",
       "number": 1,
       "description": ""
     },
@@ -2722,6 +2797,11 @@
       "description": ""
     },
     {
+      "id": "cd_memory-dearness-unlock-jsna-release_open",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd_memory-dearness-unlock-kcna-release_open",
       "number": 1,
       "description": ""
@@ -3605,6 +3685,11 @@
       "id": "cd_producer_level-058",
       "number": 1,
       "description": "製作人Lv58以上即可解鎖"
+    },
+    {
+      "id": "cd_producer_level-075",
+      "number": 1,
+      "description": "製作人Lv75以上即可解鎖"
     },
     {
       "id": "cd_producerlevel-10",
@@ -9537,6 +9622,51 @@
       "description": "將月村手毬的親密度Lv提升到27"
     },
     {
+      "id": "cd-dearness_level10over-ssmk-shro-fktn",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-ssmk-shro-fktn",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level10over-ssmk-shro-fktn",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-ssmk-shro-fktn",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-ssmk-shro-fktn",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level20-ssmk-shro-fktn",
+      "number": 3,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-ssmk-shro-fktn",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-ssmk-shro-fktn",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-dearness_level27under-ssmk-shro-fktn",
+      "number": 3,
+      "description": ""
+    },
+    {
       "id": "cd-dearness_normal-mission_amao-0001",
       "number": 1,
       "description": "親密度達到Lv20時"
@@ -14297,6 +14427,11 @@
       "description": ""
     },
     {
+      "id": "cd-ralease_dearness-story-jsna",
+      "number": 1,
+      "description": ""
+    },
+    {
       "id": "cd-ralease_dearness-story-kcna",
       "number": 1,
       "description": ""
@@ -16639,6 +16774,26 @@
     {
       "id": "cd-shop_pack_item-item-first-live_003",
       "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_dearness-event-000-rev-002-add-001",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_dearness-event-000-rev-002-add-001",
+      "number": 2,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_gasha-00760-pickup-000",
+      "number": 1,
+      "description": ""
+    },
+    {
+      "id": "cd-startup_notification_gasha-00760-pickup-000",
+      "number": 2,
       "description": ""
     },
     {
