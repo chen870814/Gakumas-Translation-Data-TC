@@ -131,6 +131,11 @@
       "description": "【見て】有村麻央 獲得"
     },
     {
+      "id": "costume_head_amao-hair-0035",
+      "name": "見て（局部挑染）",
+      "description": "【見て】有村麻央 獲得"
+    },
+    {
       "id": "costume_head_atbm-cstm-0000",
       "name": "初（hajime）",
       "description": "初始持有"
@@ -596,6 +601,11 @@
       "description": "高級任務通行證 2026年2月 獲得"
     },
     {
+      "id": "costume_head_hrnm-hair-0033",
+      "name": "36℃ U･B･U（局部挑染）",
+      "description": "【36℃ U･B･U】姬崎莉波 獲得"
+    },
+    {
       "id": "costume_head_hrnm-schl-0000",
       "name": "日常髮型",
       "description": "初始持有"
@@ -931,6 +941,16 @@
       "description": "【Star-mine】十王星南的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_jsna-cstm-0126",
+      "name": "ENDLESS DANCE",
+      "description": "【ENDLESS DANCE】十王星南 獲得"
+    },
+    {
+      "id": "costume_head_jsna-cstm-0127",
+      "name": "ENDLESS DANCE",
+      "description": "【ENDLESS DANCE】十王星南的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_jsna-hair-0001",
       "name": "紫陽花髮飾",
       "description": "購買紫陽花髮飾（十王星南）"
@@ -1113,6 +1133,11 @@
     {
       "id": "costume_head_kcna-hair-0013",
       "name": "空と約束（簡單搭配）",
+      "description": "【空と約束】倉本千奈 獲得"
+    },
+    {
+      "id": "costume_head_kcna-hair-0034",
+      "name": "空と約束（局部挑染）",
       "description": "【空と約束】倉本千奈 獲得"
     },
     {
