@@ -4225,7 +4225,7 @@
     "produce.ranking.list.subtitle.ranking": "TOP100",
     "produce.ranking.list.title_name": "<nobr>{0}</nobr>",
     "produce.ranking.list.title_suffix": "排行榜",
-    "produce.ranking.no_season": "没有舉辦中的賽季",
+    "produce.ranking.no_season": "沒有舉辦中的賽季",
     "produce.ranking.ranking_reward.season_term_range": "{0} ~ {1}",
     "produce.ranking.season_select_overlay.title": "<size=28>{0}\n排行榜紀錄</size>",
     "produce.ranking.sort.grade": "評價等級",
